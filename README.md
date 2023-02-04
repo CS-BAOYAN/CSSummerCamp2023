@@ -4,6 +4,16 @@
 
 另附[保研小白必看的往年经验贴大全，建议全部看完至少掌握保研流程，否则容易问一些很显然的问题](https://github.com/CS-BAOYAN/CS-BAOYAN-2023)。
 
+# 澳门大学
+
+【报名截止：2023.2.20】[澳门大学&广东省智能科学技术研究院联培（可视化，知识图谱）](https://mp.weixin.qq.com/s/UptD231MDxDdl54PteALcg)
+
+【报名截止：2023.2.20】[澳门大学&广东省智能科学技术研究院联培（类脑）](https://mp.weixin.qq.com/s/SniRr_4xNk23BBImXh3Dsg)
+
+# 澳门科技大学
+
+【报名截止：2023.2.15】[澳门科技大学&广东省智能科学研究院联培（类脑）](https://mp.weixin.qq.com/s/6dX0-U-4hnvO_t7v4yHrVQ)
+
 
 # 致谢
 
