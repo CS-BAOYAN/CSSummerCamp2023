@@ -7,11 +7,14 @@
 # 上海交通大学
 
 【报名截止：2023.3.5】[高级金融学院金融硕士项目 迷你营1 北京](https://apply.saif.sjtu.edu.cn/user/login/saif/42)
-【报名截止：2023.3.26】[高级金融学院金融硕士项目 迷你营2 上海](https://apply.saif.sjtu.edu.cn/user/login/saif/42)
-【报名截止：2023.5.1】[高级金融学院金融硕士项目 迷你营3 上海](https://apply.saif.sjtu.edu.cn/user/login/saif/42)
-【报名截止：2023.5.14】[高级金融学院金融硕士项目 迷你营4 北京](https://apply.saif.sjtu.edu.cn/user/login/saif/42)
-【报名截止：2023.6.25】[高级金融学院金融硕士项目 夏令营 上海](https://apply.saif.sjtu.edu.cn/user/login/saif/42)
 
+【报名截止：2023.3.26】[高级金融学院金融硕士项目 迷你营2 上海](https://apply.saif.sjtu.edu.cn/user/login/saif/42)
+
+【报名截止：2023.5.1】[高级金融学院金融硕士项目 迷你营3 上海](https://apply.saif.sjtu.edu.cn/user/login/saif/42)
+
+【报名截止：2023.5.14】[高级金融学院金融硕士项目 迷你营4 北京](https://apply.saif.sjtu.edu.cn/user/login/saif/42)
+
+【报名截止：2023.6.25】[高级金融学院金融硕士项目 夏令营 上海](https://apply.saif.sjtu.edu.cn/user/login/saif/42)
 
 # 中国科学院自动化研究所
 
