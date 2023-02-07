@@ -4,6 +4,15 @@
 
 另附[保研小白必看的往年经验贴大全，建议全部看完至少掌握保研流程，否则容易问一些很显然的问题](https://github.com/CS-BAOYAN/CS-BAOYAN-2023)。
 
+# 上海交通大学
+
+【报名截止：2023.3.5】[高级金融学院金融硕士项目 迷你营1 北京](https://apply.saif.sjtu.edu.cn/user/login/saif/42)
+【报名截止：2023.3.26】[高级金融学院金融硕士项目 迷你营2 上海](https://apply.saif.sjtu.edu.cn/user/login/saif/42)
+【报名截止：2023.5.1】[高级金融学院金融硕士项目 迷你营3 上海](https://apply.saif.sjtu.edu.cn/user/login/saif/42)
+【报名截止：2023.5.14】[高级金融学院金融硕士项目 迷你营4 北京](https://apply.saif.sjtu.edu.cn/user/login/saif/42)
+【报名截止：2023.6.25】[高级金融学院金融硕士项目 夏令营 上海](https://apply.saif.sjtu.edu.cn/user/login/saif/42)
+
+
 # 中国科学院自动化研究所
 
 【报名截止：2023.2.28】[“人工智能菁英班”项目](https://f.wps.cn/w/5Po92dhl)
