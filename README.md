@@ -18,6 +18,11 @@
 
 【报名截止：2023.2.15】[澳门科技大学&广东省智能科学研究院联培（类脑）](https://mp.weixin.qq.com/s/6dX0-U-4hnvO_t7v4yHrVQ)
 
+# 香港中文大学（深圳）
+
+【报名截止：2023.2.19】[Mini营北京场 第一轮](https://admissionsfi.cuhk.edu.cn)
+
+【报名截止：2023.4.9】[Mini营北京场 第二轮](https://admissionsfi.cuhk.edu.cn)
 
 # 致谢
 
