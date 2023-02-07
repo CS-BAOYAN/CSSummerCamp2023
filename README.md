@@ -20,9 +20,9 @@
 
 # 香港中文大学（深圳）
 
-【报名截止：2023.2.19】[Mini营北京场 第一轮](https://admissionsfi.cuhk.edu.cn)
+【报名截止：2023.2.19】[高等金融研究院 Mini营北京场 第一轮](https://admissionsfi.cuhk.edu.cn)
 
-【报名截止：2023.4.9】[Mini营北京场 第二轮](https://admissionsfi.cuhk.edu.cn)
+【报名截止：2023.4.9】[高等金融研究院 Mini营北京场 第二轮](https://admissionsfi.cuhk.edu.cn)
 
 # 致谢
 
