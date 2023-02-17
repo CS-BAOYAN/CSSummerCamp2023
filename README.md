@@ -59,3 +59,24 @@
 关于2023年**CS保研实验室/导师招生广告**的汇总请查看[CSLabInfo2023](https://github.com/CS-BAOYAN/CSLabInfo2023)。该仓库仅提供招生信息发布渠道，不负责验证这些信息的完整性、准确性、时效性，不保证使用这些信息而获得的结果。对于因信息内容可能与实际情况不一致而导致的任何正面或负面影响，仓库管理者亦不承担任何责任或义务，请各位自行辨别。
 
 # 【注意】：本repo为非盈利项目，对具体内容不承担各项责任。
+
+# Copyright
+```
+# Copyright      2023  (Yifan   Yang, https://github.com/yfyeung,
+#                       Zengkai Peng, https://github.com/zengkaipeng,
+#                       Ziyang  Ma,   https://github.com/ddlBoJack)
+#
+# See ./LICENSE for clarification regarding multiple authors
+#
+# Licensed under the GNU GENERAL PUBLIC LICENSE (the "License");
+# you may not use this file except in compliance with the License.
+# You may obtain a copy of the License at
+#
+#     https://www.gnu.org/licenses/gpl-3.0.html
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+```
