@@ -12,6 +12,12 @@
 
 【报名截止：2023.4.14】[统计学研究中心](http://www.stat.tsinghua.edu.cn/admissions/summer-camp-enroll/)
 
+## 五道口金融
+
+【报名截止：2023.8.31】[夏令营](https://www.pbcsf.tsinghua.edu.cn/info/1147/6362.htm)
+
+~~【报名截止：2023.3.10】[春令营直博](https://www.pbcsf.tsinghua.edu.cn/info/1147/6362.htm)~~
+
 # 上海交通大学
 
 ## 安泰
