@@ -45,6 +45,8 @@
 
 # 复旦大学
 
+## 泛海
+
 【报名截止：2023.7.24】[泛海国际金融学院 夏令营](https://mp.weixin.qq.com/s/suPsgauwIJ2bKJpI3V3Rfw)
 
 【报名截止：2023.5.8】[泛海国际金融学院 体验营3 上海](https://mp.weixin.qq.com/s/suPsgauwIJ2bKJpI3V3Rfw)
