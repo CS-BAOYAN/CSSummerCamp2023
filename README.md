@@ -18,7 +18,7 @@
 
 【报名截止：2023.3.26】[高级金融学院 迷你营2 上海](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)
 
-~~【报名截止：2023.3.5】[高级金融学院 迷你营1 北京](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)
+~~【报名截止：2023.3.5】[高级金融学院 迷你营1 北京](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)~~
 
 # 复旦大学
 
@@ -32,23 +32,23 @@
 
 # 中国科学院自动化研究所
 
-~~【报名截止：2023.2.28】[“人工智能菁英班”项目](https://mp.weixin.qq.com/s/7AuOk-fl3zrHBZ8FOC75Vw)
+~~【报名截止：2023.2.28】[“人工智能菁英班”项目](https://mp.weixin.qq.com/s/7AuOk-fl3zrHBZ8FOC75Vw)~~
 
 # 澳门大学
 
-~~【报名截止：2023.2.20】[澳门大学&广东省智能科学技术研究院联培（可视化，知识图谱）](https://mp.weixin.qq.com/s/UptD231MDxDdl54PteALcg)
+~~【报名截止：2023.2.20】[澳门大学&广东省智能科学技术研究院联培（可视化，知识图谱）](https://mp.weixin.qq.com/s/UptD231MDxDdl54PteALcg)~~
 
-~~【报名截止：2023.2.20】[澳门大学&广东省智能科学技术研究院联培（类脑）](https://mp.weixin.qq.com/s/SniRr_4xNk23BBImXh3Dsg)
+~~【报名截止：2023.2.20】[澳门大学&广东省智能科学技术研究院联培（类脑）](https://mp.weixin.qq.com/s/SniRr_4xNk23BBImXh3Dsg)~~
 
 # 澳门科技大学
 
-~~【报名截止：2023.2.15】[澳门科技大学&广东省智能科学研究院联培（类脑）](https://mp.weixin.qq.com/s/6dX0-U-4hnvO_t7v4yHrVQ)
+~~【报名截止：2023.2.15】[澳门科技大学&广东省智能科学研究院联培（类脑）](https://mp.weixin.qq.com/s/6dX0-U-4hnvO_t7v4yHrVQ)~~
 
 # 香港中文大学（深圳）
 
 【报名截止：2023.4.9】[高等金融研究院 Mini营北京场 第二轮](https://mp.weixin.qq.com/s?__biz=Mzg3NzA4MjI1OA==&mid=2247501176&idx=1&sn=2c2df980cb391387358e8d2aadf5f926&chksm=cf2ae685f85d6f933e70eadaeac3dc56e597210f4cd0f65709c0d60cd0661e172103b3c75f33&scene=178&cur_album_id=2709807278790606852#rd)
 
-~~【报名截止：2023.2.19】[高等金融研究院 Mini营北京场 第一轮](https://mp.weixin.qq.com/s?__biz=Mzg3NzA4MjI1OA==&mid=2247501176&idx=1&sn=2c2df980cb391387358e8d2aadf5f926&chksm=cf2ae685f85d6f933e70eadaeac3dc56e597210f4cd0f65709c0d60cd0661e172103b3c75f33&scene=178&cur_album_id=2709807278790606852#rd)
+~~【报名截止：2023.2.19】[高等金融研究院 Mini营北京场 第一轮](https://mp.weixin.qq.com/s?__biz=Mzg3NzA4MjI1OA==&mid=2247501176&idx=1&sn=2c2df980cb391387358e8d2aadf5f926&chksm=cf2ae685f85d6f933e70eadaeac3dc56e597210f4cd0f65709c0d60cd0661e172103b3c75f33&scene=178&cur_album_id=2709807278790606852#rd)~~
 
 # 致谢
 
