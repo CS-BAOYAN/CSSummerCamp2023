@@ -80,8 +80,6 @@
 
 2023: [@yfyeung](https://github.com/yfyeung)
 
-**【注意】本repo为非盈利项目，对具体内容不承担各项责任。**
-
 # Copyright
 ```
 # Copyright      2023  (Yifan   Yang, https://github.com/yfyeung,
@@ -100,3 +98,4 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 ```
+**【注意】本repo为非盈利项目，对具体内容不承担各项责任。**
