@@ -44,7 +44,6 @@
 
 【报名截止：2023.3.25】[优才营 春季营金融硕士 北京](https://www.acem.sjtu.edu.cn/notices/75833.html)
 
-
 ## 高金
 
 【报名截止：2023.6.25】[高级金融学院 夏令营](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)
@@ -58,6 +57,14 @@
 ~~【报名截止：2023.3.5】[高级金融学院 迷你营1 北京](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)~~
 
 # 复旦大学
+
+## 管院
+
+【报名截止：2023.6.26】[7月领创营](https://www.fdsm.fudan.edu.cn/mf/mf1556953405097)
+
+【报名截止：2023.5.8】[5月领创营](https://www.fdsm.fudan.edu.cn/mf/mf1556953405097)
+
+【报名截止：2023.3.27】[4月领创营](https://www.fdsm.fudan.edu.cn/mf/mf1556953405097)
 
 ## 泛海
 
