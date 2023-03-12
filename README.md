@@ -12,9 +12,17 @@
 
 【报名截止：2023.4.14】[统计学研究中心](http://www.stat.tsinghua.edu.cn/admissions/summer-camp-enroll/)
 
+## 经管
+
+【报名截止：2023/九月上旬】[九月批次](https://masters.sem.tsinghua.edu.cn/jinrongshuoshi2024jituimianshuoming.pdf)
+
+【报名截止：2023.5.20】[第二批](https://masters.sem.tsinghua.edu.cn/jinrongshuoshi2024jituimianshuoming.pdf)
+
+【报名截止：2023.4.8】[第一批](https://masters.sem.tsinghua.edu.cn/jinrongshuoshi2024jituimianshuoming.pdf)
+
 ## 五道口金融
 
-【报名截止：2023.8.31】[夏令营](https://www.pbcsf.tsinghua.edu.cn/info/1147/6362.htm)
+【报名截止：2023.8.31】[夏令营直博](https://www.pbcsf.tsinghua.edu.cn/info/1147/6362.htm)
 
 ~~【报名截止：2023.3.10】[春令营直博](https://www.pbcsf.tsinghua.edu.cn/info/1147/6362.htm)~~
 
