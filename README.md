@@ -14,6 +14,25 @@
 
 # 上海交通大学
 
+## 安泰
+
+【报名截止：2023.6.15】[优才营 夏季营直博 上海](https://www.acem.sjtu.edu.cn/notices/75833.html)
+
+【报名截止：2023.6.15】[优才营 夏季营学硕 上海](https://www.acem.sjtu.edu.cn/notices/75833.html)
+
+【报名截止：2023.6.15】[优才营 夏季营会计审计 上海](https://www.acem.sjtu.edu.cn/notices/75833.html)
+
+【报名截止：2023.6.15】[优才营 夏季营金融硕士 上海](https://www.acem.sjtu.edu.cn/notices/75833.html)
+
+【报名截止：2023.4.20】[优才营 春季营会计审计 上海](https://www.acem.sjtu.edu.cn/notices/75833.html)
+
+【报名截止：2023.4.20】[优才营 春季营金融硕士 上海](https://www.acem.sjtu.edu.cn/notices/75833.html)
+
+【报名截止：2023.3.25】[优才营 春季营金融硕士 北京](https://www.acem.sjtu.edu.cn/notices/75833.html)
+
+
+## 高金
+
 【报名截止：2023.6.25】[高级金融学院 夏令营](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)
 
 【报名截止：2023.5.14】[高级金融学院 迷你营4 北京](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)
