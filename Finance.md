@@ -6,11 +6,13 @@
 
 ## 经管
 
-【报名截止：2023/九月上旬】[九月批次](https://masters.sem.tsinghua.edu.cn/jinrongshuoshi2024jituimianshuoming.pdf)
+【报名截止：2023.6.4】[清华-哥大 商务分析双硕士](https://masters.sem.tsinghua.edu.cn/tzgg/1649645196652024935.pdf)
 
-【报名截止：2023.5.20】[第二批](https://masters.sem.tsinghua.edu.cn/jinrongshuoshi2024jituimianshuoming.pdf)
+【报名截止：2023.6.4】[管理硕士](https://masters.sem.tsinghua.edu.cn/qinghuajingguanxueyuanguanlishuoshixiangmu2024jituimianzhaoshengshuoming.pdf)
 
-【报名截止：2023.4.8】[第一批](https://masters.sem.tsinghua.edu.cn/jinrongshuoshi2024jituimianshuoming.pdf)
+【报名截止：2023.5.20】[金融硕士 第二批](https://masters.sem.tsinghua.edu.cn/jinrongshuoshi2024jituimianshuoming.pdf)
+
+【报名截止：2023.4.8】[金融硕士 第一批](https://masters.sem.tsinghua.edu.cn/jinrongshuoshi2024jituimianshuoming.pdf)
 
 ## 五道口金融
 
@@ -66,7 +68,7 @@
 
 【报名截止：2023.4.10】[泛海国际金融学院 体验营2 北京](https://mp.weixin.qq.com/s/suPsgauwIJ2bKJpI3V3Rfw)
 
-【报名截止：2023.3.13】[泛海国际金融学院 体验营1 上海](https://mp.weixin.qq.com/s/suPsgauwIJ2bKJpI3V3Rfw)
+~~【报名截止：2023.3.13】[泛海国际金融学院 体验营1 上海](https://mp.weixin.qq.com/s/suPsgauwIJ2bKJpI3V3Rfw)~~
 
 # 香港中文大学（深圳）
 
