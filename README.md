@@ -18,6 +18,10 @@
 
 【报名截止：2023.4.14】[统计学研究中心](http://www.stat.tsinghua.edu.cn/admissions/summer-camp-enroll/)
 
+# 上海交通大学
+
+【报名截止：2023.3.30】[密西根学院 “科研见习项目”](https://jwc.sjtu.edu.cn/info/1222/12276.htm)
+
 # 中国科学院自动化研究所
 
 ~~【报名截止：2023.2.28】[“人工智能菁英班”项目](https://mp.weixin.qq.com/s/7AuOk-fl3zrHBZ8FOC75Vw)~~
