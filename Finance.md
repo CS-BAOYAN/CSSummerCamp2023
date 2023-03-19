@@ -2,6 +2,16 @@
 
 关于**2023年经管类夏令营通知公告**的汇总。（本仓库将随各校通知的发布实时更新)
 
+# 北京大学
+
+## 光华
+
+【报名截止：2023.5.8】[会计硕士 (MPAcc)](https://apply.gsm.pku.edu.cn/#/pm/status)
+ 
+【报名截止：2023.5.8】[金融硕士 商业分析(BA)](https://apply.gsm.pku.edu.cn/#/pm/status)
+
+【报名截止：2023.4.10】[金融硕士 金融专业(MFin)](https://apply.gsm.pku.edu.cn/#/pm/status)
+
 # 清华大学
 
 ## 经管
