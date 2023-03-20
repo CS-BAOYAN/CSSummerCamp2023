@@ -16,6 +16,8 @@
 
 # 清华大学
 
+【报名截止：2023.4.30】[自动化系智能与网络化系统研究中心](https://mp.weixin.qq.com/s/V93_HfSlbGKiCPTlT2qaiA)
+
 【报名截止：2023.4.14】[统计学研究中心](http://www.stat.tsinghua.edu.cn/admissions/summer-camp-enroll/)
 
 # 上海交通大学
