@@ -6,6 +6,10 @@
 
 另附[保研小白必看的往年经验贴大全，建议全部看完至少掌握保研流程，否则容易问一些很显然的问题](https://github.com/CS-BAOYAN/CS-BAOYAN-2023)。
 
+# 中国科学院数学与系统科学研究院
+
+【报名截止：2023.4.16】[推荐免试研究生选拔](http://www.amss.ac.cn/yjsjy/zs/sszs/202303/t20230322_6707035.html)
+
 # 香港大学
 
 【报名截止：2023.5.1】[HKU CS Early Recruitment Scheme for M.Phil. and Ph.D.](https://i.cs.hku.hk/~gradappl/index.html)
