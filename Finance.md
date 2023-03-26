@@ -46,7 +46,7 @@
 
 【报名截止：2023.4.20】[优才营 春季营金融硕士 上海](https://www.acem.sjtu.edu.cn/notices/75833.html)
 
-【报名截止：2023.3.25】[优才营 春季营金融硕士 北京](https://www.acem.sjtu.edu.cn/notices/75833.html)
+~~【报名截止：2023.3.25】[优才营 春季营金融硕士 北京](https://www.acem.sjtu.edu.cn/notices/75833.html)~~
 
 ## 高金
 
