@@ -56,7 +56,7 @@
 
 【报名截止：2023.5.1】[高级金融学院 迷你营3 上海](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)
 
-【报名截止：2023.3.26】[高级金融学院 迷你营2 上海](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)
+~~【报名截止：2023.3.26】[高级金融学院 迷你营2 上海](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)~~
 
 ~~【报名截止：2023.3.5】[高级金融学院 迷你营1 北京](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)~~
 
