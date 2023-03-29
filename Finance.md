@@ -68,7 +68,7 @@
 
 【报名截止：2023.5.8】[5月领创营](https://www.fdsm.fudan.edu.cn/mf/mf1556953405097)
 
-【报名截止：2023.3.27】[4月领创营](https://www.fdsm.fudan.edu.cn/mf/mf1556953405097)
+~~【报名截止：2023.3.27】[4月领创营](https://www.fdsm.fudan.edu.cn/mf/mf1556953405097)~~
 
 ## 泛海
 
