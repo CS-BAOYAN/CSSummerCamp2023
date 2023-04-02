@@ -72,6 +72,8 @@
 
 ## 经济学院
 
+【报名截止：2023.5.10】[夏令营 直博](https://econ.fudan.edu.cn/info/1307/21021.htm)
+
 【报名截止：2023.5.10】[夏令营 金融专硕](https://econ.fudan.edu.cn/info/1519/21031.htm)
 
 ## 管理学院
