@@ -30,6 +30,12 @@
 
 【报名截止：2023.8.31】[夏令营直博](https://www.pbcsf.tsinghua.edu.cn/info/1147/6362.htm)
 
+【报名截止：2023.8.31】[金融硕士 第三批](https://www.pbcsf.tsinghua.edu.cn/info/1146/6447.htm)
+
+【报名截止：2023.5.20】[金融硕士 第二批](https://www.pbcsf.tsinghua.edu.cn/info/1146/6447.htm)
+
+【报名截止：2023.4.8】[金融硕士 第一批](https://www.pbcsf.tsinghua.edu.cn/info/1146/6447.htm)
+
 ~~【报名截止：2023.3.10】[春令营直博](https://www.pbcsf.tsinghua.edu.cn/info/1147/6362.htm)~~
 
 # 上海交通大学
