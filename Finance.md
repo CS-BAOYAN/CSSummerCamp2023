@@ -24,7 +24,7 @@
 
 【报名截止：2023.5.12】[直博](http://pg.sem.tsinghua.edu.cn/qinghuajingguan2023nianyouxiudaxueshengboshixialingyingbaomingtongzhi-benkezhiboshiyong.pdf)
 
-【报名截止：2023.4.8】[金融硕士 第一批](https://masters.sem.tsinghua.edu.cn/jinrongshuoshi2024jituimianshuoming.pdf)
+~~【报名截止：2023.4.8】[金融硕士 第一批](https://masters.sem.tsinghua.edu.cn/jinrongshuoshi2024jituimianshuoming.pdf)~~
 
 ## 五道口金融
 
