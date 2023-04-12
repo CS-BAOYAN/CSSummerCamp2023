@@ -10,7 +10,7 @@
  
 【报名截止：2023.5.8】[金融硕士 商业分析(BA)](https://apply.gsm.pku.edu.cn/#/pm/status)
 
-【报名截止：2023.4.10】[金融硕士 金融专业(MFin)](https://apply.gsm.pku.edu.cn/#/pm/status)
+~~【报名截止：2023.4.10】[金融硕士 金融专业(MFin)](https://apply.gsm.pku.edu.cn/#/pm/status)~~
 
 # 清华大学
 
@@ -94,7 +94,7 @@
 
 【报名截止：2023.5.8】[泛海国际金融学院 体验营3 上海](https://mp.weixin.qq.com/s/suPsgauwIJ2bKJpI3V3Rfw)
 
-【报名截止：2023.4.10】[泛海国际金融学院 体验营2 北京](https://mp.weixin.qq.com/s/suPsgauwIJ2bKJpI3V3Rfw)
+~~【报名截止：2023.4.10】[泛海国际金融学院 体验营2 北京](https://mp.weixin.qq.com/s/suPsgauwIJ2bKJpI3V3Rfw)~~
 
 ~~【报名截止：2023.3.13】[泛海国际金融学院 体验营1 上海](https://mp.weixin.qq.com/s/suPsgauwIJ2bKJpI3V3Rfw)~~
 
