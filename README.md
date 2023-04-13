@@ -8,7 +8,7 @@
 
 # 南京大学
 
-【报名截止：2023.6.1】[软件所 本科生开放日](https://cs.nju.edu.cn/ics/recruit/index.html)
+【报名截止：2023.6.1】[计算机软件研究所 本科生开放日](https://cs.nju.edu.cn/ics/recruit/index.html)
 
 # 中国科学院空天信息创新研究院
 
