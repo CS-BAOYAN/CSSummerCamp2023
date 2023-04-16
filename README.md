@@ -40,13 +40,13 @@
 
 # 中国科学院数学与系统科学研究院
 
-~~【报名截止：2023.4.16】[推荐免试研究生选拔](http://www.amss.ac.cn/yjsjy/zs/sszs/202303/t20230322_6707035.html)~~
+【报名截止：2023.4.16】[推荐免试研究生选拔](http://www.amss.ac.cn/yjsjy/zs/sszs/202303/t20230322_6707035.html)
 
 # 清华大学
 
 【报名截止：2023.4.30】[自动化系智能与网络化系统研究中心](https://mp.weixin.qq.com/s/V93_HfSlbGKiCPTlT2qaiA)
 
-【报名截止：2023.4.14】[统计学研究中心](http://www.stat.tsinghua.edu.cn/admissions/summer-camp-enroll/)
+~~【报名截止：2023.4.14】[统计学研究中心](http://www.stat.tsinghua.edu.cn/admissions/summer-camp-enroll/)~~
 
 # 上海交通大学
 
