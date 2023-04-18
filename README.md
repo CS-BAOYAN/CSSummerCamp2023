@@ -6,6 +6,10 @@
 
 另附[保研小白必看的往年经验贴大全，建议全部看完至少掌握保研流程，否则容易问一些很显然的问题](https://github.com/CS-BAOYAN/CS-BAOYAN-2023)。
 
+# 杭州电子科技大学
+
+【报名截止：2023.8.1】[智能信息处理实验室 夏令营](https://mp.weixin.qq.com/s/eRH3XjcxzjGSw4MjDg_5gw)
+
 # 南京信息工程大学
 
 【报名截止：2023.6.15】[人工智能学院（未来技术学院）夏令营 第一轮](https://rgzn.nuist.edu.cn/info/1033/2842.htm)
