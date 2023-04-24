@@ -6,17 +6,26 @@
 
 另附[保研小白必看的往年经验贴大全，建议全部看完至少掌握保研流程，否则容易问一些很显然的问题](https://github.com/CS-BAOYAN/CS-BAOYAN-2023)。
 
+# 清华大学
+
+
+【报名截止：2023.5.15】[交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/2023/appinfo.php)
+
+【报名截止：2023.4.30】[自动化系智能与网络化系统研究中心](https://mp.weixin.qq.com/s/V93_HfSlbGKiCPTlT2qaiA)
+
+~~【报名截止：2023.4.14】[统计学研究中心](http://www.stat.tsinghua.edu.cn/admissions/summer-camp-enroll/)~~
+
 # 南京大学
 
 【报名截止：2023.5.15】[LAMDA](http://www.lamda.nju.edu.cn/recruit-2024/recruit-2024.html)
 
 # 吉林大学
 
-【报名截止：2023.5.20】[软件学院 夏令营](https://mp.weixin.qq.com/s/_AmyjqmMfr3iQ1MFXpx7Ag)
+【报名截止：2023.5.20】[软件学院](https://mp.weixin.qq.com/s/_AmyjqmMfr3iQ1MFXpx7Ag)
 
 # 杭州电子科技大学
 
-【报名截止：2023.8.1】[智能信息处理实验室 夏令营](https://mp.weixin.qq.com/s/eRH3XjcxzjGSw4MjDg_5gw)
+【报名截止：2023.8.1】[智能信息处理实验室](https://mp.weixin.qq.com/s/eRH3XjcxzjGSw4MjDg_5gw)
 
 # 南京信息工程大学
 
@@ -57,12 +66,6 @@
 # 中国科学院数学与系统科学研究院
 
 ~~【报名截止：2023.4.16】[推荐免试研究生选拔](http://www.amss.ac.cn/yjsjy/zs/sszs/202303/t20230322_6707035.html)~~
-
-# 清华大学
-
-【报名截止：2023.4.30】[自动化系智能与网络化系统研究中心](https://mp.weixin.qq.com/s/V93_HfSlbGKiCPTlT2qaiA)
-
-~~【报名截止：2023.4.14】[统计学研究中心](http://www.stat.tsinghua.edu.cn/admissions/summer-camp-enroll/)~~
 
 # 上海交通大学
 
