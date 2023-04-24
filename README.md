@@ -16,9 +16,9 @@
 
 # 南京大学
 
-【报名截止：2023.5.15】[LAMDA](http://www.lamda.nju.edu.cn/recruit-2024/recruit-2024.html)
-
 【报名截止：2023.6.1】[计算机软件研究所 本科生开放日](https://cs.nju.edu.cn/ics/recruit/index.html)
+
+【报名截止：2023.5.15】[LAMDA 双重考核](http://www.lamda.nju.edu.cn/recruit-2024/recruit-2024.html)
 
 # 吉林大学
 
