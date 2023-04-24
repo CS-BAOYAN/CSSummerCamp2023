@@ -6,10 +6,6 @@
 
 另附[保研小白必看的往年经验贴大全，建议全部看完至少掌握保研流程，否则容易问一些很显然的问题](https://github.com/CS-BAOYAN/CS-BAOYAN-2023)。
 
-# 西湖大学
-
-【报名截止：2023.6.12】[工学院](https://mp.weixin.qq.com/s?__biz=MzI1NDc0NDI1MQ==&mid=2247516051&idx=1&sn=49819caf4f699f8a600f3f04bfb4b396&chksm=e9c27c47deb5f551d02e870b7d91b85703539b4e4f4abe4100216d3483568aaad00c21bb01b6&mpshare=1&scene=23&srcid=0421KewXbG6JEIcXaQNqRBfS&sharer_sharetime=1682089311895&sharer_shareid=a5f725e2d454cb5ad6c333e07f36f61a#rd)
-
 # 清华大学
 
 【报名截止：2023.5.15】[交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/2023/appinfo.php)
