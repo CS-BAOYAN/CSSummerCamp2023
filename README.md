@@ -20,10 +20,6 @@
 
 【报名截止：2023.5.15】[LAMDA 双重考核](http://www.lamda.nju.edu.cn/recruit-2024/recruit-2024.html)
 
-# 西湖大学
-
-【报名截止：2023.6.12】[工学院](https://mp.weixin.qq.com/s?__biz=MzI1NDc0NDI1MQ==&mid=2247516051&idx=1&sn=49819caf4f699f8a600f3f04bfb4b396&chksm=e9c27c47deb5f551d02e870b7d91b85703539b4e4f4abe4100216d3483568aaad00c21bb01b6&mpshare=1&scene=23&srcid=0421KewXbG6JEIcXaQNqRBfS&sharer_sharetime=1682089311895&sharer_shareid=a5f725e2d454cb5ad6c333e07f36f61a#rd)
-
 # 吉林大学
 
 【报名截止：2023.5.20】[软件学院](https://mp.weixin.qq.com/s/_AmyjqmMfr3iQ1MFXpx7Ag)
