@@ -8,7 +8,6 @@
 
 # 清华大学
 
-
 【报名截止：2023.5.15】[交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/2023/appinfo.php)
 
 【报名截止：2023.4.30】[自动化系智能与网络化系统研究中心](https://mp.weixin.qq.com/s/V93_HfSlbGKiCPTlT2qaiA)
@@ -18,6 +17,8 @@
 # 南京大学
 
 【报名截止：2023.5.15】[LAMDA](http://www.lamda.nju.edu.cn/recruit-2024/recruit-2024.html)
+
+【报名截止：2023.6.1】[计算机软件研究所 本科生开放日](https://cs.nju.edu.cn/ics/recruit/index.html)
 
 # 吉林大学
 
@@ -38,10 +39,6 @@
 # 中国科学院脑科学与智能技术卓越创新中心
 
 【报名截止：2023.6.20】[暑期学校](http://www.ion.ac.cn/zsxx/202303/t20230330_6720256.html)
-
-# 南京大学
-
-【报名截止：2023.6.1】[计算机软件研究所 本科生开放日](https://cs.nju.edu.cn/ics/recruit/index.html)
 
 # 中国科学院空天信息创新研究院
 
