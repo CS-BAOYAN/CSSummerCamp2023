@@ -28,6 +28,20 @@
 
 【报名截止：2023.5.20】[软件学院](https://mp.weixin.qq.com/s/_AmyjqmMfr3iQ1MFXpx7Ag)
 
+# 中国科学技术大学
+
+【报名截止：N/A】[MIRA Lab](https://miralab.ai/admission/admission_2023/)
+
+# 中国科学院
+
+【报名截止：2023.6.20】[脑科学与智能技术卓越创新中心 暑期学校](http://www.ion.ac.cn/zsxx/202303/t20230330_6720256.html)
+
+【报名截止：N/A】[空天信息创新研究院 春令营](https://mp.weixin.qq.com/s/kPkHMAKjcdQzZd6WTPjqGA)
+
+~~【报名截止：2023.4.16】[数学与系统科学研究院](http://www.amss.ac.cn/yjsjy/zs/sszs/202303/t20230322_6707035.html)~~
+
+~~【报名截止：2023.2.28】[自动化研究所 “人工智能菁英班”项目](https://mp.weixin.qq.com/s/7AuOk-fl3zrHBZ8FOC75Vw)~~
+
 # 杭州电子科技大学
 
 【报名截止：2023.8.1】[智能信息处理实验室](https://mp.weixin.qq.com/s/eRH3XjcxzjGSw4MjDg_5gw)
@@ -36,45 +50,25 @@
 
 【报名截止：2023.6.15】[人工智能学院（未来技术学院）夏令营 第一轮](https://rgzn.nuist.edu.cn/info/1033/2842.htm)
 
-# 中国科学技术大学
-
-【报名截止：N/A】[MIRA Lab](https://miralab.ai/admission/admission_2023/)
-
-# 中国科学院脑科学与智能技术卓越创新中心
-
-【报名截止：2023.6.20】[暑期学校](http://www.ion.ac.cn/zsxx/202303/t20230330_6720256.html)
-
-# 中国科学院空天信息创新研究院
-
-【报名截止：N/A】[春令营](https://mp.weixin.qq.com/s/kPkHMAKjcdQzZd6WTPjqGA)
-
 # 上海科技大学
 
 【报名截止：2023.6.15】[临港实验室&上海科技大学联培 直博](https://mp.weixin.qq.com/s/s8iTM4Z8AlWbnaq9PMVGRg)
-
-# 香港大学
-
-【报名截止：2023.5.1】[HKU CS Early Recruitment Scheme for M.Phil. and Ph.D.](https://i.cs.hku.hk/~gradappl/index.html)
 
 # 香港中文大学
 
 【报名截止：2023.5.12】[CUHK CSE Early Admission for M.Phil. and Ph.D.](https://www.cse.cuhk.edu.hk/admission/mphil-phd/early-admission/)
 
+# 香港大学
+
+【报名截止：2023.5.1】[HKU CS Early Recruitment Scheme for M.Phil. and Ph.D.](https://i.cs.hku.hk/~gradappl/index.html)
+
 # 香港中文大学（深圳）
 
 ~~【报名截止：2023.4.9】[数据科学理学硕士 Mini营 北京场](https://mscds.cuhk.edu.cn/nshow-2538.html)~~
 
-# 中国科学院数学与系统科学研究院
-
-~~【报名截止：2023.4.16】[推荐免试研究生选拔](http://www.amss.ac.cn/yjsjy/zs/sszs/202303/t20230322_6707035.html)~~
-
 # 上海交通大学
 
 ~~【报名截止：2023.3.30】[密西根学院 “科研见习项目”](https://jwc.sjtu.edu.cn/info/1222/12276.htm)~~
-
-# 中国科学院自动化研究所
-
-~~【报名截止：2023.2.28】[“人工智能菁英班”项目](https://mp.weixin.qq.com/s/7AuOk-fl3zrHBZ8FOC75Vw)~~
 
 # 澳门大学
 
