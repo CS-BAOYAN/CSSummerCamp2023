@@ -72,6 +72,8 @@
 
 # 澳门大学
 
+【报名截止：2023.5.31】[澳門大學科技學院舆協同劊新硏究院聯合𡒊辧 暑期研習營](https://www.fst.um.edu.mo/event/the-4th-summer-camp-for-outstanding-students-now-open-for-application-2/)
+
 ~~【报名截止：2023.2.20】[澳门大学&广东省智能科学技术研究院联培（可视化，知识图谱）](https://mp.weixin.qq.com/s/UptD231MDxDdl54PteALcg)~~
 
 ~~【报名截止：2023.2.20】[澳门大学&广东省智能科学技术研究院联培（类脑）](https://mp.weixin.qq.com/s/SniRr_4xNk23BBImXh3Dsg)~~
