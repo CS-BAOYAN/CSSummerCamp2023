@@ -58,6 +58,8 @@
 
 # 上海科技大学
 
+【报名截止：2023.6.30】[信息科学与技术学院](https://sist.shanghaitech.edu.cn/2023/0424/c7339a1077054/page.htm)
+
 【报名截止：2023.6.15】[临港实验室&上海科技大学联培 直博](https://mp.weixin.qq.com/s/s8iTM4Z8AlWbnaq9PMVGRg)
 
 # 香港大学
