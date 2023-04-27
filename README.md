@@ -40,6 +40,8 @@
 
 # 中国科学院
 
+【报名截止：N/A】[杭州高等研究院](http://hias.ucas.ac.cn/info/1100/4428.htm)
+
 【报名截止：2023.6.20】[脑科学与智能技术卓越创新中心 暑期学校](http://www.ion.ac.cn/zsxx/202303/t20230330_6720256.html)
 
 【报名截止：N/A】[空天信息创新研究院 春令营](https://mp.weixin.qq.com/s/kPkHMAKjcdQzZd6WTPjqGA)
