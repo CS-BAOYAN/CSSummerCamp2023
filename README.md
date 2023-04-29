@@ -8,7 +8,9 @@
 
 # 香港中文大学
  
-【报名截止：2023.6.11】[工程学院系统工程与工程管理系（SEEM） 博士生夏令营](https://mp.weixin.qq.com/s/aF4c6ngbn1JgyaZIXfahig)
+【报名截止：2023.6.11】[工程学院系统工程与工程管理系（SEEM） 博士](https://mp.weixin.qq.com/s/aF4c6ngbn1JgyaZIXfahig)
+
+【报名截止：2023.6.10】[数据科学理学 硕士](https://mp.weixin.qq.com/s/g7ubbjLPqLKnP3P0Zbl45Q)
 
 【报名截止：2023.5.12】[CUHK CSE Early Admission for M.Phil. and Ph.D.](https://www.cse.cuhk.edu.hk/admission/mphil-phd/early-admission/)
 
