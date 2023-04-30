@@ -1,4 +1,4 @@
-# CSSummerCamp2023
+# CSSummerCamp2023 
 
 关于**2023年CS推免夏令营通知公告**的汇总。欢迎大家积极分享夏令营信息，资瓷一下互联网精神吼不吼啊？（本仓库将随各校通知的发布实时更新，具体形式可参见往年：[CSSummerCamp2022](https://github.com/LinghaoChan/CSSummerCamp2022)、[CSSummerCamp2021](https://github.com/hit-thusz-RookieCJ/CSSummerCamp2021)、[CSSummerCamp2020](https://github.com/hcy226/CSSummerCamp2020)）。预祝大家夏令营成功上岸！
 
