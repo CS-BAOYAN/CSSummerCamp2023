@@ -64,7 +64,7 @@
 
 【报名截止：2023.6.25】[夏令营 直博](https://phd.saif.sjtu.edu.cn/show-204-326.html)
 
-【报名截止：2023.5.1】[迷你营3 上海](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)
+~~【报名截止：2023.5.1】[迷你营3 上海](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)~~
 
 ~~【报名截止：2023.3.26】[迷你营2 上海](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)~~
 
