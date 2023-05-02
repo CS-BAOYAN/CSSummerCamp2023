@@ -2,6 +2,16 @@
 
 关于**2023年经管类夏令营通知公告**的汇总。（本仓库将随各校通知的发布实时更新)
 
+# 北京大学
+
+## 光华
+
+【报名截止：2023.5.8】[会计硕士 (MPAcc)](https://apply.gsm.pku.edu.cn/#/pm/status)
+ 
+【报名截止：2023.5.8】[金融硕士 商业分析(BA)](https://apply.gsm.pku.edu.cn/#/pm/status)
+
+~~【报名截止：2023.4.10】[金融硕士 金融专业(MFin)](https://apply.gsm.pku.edu.cn/#/pm/status)~~
+
 # 清华大学
 
 ## 经管
@@ -12,11 +22,19 @@
 
 【报名截止：2023.5.20】[金融硕士 第二批](https://masters.sem.tsinghua.edu.cn/jinrongshuoshi2024jituimianshuoming.pdf)
 
-【报名截止：2023.4.8】[金融硕士 第一批](https://masters.sem.tsinghua.edu.cn/jinrongshuoshi2024jituimianshuoming.pdf)
+【报名截止：2023.5.12】[直博](http://pg.sem.tsinghua.edu.cn/qinghuajingguan2023nianyouxiudaxueshengboshixialingyingbaomingtongzhi-benkezhiboshiyong.pdf)
+
+~~【报名截止：2023.4.8】[金融硕士 第一批](https://masters.sem.tsinghua.edu.cn/jinrongshuoshi2024jituimianshuoming.pdf)~~
 
 ## 五道口金融
 
 【报名截止：2023.8.31】[夏令营直博](https://www.pbcsf.tsinghua.edu.cn/info/1147/6362.htm)
+
+【报名截止：2023.8.31】[金融硕士 第三批](https://www.pbcsf.tsinghua.edu.cn/info/1146/6447.htm)
+
+【报名截止：2023.5.20】[金融硕士 第二批](https://www.pbcsf.tsinghua.edu.cn/info/1146/6447.htm)
+
+~~【报名截止：2023.4.8】[金融硕士 第一批](https://www.pbcsf.tsinghua.edu.cn/info/1146/6447.htm)~~
 
 ~~【报名截止：2023.3.10】[春令营直博](https://www.pbcsf.tsinghua.edu.cn/info/1147/6362.htm)~~
 
@@ -32,49 +50,63 @@
 
 【报名截止：2023.6.15】[优才营 夏季营金融硕士 上海](https://www.acem.sjtu.edu.cn/notices/75833.html)
 
-【报名截止：2023.4.20】[优才营 春季营会计审计 上海](https://www.acem.sjtu.edu.cn/notices/75833.html)
+~~【报名截止：2023.4.20】[优才营 春季营会计审计 上海](https://www.acem.sjtu.edu.cn/notices/75833.html)~~
 
-【报名截止：2023.4.20】[优才营 春季营金融硕士 上海](https://www.acem.sjtu.edu.cn/notices/75833.html)
+~~【报名截止：2023.4.20】[优才营 春季营金融硕士 上海](https://www.acem.sjtu.edu.cn/notices/75833.html)~~
 
-【报名截止：2023.3.25】[优才营 春季营金融硕士 北京](https://www.acem.sjtu.edu.cn/notices/75833.html)
+~~【报名截止：2023.3.25】[优才营 春季营金融硕士 北京](https://www.acem.sjtu.edu.cn/notices/75833.html)~~
 
 ## 高金
 
-【报名截止：2023.6.25】[高级金融学院 夏令营](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)
+【报名截止：2023.6.25】[夏令营 金融硕士](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)
 
-【报名截止：2023.5.14】[高级金融学院 迷你营4 北京](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)
+【报名截止：2023.5.14】[迷你营4 北京](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)
 
-【报名截止：2023.5.1】[高级金融学院 迷你营3 上海](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)
+【报名截止：2023.6.25】[夏令营 直博](https://phd.saif.sjtu.edu.cn/show-204-326.html)
 
-【报名截止：2023.3.26】[高级金融学院 迷你营2 上海](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)
+~~【报名截止：2023.5.1】[迷你营3 上海](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)~~
 
-~~【报名截止：2023.3.5】[高级金融学院 迷你营1 北京](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)~~
+~~【报名截止：2023.3.26】[迷你营2 上海](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)~~
+
+~~【报名截止：2023.3.5】[迷你营1 北京](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)~~
 
 # 复旦大学
 
-## 管院
+## 经济学院
+
+【报名截止：2023.5.10】[夏令营 直博](https://econ.fudan.edu.cn/info/1307/21021.htm)
+
+【报名截止：2023.5.10】[夏令营 金融专硕](https://econ.fudan.edu.cn/info/1519/21031.htm)
+
+## 管理学院
 
 【报名截止：2023.6.26】[7月领创营](https://www.fdsm.fudan.edu.cn/mf/mf1556953405097)
 
+【报名截止：2023.6.5】[博思营 硕博连读](https://www.fdsm.fudan.edu.cn/graduate/graduate1556953452754)
+
 【报名截止：2023.5.8】[5月领创营](https://www.fdsm.fudan.edu.cn/mf/mf1556953405097)
 
-【报名截止：2023.3.27】[4月领创营](https://www.fdsm.fudan.edu.cn/mf/mf1556953405097)
+~~【报名截止：2023.3.27】[4月领创营](https://www.fdsm.fudan.edu.cn/mf/mf1556953405097)~~
 
 ## 泛海
 
-【报名截止：2023.7.24】[泛海国际金融学院 夏令营](https://mp.weixin.qq.com/s/suPsgauwIJ2bKJpI3V3Rfw)
+【报名截止：2023.7.24】[夏令营](https://mp.weixin.qq.com/s/suPsgauwIJ2bKJpI3V3Rfw)
 
-【报名截止：2023.5.8】[泛海国际金融学院 体验营3 上海](https://mp.weixin.qq.com/s/suPsgauwIJ2bKJpI3V3Rfw)
+【报名截止：2023.5.8】[体验营3 上海](https://mp.weixin.qq.com/s/suPsgauwIJ2bKJpI3V3Rfw)
 
-【报名截止：2023.4.10】[泛海国际金融学院 体验营2 北京](https://mp.weixin.qq.com/s/suPsgauwIJ2bKJpI3V3Rfw)
+~~【报名截止：2023.4.10】[体验营2 北京](https://mp.weixin.qq.com/s/suPsgauwIJ2bKJpI3V3Rfw)~~
 
-~~【报名截止：2023.3.13】[泛海国际金融学院 体验营1 上海](https://mp.weixin.qq.com/s/suPsgauwIJ2bKJpI3V3Rfw)~~
+~~【报名截止：2023.3.13】[体验营1 上海](https://mp.weixin.qq.com/s/suPsgauwIJ2bKJpI3V3Rfw)~~
 
 # 香港中文大学（深圳）
 
-【报名截止：2023.4.9】[高等金融研究院 Mini营北京场 第二轮](https://mp.weixin.qq.com/s?__biz=Mzg3NzA4MjI1OA==&mid=2247501176&idx=1&sn=2c2df980cb391387358e8d2aadf5f926&chksm=cf2ae685f85d6f933e70eadaeac3dc56e597210f4cd0f65709c0d60cd0661e172103b3c75f33&scene=178&cur_album_id=2709807278790606852#rd)
+## 深高金
 
-~~【报名截止：2023.2.19】[高等金融研究院 Mini营北京场 第一轮](https://mp.weixin.qq.com/s?__biz=Mzg3NzA4MjI1OA==&mid=2247501176&idx=1&sn=2c2df980cb391387358e8d2aadf5f926&chksm=cf2ae685f85d6f933e70eadaeac3dc56e597210f4cd0f65709c0d60cd0661e172103b3c75f33&scene=178&cur_album_id=2709807278790606852#rd)~~
+【报名截止：2023.6.10】[硕士 体验营 ](https://mp.weixin.qq.com/s/PDHSfrRyjKffic3neWnu1g)
+
+~~【报名截止：2023.4.9】[Mini营北京场 第二轮](https://mp.weixin.qq.com/s?__biz=Mzg3NzA4MjI1OA==&mid=2247501176&idx=1&sn=2c2df980cb391387358e8d2aadf5f926&chksm=cf2ae685f85d6f933e70eadaeac3dc56e597210f4cd0f65709c0d60cd0661e172103b3c75f33&scene=178&cur_album_id=2709807278790606852#rd)~~
+
+~~【报名截止：2023.2.19】[Mini营北京场 第一轮](https://mp.weixin.qq.com/s?__biz=Mzg3NzA4MjI1OA==&mid=2247501176&idx=1&sn=2c2df980cb391387358e8d2aadf5f926&chksm=cf2ae685f85d6f933e70eadaeac3dc56e597210f4cd0f65709c0d60cd0661e172103b3c75f33&scene=178&cur_album_id=2709807278790606852#rd)~~
 
 # 致谢
 
