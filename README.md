@@ -10,6 +10,8 @@
 
 【报名截止：2023.5.31】[大数据学院](https://sds.fudan.edu.cn/7a/51/c17701a490065/page.htm)
 
+【报名截止：2023.5.31】[计算机科学技术学院](https://cs.fudan.edu.cn/7b/0b/c24257a490251/page.htm)
+
 # 香港中文大学
  
 【报名截止：2023.6.11】[工程学院系统工程与工程管理系（SEEM） 博士](https://mp.weixin.qq.com/s/aF4c6ngbn1JgyaZIXfahig)
