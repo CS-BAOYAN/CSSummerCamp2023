@@ -103,7 +103,7 @@
 
 # 上海交通大学
 
-｜https://yzb.sjtu.edu.cn/info/1005/3697.htm
+> https://yzb.sjtu.edu.cn/info/1005/3697.htm
 
 ~~【报名截止：2023.3.30】[密西根学院 “科研见习项目”](https://jwc.sjtu.edu.cn/info/1222/12276.htm)~~
 
