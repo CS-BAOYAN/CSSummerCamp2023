@@ -12,6 +12,8 @@
 
 【报名截止：2023.5.31】[大数据学院](https://sds.fudan.edu.cn/7a/51/c17701a490065/page.htm)
 
+【报名截止：2023.5.31】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4398)
+
 【报名截止：2023.5.31】[脑科学研究院](https://iobs.fudan.edu.cn/7a/7a/c17308a490106/page.htm)
 
 
