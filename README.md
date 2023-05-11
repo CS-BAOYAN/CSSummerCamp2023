@@ -57,6 +57,8 @@
 
 # 中国科学院
 
+【报名截止：2023.7.1】 [软件研究所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202305/t20230510_6751443.html)
+
 【报名截止：2023.6.20】[脑科学与智能技术卓越创新中心 暑期学校](http://www.ion.ac.cn/zsxx/202303/t20230330_6720256.html)
 
 【报名截止：2023.6.11】[华大专项](https://mp.weixin.qq.com/s?__biz=MzA3MTc1OTAzMg==&mid=2650160774&idx=1&sn=1c3d8fb293ea456d61eea92285fa5a46&chksm=872a3b51b05db2472ce1b5bf1f668f666b96908ca6ab5c3489dea450676e021028219f06b9f5&scene=126&sessionid=1683108272#rd)
