@@ -23,7 +23,7 @@
 
 【报名截止：2023.6.10】[数据科学理学 硕士](https://mp.weixin.qq.com/s/g7ubbjLPqLKnP3P0Zbl45Q)
 
-【报名截止：2023.5.12】[CUHK CSE Early Admission for M.Phil. and Ph.D.](https://www.cse.cuhk.edu.hk/admission/mphil-phd/early-admission/)
+~~【报名截止：2023.5.12】[CUHK CSE Early Admission for M.Phil. and Ph.D.](https://www.cse.cuhk.edu.hk/admission/mphil-phd/early-admission/)~~
 
 # 清华大学
 
