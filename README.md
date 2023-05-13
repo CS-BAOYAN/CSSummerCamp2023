@@ -48,6 +48,28 @@
 
 【报名截止：2023.5.15】[LAMDA 额外考核](http://www.lamda.nju.edu.cn/recruit-2024/recruit-2024.html)
 
+# 中国科学技术大学
+
+【报名截止：N/A】[MIRA Lab](https://miralab.ai/admission/admission_2023/)
+
+# 中国科学院
+
+【报名截止：2023.7.1】 [软件研究所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202305/t20230510_6751443.html)
+
+【报名截止：2023.6.20】[脑科学与智能技术卓越创新中心 暑期学校](http://www.ion.ac.cn/zsxx/202303/t20230330_6720256.html)
+
+【报名截止：2023.6.11】[华大专项](https://mp.weixin.qq.com/s?__biz=MzA3MTc1OTAzMg==&mid=2650160774&idx=1&sn=1c3d8fb293ea456d61eea92285fa5a46&chksm=872a3b51b05db2472ce1b5bf1f668f666b96908ca6ab5c3489dea450676e021028219f06b9f5&scene=126&sessionid=1683108272#rd)
+
+【报名截止：2023.5.15】[计算所 春闱计划](http://www.ict.cas.cn/yjsjy/zsxx/sszs/202305/t20230512_6753303.html)
+
+【报名截止：N/A】[空天信息创新研究院 春令营](https://mp.weixin.qq.com/s/kPkHMAKjcdQzZd6WTPjqGA)
+
+【报名截止：N/A】[杭州高等研究院](http://hias.ucas.ac.cn/info/1100/4428.htm)
+
+~~【报名截止：2023.4.16】[数学与系统科学研究院](http://www.amss.ac.cn/yjsjy/zs/sszs/202303/t20230322_6707035.html)~~
+
+~~【报名截止：2023.2.28】[自动化研究所 “人工智能菁英班”项目](https://mp.weixin.qq.com/s/7AuOk-fl3zrHBZ8FOC75Vw)~~
+
 # 南开大学
 
 【报名截止：2023.6.20】[软件学院](https://cs.nankai.edu.cn/info/1042/3466.htm)
@@ -74,28 +96,6 @@
 【报名截止：2023.5.28】[计算机学院](http://ccst.jlu.edu.cn/info/1229/18143.htm)
 
 【报名截止：2023.5.20】[软件学院](https://mp.weixin.qq.com/s/_AmyjqmMfr3iQ1MFXpx7Ag)
-
-# 中国科学技术大学
-
-【报名截止：N/A】[MIRA Lab](https://miralab.ai/admission/admission_2023/)
-
-# 中国科学院
-
-【报名截止：2023.7.1】 [软件研究所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202305/t20230510_6751443.html)
-
-【报名截止：2023.6.20】[脑科学与智能技术卓越创新中心 暑期学校](http://www.ion.ac.cn/zsxx/202303/t20230330_6720256.html)
-
-【报名截止：2023.6.11】[华大专项](https://mp.weixin.qq.com/s?__biz=MzA3MTc1OTAzMg==&mid=2650160774&idx=1&sn=1c3d8fb293ea456d61eea92285fa5a46&chksm=872a3b51b05db2472ce1b5bf1f668f666b96908ca6ab5c3489dea450676e021028219f06b9f5&scene=126&sessionid=1683108272#rd)
-
-【报名截止：2023.5.15】[计算所 春闱计划](http://www.ict.cas.cn/yjsjy/zsxx/sszs/202305/t20230512_6753303.html)
-
-【报名截止：N/A】[空天信息创新研究院 春令营](https://mp.weixin.qq.com/s/kPkHMAKjcdQzZd6WTPjqGA)
-
-【报名截止：N/A】[杭州高等研究院](http://hias.ucas.ac.cn/info/1100/4428.htm)
-
-~~【报名截止：2023.4.16】[数学与系统科学研究院](http://www.amss.ac.cn/yjsjy/zs/sszs/202303/t20230322_6707035.html)~~
-
-~~【报名截止：2023.2.28】[自动化研究所 “人工智能菁英班”项目](https://mp.weixin.qq.com/s/7AuOk-fl3zrHBZ8FOC75Vw)~~
 
 # 杭州电子科技大学
 
