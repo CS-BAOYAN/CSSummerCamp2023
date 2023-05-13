@@ -47,6 +47,10 @@
 
 【报名截止：2023.5.15】[LAMDA 额外考核](http://www.lamda.nju.edu.cn/recruit-2024/recruit-2024.html)
 
+# 南开大学
+
+【报名截止：2023.6.20】[软件学院](https://cs.nankai.edu.cn/info/1042/3466.htm)
+
 # 华东师范大学
 > https://yjszs.ecnu.edu.cn/system/xlyjbxx_list.asp
 
