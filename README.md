@@ -14,9 +14,9 @@
 
 【报名截止：2023.5.31】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4398)
 
-【报名截止：2023.5.31】[工研院](http://faet.fudan.edu.cn/7b/e8/c23815a490472/page.htm)
+【报名截止：2023.5.31】[工程与应用技术研究院](http://faet.fudan.edu.cn/7b/e8/c23815a490472/page.htm)
 
-【报名截止：2023.5.31】[类脑研究院](https://istbi.fudan.edu.cn/info/1167/4890.htm)
+【报名截止：2023.5.31】[类脑智能科学与技术研究院](https://istbi.fudan.edu.cn/info/1167/4890.htm)
 
 【报名截止：2023.5.31】[脑科学研究院](https://iobs.fudan.edu.cn/7a/7a/c17308a490106/page.htm)
 
