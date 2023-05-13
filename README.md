@@ -6,30 +6,6 @@
 
 另附[保研小白必看的往年经验贴大全，建议全部看完至少掌握保研流程，否则容易问一些很显然的问题](https://github.com/CS-BAOYAN/CS-BAOYAN-2023)。
 
-# 复旦大学
-
-【报名截止：2023.5.31】[计算机科学技术学院](https://cs.fudan.edu.cn/7b/0b/c24257a490251/page.htm)
-
-【报名截止：2023.5.31】[大数据学院](https://sds.fudan.edu.cn/7a/51/c17701a490065/page.htm)
-
-【报名截止：2023.5.31】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4398)
-
-【报名截止：2023.5.31】[工程与应用技术研究院](http://faet.fudan.edu.cn/7b/e8/c23815a490472/page.htm)
-
-【报名截止：2023.5.31】[类脑智能科学与技术研究院](https://istbi.fudan.edu.cn/info/1167/4890.htm)
-
-【报名截止：2023.5.31】[脑科学研究院](https://iobs.fudan.edu.cn/7a/7a/c17308a490106/page.htm)
-
-【报名截止：2023.5.31】[智能医学研究院](https://imi.fudan.edu.cn/info/1033/1323.htm)
-
-# 香港中文大学
-
-【报名截止：2023.6.11】[工程学院系统工程与工程管理系（SEEM） 博士](https://mp.weixin.qq.com/s/aF4c6ngbn1JgyaZIXfahig)
-
-【报名截止：2023.6.10】[数据科学理学 硕士](https://mp.weixin.qq.com/s/g7ubbjLPqLKnP3P0Zbl45Q)
-
-~~【报名截止：2023.5.12】[CUHK CSE Early Admission for M.Phil. and Ph.D.](https://www.cse.cuhk.edu.hk/admission/mphil-phd/early-admission/)~~
-
 # 清华大学
 
 【报名截止：2023.5.15】[交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/2023/appinfo.php)
@@ -48,9 +24,33 @@
 
 【报名截止：2023.5.15】[LAMDA 额外考核](http://www.lamda.nju.edu.cn/recruit-2024/recruit-2024.html)
 
+# 复旦大学
+
+【报名截止：2023.5.31】[计算机科学技术学院](https://cs.fudan.edu.cn/7b/0b/c24257a490251/page.htm)
+
+【报名截止：2023.5.31】[大数据学院](https://sds.fudan.edu.cn/7a/51/c17701a490065/page.htm)
+
+【报名截止：2023.5.31】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4398)
+
+【报名截止：2023.5.31】[工程与应用技术研究院](http://faet.fudan.edu.cn/7b/e8/c23815a490472/page.htm)
+
+【报名截止：2023.5.31】[类脑智能科学与技术研究院](https://istbi.fudan.edu.cn/info/1167/4890.htm)
+
+【报名截止：2023.5.31】[脑科学研究院](https://iobs.fudan.edu.cn/7a/7a/c17308a490106/page.htm)
+
+【报名截止：2023.5.31】[智能医学研究院](https://imi.fudan.edu.cn/info/1033/1323.htm)
+
 # 中国科学技术大学
 
 【报名截止：N/A】[MIRA Lab](https://miralab.ai/admission/admission_2023/)
+
+# 香港中文大学
+
+【报名截止：2023.6.11】[工程学院系统工程与工程管理系（SEEM） 博士](https://mp.weixin.qq.com/s/aF4c6ngbn1JgyaZIXfahig)
+
+【报名截止：2023.6.10】[数据科学理学 硕士](https://mp.weixin.qq.com/s/g7ubbjLPqLKnP3P0Zbl45Q)
+
+~~【报名截止：2023.5.12】[CUHK CSE Early Admission for M.Phil. and Ph.D.](https://www.cse.cuhk.edu.hk/admission/mphil-phd/early-admission/)~~
 
 # 中国科学院
 
