@@ -59,7 +59,11 @@
 
 【报名截止：2023.6.12】[软件学院](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023051020179966101311)
 
-【报名截止：2023.6.9】[中法联合培养](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023050920150075093014)
+【报名截止：2023.6.9】[中法联培](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023050920150075093014)
+
+# 电子科技大学
+
+【报名截止：2023.6.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1067/5580.htm)
 
 # 西湖大学
 
