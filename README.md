@@ -14,11 +14,15 @@
 
 【报名截止：2023.5.31】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4398)
 
+【报名截止：2023.5.31】[工研院](http://faet.fudan.edu.cn/7b/e8/c23815a490472/page.htm)
+
+【报名截止：2023.5.31】[类脑研究院](https://istbi.fudan.edu.cn/info/1167/4890.htm)
+
 【报名截止：2023.5.31】[脑科学研究院](https://iobs.fudan.edu.cn/7a/7a/c17308a490106/page.htm)
 
 
 # 香港中文大学
- 
+
 【报名截止：2023.6.11】[工程学院系统工程与工程管理系（SEEM） 博士](https://mp.weixin.qq.com/s/aF4c6ngbn1JgyaZIXfahig)
 
 【报名截止：2023.6.10】[数据科学理学 硕士](https://mp.weixin.qq.com/s/g7ubbjLPqLKnP3P0Zbl45Q)
