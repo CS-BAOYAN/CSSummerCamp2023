@@ -105,13 +105,15 @@
 
 【报名截止：2023.6.15】[临港实验室&上海科技大学联培 直博](https://mp.weixin.qq.com/s/s8iTM4Z8AlWbnaq9PMVGRg)
 
+# 南方科技大学
+
+【报名截止：2023.6.15】[深港微电子学院](https://mp.weixin.qq.com/s/bRyGtRCLblbCug06xhLb9g)
+
+【报名截止：2023.6.10】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/284)
+
 # 南京信息工程大学
 
 【报名截止：2023.6.15】[人工智能学院（未来技术学院）夏令营 第一轮](https://rgzn.nuist.edu.cn/info/1033/2842.htm)
-
-# 南方科技大学
-
-【报名截止：2023.6.10】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/284)
 
 # 澳门大学
 
