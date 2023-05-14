@@ -22,7 +22,7 @@
 
 【报名截止：2023.5.20】[金融硕士 第二批](https://masters.sem.tsinghua.edu.cn/jinrongshuoshi2024jituimianshuoming.pdf)
 
-【报名截止：2023.5.12】[直博](http://pg.sem.tsinghua.edu.cn/qinghuajingguan2023nianyouxiudaxueshengboshixialingyingbaomingtongzhi-benkezhiboshiyong.pdf)
+~~【报名截止：2023.5.12】[直博](http://pg.sem.tsinghua.edu.cn/qinghuajingguan2023nianyouxiudaxueshengboshixialingyingbaomingtongzhi-benkezhiboshiyong.pdf)~~
 
 ~~【报名截止：2023.4.8】[金融硕士 第一批](https://masters.sem.tsinghua.edu.cn/jinrongshuoshi2024jituimianshuoming.pdf)~~
 
@@ -62,7 +62,7 @@
 
 【报名截止：2023.6.25】[夏令营 金融硕士](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)
 
-【报名截止：2023.5.14】[迷你营4 北京](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)
+~~【报名截止：2023.5.14】[迷你营4 北京](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)~~
 
 ~~【报名截止：2023.5.1】[迷你营3 上海](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)~~
 
