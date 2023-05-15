@@ -62,7 +62,7 @@
 
 【报名截止：2023.6.11】[华大专项](https://mp.weixin.qq.com/s?__biz=MzA3MTc1OTAzMg==&mid=2650160774&idx=1&sn=1c3d8fb293ea456d61eea92285fa5a46&chksm=872a3b51b05db2472ce1b5bf1f668f666b96908ca6ab5c3489dea450676e021028219f06b9f5&scene=126&sessionid=1683108272#rd)
 
-【报名截止：2023.5.15】[计算所 春闱计划](http://www.ict.cas.cn/yjsjy/zsxx/sszs/202305/t20230512_6753303.html)
+【报名截止：2023.5.17】[计算所 春闱计划](http://www.ict.cas.cn/yjsjy/zsxx/sszs/202305/t20230512_6753303.html)
 
 【报名截止：N/A】[空天信息创新研究院 春令营](https://mp.weixin.qq.com/s/kPkHMAKjcdQzZd6WTPjqGA)
 
