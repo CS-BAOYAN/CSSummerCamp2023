@@ -20,6 +20,14 @@
 
 ~~【报名截止：2023.4.14】[统计学研究中心](http://www.stat.tsinghua.edu.cn/admissions/summer-camp-enroll/)~~
 
+# 上海交通大学
+
+> https://yzb.sjtu.edu.cn/info/1005/3697.htm
+
+【报名截止：2023.6.15】[电子信息与电气工程学院](https://www.kdocs.cn/l/cb4YhbexapYf)
+
+~~【报名截止：2023.3.30】[密西根学院 “科研见习项目”](https://jwc.sjtu.edu.cn/info/1222/12276.htm)~~
+
 # 南京大学
 
 【报名截止：2023.6.1】[计算机软件研究所 本科生开放日](https://cs.nju.edu.cn/ics/recruit/index.html)
@@ -146,12 +154,6 @@
 # 香港大学
 
 ~~【报名截止：2023.5.1】[HKU CS Early Recruitment Scheme for M.Phil. and Ph.D.](https://i.cs.hku.hk/~gradappl/index.html)~~
-
-# 上海交通大学
-
-> https://yzb.sjtu.edu.cn/info/1005/3697.htm
-
-~~【报名截止：2023.3.30】[密西根学院 “科研见习项目”](https://jwc.sjtu.edu.cn/info/1222/12276.htm)~~
 
 # 澳门科技大学
 
