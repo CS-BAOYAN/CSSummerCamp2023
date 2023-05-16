@@ -8,6 +8,8 @@
 
 # 清华大学
 
+【报名截止：2023.6.9】[集成电路学院](https://www.sic.tsinghua.edu.cn/info/1036/1892.htm)
+
 【报名截止：N/A】[智能产业研究院 AIR](https://mp.weixin.qq.com/s/SbJz9hzaaYDftQktzO70Qw)
 
 ~~【报名截止：2023.5.15】[交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/2023/appinfo.php)~~
@@ -44,14 +46,6 @@
 
 【报名截止：N/A】[MIRA Lab](https://miralab.ai/admission/admission_2023/)
 
-# 香港中文大学
-
-【报名截止：2023.6.11】[工程学院系统工程与工程管理系（SEEM） 博士](https://mp.weixin.qq.com/s/aF4c6ngbn1JgyaZIXfahig)
-
-【报名截止：2023.6.10】[数据科学理学 硕士](https://mp.weixin.qq.com/s/g7ubbjLPqLKnP3P0Zbl45Q)
-
-~~【报名截止：2023.5.12】[CUHK CSE Early Admission for M.Phil. and Ph.D.](https://www.cse.cuhk.edu.hk/admission/mphil-phd/early-admission/)~~
-
 # 中国科学院
 
 【报名截止：2023.7.1】[软件研究所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202305/t20230510_6751443.html)
@@ -71,6 +65,20 @@
 ~~【报名截止：2023.4.16】[数学与系统科学研究院](http://www.amss.ac.cn/yjsjy/zs/sszs/202303/t20230322_6707035.html)~~
 
 ~~【报名截止：2023.2.28】[自动化研究所 “人工智能菁英班”项目](https://mp.weixin.qq.com/s/7AuOk-fl3zrHBZ8FOC75Vw)~~
+
+# 香港中文大学
+
+【报名截止：2023.6.11】[工程学院系统工程与工程管理系（SEEM） 博士](https://mp.weixin.qq.com/s/aF4c6ngbn1JgyaZIXfahig)
+
+【报名截止：2023.6.10】[数据科学理学 硕士](https://mp.weixin.qq.com/s/g7ubbjLPqLKnP3P0Zbl45Q)
+
+~~【报名截止：2023.5.12】[CUHK CSE Early Admission for M.Phil. and Ph.D.](https://www.cse.cuhk.edu.hk/admission/mphil-phd/early-admission/)~~
+
+# 香港中文大学（深圳）
+
+【报名截止：2023.6.15】[理工学院 授课型硕士](https://sse.cuhk.edu.cn/article/1278)
+
+~~【报名截止：2023.4.9】[数据科学理学硕士 Mini营 北京场](https://mscds.cuhk.edu.cn/nshow-2538.html)~~
 
 # 南开大学
 
@@ -136,12 +144,6 @@
 # 香港大学
 
 ~~【报名截止：2023.5.1】[HKU CS Early Recruitment Scheme for M.Phil. and Ph.D.](https://i.cs.hku.hk/~gradappl/index.html)~~
-
-# 香港中文大学（深圳）
-
-【报名截止：2023.4.9】[理工学院 授课型硕士](https://sse.cuhk.edu.cn/article/1278)
-
-~~【报名截止：2023.4.9】[数据科学理学硕士 Mini营 北京场](https://mscds.cuhk.edu.cn/nshow-2538.html)~~
 
 # 上海交通大学
 
