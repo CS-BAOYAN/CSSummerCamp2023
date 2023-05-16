@@ -8,9 +8,9 @@
 
 # 清华大学
 
-【报名截止：2023.5.15】[交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/2023/appinfo.php)
-
 【报名截止：N/A】[智能产业研究院 AIR](https://mp.weixin.qq.com/s/SbJz9hzaaYDftQktzO70Qw)
+
+~~【报名截止：2023.5.15】[交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/2023/appinfo.php)~~
 
 ~~【报名截止：2023.4.30】[自动化系智能与网络化系统研究中心](https://mp.weixin.qq.com/s/V93_HfSlbGKiCPTlT2qaiA)~~
 
@@ -22,7 +22,7 @@
 
 【报名截止：2023.5.30】[NJUNLP 额外考核](https://mp.weixin.qq.com/s/QmuYVNNsqqfZ66pG6VvB0A)
 
-【报名截止：2023.5.15】[LAMDA 额外考核](http://www.lamda.nju.edu.cn/recruit-2024/recruit-2024.html)
+~~【报名截止：2023.5.15】[LAMDA 额外考核](http://www.lamda.nju.edu.cn/recruit-2024/recruit-2024.html)~~
 
 # 复旦大学
 
@@ -62,11 +62,11 @@
 
 【报名截止：2023.6.11】[华大专项](https://mp.weixin.qq.com/s?__biz=MzA3MTc1OTAzMg==&mid=2650160774&idx=1&sn=1c3d8fb293ea456d61eea92285fa5a46&chksm=872a3b51b05db2472ce1b5bf1f668f666b96908ca6ab5c3489dea450676e021028219f06b9f5&scene=126&sessionid=1683108272#rd)
 
-【报名截止：2023.5.15】[计算所 春闱计划](http://www.ict.cas.cn/yjsjy/zsxx/sszs/202305/t20230512_6753303.html)
-
 【报名截止：N/A】[空天信息创新研究院 春令营](https://mp.weixin.qq.com/s/kPkHMAKjcdQzZd6WTPjqGA)
 
 【报名截止：N/A】[杭州高等研究院](http://hias.ucas.ac.cn/info/1100/4428.htm)
+
+~~【报名截止：2023.5.15】[计算所 春闱计划](http://www.ict.cas.cn/yjsjy/zsxx/sszs/202305/t20230512_6753303.html)~~
 
 ~~【报名截止：2023.4.16】[数学与系统科学研究院](http://www.amss.ac.cn/yjsjy/zs/sszs/202303/t20230322_6707035.html)~~
 
