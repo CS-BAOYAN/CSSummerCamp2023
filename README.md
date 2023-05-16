@@ -139,6 +139,8 @@
 
 # 香港中文大学（深圳）
 
+【报名截止：2023.4.9】[理工学院 授课型硕士](https://sse.cuhk.edu.cn/article/1278)
+
 ~~【报名截止：2023.4.9】[数据科学理学硕士 Mini营 北京场](https://mscds.cuhk.edu.cn/nshow-2538.html)~~
 
 # 上海交通大学
