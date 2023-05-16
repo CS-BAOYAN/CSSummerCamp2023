@@ -8,6 +8,8 @@
 
 # 清华大学
 
+【报名截止：2023.6.9】[精密仪器系](https://mp.weixin.qq.com/s?srcid=0516yoq33IRsYhqXMLERqPFd&scene=23&sharer_sharetime=1684222587305&mid=2649760510&sharer_shareid=43d6ab70a5210e01418614ab72f7162b&sn=c48ec84432e8d9877ad62ad4fe11d3b9&idx=1&__biz=MzA5NjQ4ODkxMA%3D%3D&chksm=88abde5fbfdc5749a19aced64fd33668a4fa86b62aa1fd00991b417d9e5050eb6ae576eba195&mpshare=1#rd)
+
 【报名截止：2023.6.9】[集成电路学院](https://www.sic.tsinghua.edu.cn/info/1036/1892.htm)
 
 【报名截止：N/A】[智能产业研究院 AIR](https://mp.weixin.qq.com/s/SbJz9hzaaYDftQktzO70Qw)
