@@ -54,9 +54,11 @@
 
 # 中国科学院
 
-【报名截止：2023.7.1】 [软件研究所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202305/t20230510_6751443.html)
+【报名截止：2023.7.1】[软件研究所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202305/t20230510_6751443.html)
 
-【报名截止：2023.6.20】 [声学所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202305/t20230509_6750931.html)
+【报名截止：2023.6.20】[声学所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202305/t20230509_6750931.html)
+
+【报名截止：2023.5.17】[计算所 春闱计划](http://www.ict.cas.cn/yjsjy/zsxx/sszs/202305/t20230512_6753303.html)
 
 【报名截止：2023.6.20】[脑科学与智能技术卓越创新中心](http://www.ion.ac.cn/zsxx/202303/t20230330_6720256.html)
 
@@ -65,8 +67,6 @@
 【报名截止：N/A】[空天信息创新研究院 春令营](https://mp.weixin.qq.com/s/kPkHMAKjcdQzZd6WTPjqGA)
 
 【报名截止：N/A】[杭州高等研究院](http://hias.ucas.ac.cn/info/1100/4428.htm)
-
-~~【报名截止：2023.5.15】[计算所 春闱计划](http://www.ict.cas.cn/yjsjy/zsxx/sszs/202305/t20230512_6753303.html)~~
 
 ~~【报名截止：2023.4.16】[数学与系统科学研究院](http://www.amss.ac.cn/yjsjy/zs/sszs/202303/t20230322_6707035.html)~~
 
