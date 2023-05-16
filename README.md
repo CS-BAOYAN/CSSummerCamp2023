@@ -48,8 +48,6 @@
 
 【报名截止：2023.5.31】[类脑智能科学与技术研究院](https://istbi.fudan.edu.cn/info/1167/4890.htm)
 
-【报名截止：2023.5.31】[脑科学研究院](https://iobs.fudan.edu.cn/7a/7a/c17308a490106/page.htm)
-
 【报名截止：2023.5.31】[智能医学研究院](https://imi.fudan.edu.cn/info/1033/1323.htm)
 
 # 中国科学技术大学
