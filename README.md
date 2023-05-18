@@ -50,6 +50,10 @@
 
 【报名截止：2023.5.31】[智能医学研究院](https://imi.fudan.edu.cn/info/1033/1323.htm)
 
+# 同济大学
+
+【报名截止：2023.6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/4205.htm)
+
 # 中国科学技术大学
 
 【报名截止：N/A】[MIRA Lab](https://miralab.ai/admission/admission_2023/)
