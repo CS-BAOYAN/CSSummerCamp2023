@@ -80,6 +80,14 @@
 
 ~~【报名截止：2023.2.28】[自动化研究所 “人工智能菁英班”项目](https://mp.weixin.qq.com/s/7AuOk-fl3zrHBZ8FOC75Vw)~~
 
+# 浙江大学
+
+【报名截止：2023.6.15】[信息与电子工程学院](http://www.isee.zju.edu.cn/2023/0517/c21109a2758376/page.htm)
+
+【报名截止：2023.6.6】[脑科学与脑医学学院](https://mp.weixin.qq.com/s/7rN1LXpL-rJ9N6jDnggF6A)
+
+【N/A】[良渚实验室](https://mp.weixin.qq.com/s/OK_T1vqvc7kfy1UKZBILuA)
+
 # 香港中文大学
 
 【报名截止：2023.6.11】[工程学院系统工程与工程管理系（SEEM） 博士](https://mp.weixin.qq.com/s/aF4c6ngbn1JgyaZIXfahig)
