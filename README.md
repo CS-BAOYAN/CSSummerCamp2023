@@ -137,6 +137,10 @@
 
 【报名截止：2023.8.1】[智能信息处理实验室](https://mp.weixin.qq.com/s/eRH3XjcxzjGSw4MjDg_5gw)
 
+# 上海财经大学
+
+【报名截止：2023.6.27】[交叉科学研究院](https://riis.sufe.edu.cn/jxChinese/0e/e8/c10268a200424/page.htm)
+
 # 上海科技大学
 
 【报名截止：2023.6.30】[信息科学与技术学院](https://sist.shanghaitech.edu.cn/2023/0424/c7339a1077054/page.htm)
