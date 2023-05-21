@@ -131,7 +131,7 @@
 
 【报名截止：2023.5.28】[计算机学院](http://ccst.jlu.edu.cn/info/1229/18143.htm)
 
-【报名截止：2023.5.20】[软件学院](https://mp.weixin.qq.com/s/_AmyjqmMfr3iQ1MFXpx7Ag)
+~~【报名截止：2023.5.20】[软件学院](https://mp.weixin.qq.com/s/_AmyjqmMfr3iQ1MFXpx7Ag)~~
 
 # 杭州电子科技大学
 
