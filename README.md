@@ -102,6 +102,8 @@
 
 【报名截止：2023.6.20】[软件学院](https://cs.nankai.edu.cn/info/1042/3466.htm)
 
+【报名截止：2023.6.9】[统计与数据科学学院](https://stat.nankai.edu.cn/2023/0522/c12320a512992/page.htm)
+
 # 厦门大学
 
 【报名截止：2023.6.15】[信息学院](https://informatics.xmu.edu.cn/info/1050/28869.htm)
@@ -160,6 +162,12 @@
 # 南京信息工程大学
 
 【报名截止：2023.6.15】[人工智能学院（未来技术学院）夏令营 第一轮](https://rgzn.nuist.edu.cn/info/1033/2842.htm)
+
+# 南京师范大学
+
+【报名截止：2023.6.6】[计算机与电子信息学院/人工智能学院](http://ceai.njnu.edu.cn/Item/Show.asp?m=1&d=18920)
+
+【报名截止：2023.6.6】[南瑞电气与自动化学院](http://eae.njnu.edu.cn/info/1041/3016.htm)
 
 # 澳门大学
 
