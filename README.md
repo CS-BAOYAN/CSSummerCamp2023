@@ -37,6 +37,7 @@
 【N/A】[良渚实验室](https://mp.weixin.qq.com/s/OK_T1vqvc7kfy1UKZBILuA)
 
 # 南京大学
+【报名截止：2023.6.16】[人工智能学院 本科生开放日](https://ai.nju.edu.cn/8c/72/c53055a625778/page.htm)
 
 【报名截止：2023.6.20】[计算机科学与技术系 本科生开放日](https://cs.nju.edu.cn/8b/3d/c1702a625469/page.htm)
 
