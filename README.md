@@ -50,6 +50,8 @@
 
 # 复旦大学
 
+> https://gsao.fudan.edu.cn/7b/0e/c15014a490254/page.htm
+
 【报名截止：2023.5.31】[计算机科学技术学院](https://cs.fudan.edu.cn/7b/0b/c24257a490251/page.htm)
 
 【报名截止：2023.5.31】[大数据学院](https://sds.fudan.edu.cn/7a/51/c17701a490065/page.htm)
