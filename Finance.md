@@ -6,9 +6,9 @@
 
 ## 光华
 
-【报名截止：2023.5.8】[会计硕士 (MPAcc)](https://apply.gsm.pku.edu.cn/#/pm/status)
+~~【报名截止：2023.5.8】[会计硕士 (MPAcc)](https://apply.gsm.pku.edu.cn/#/pm/status)~~
  
-【报名截止：2023.5.8】[金融硕士 商业分析(BA)](https://apply.gsm.pku.edu.cn/#/pm/status)
+~~【报名截止：2023.5.8】[金融硕士 商业分析(BA)](https://apply.gsm.pku.edu.cn/#/pm/status)~~
 
 ~~【报名截止：2023.4.10】[金融硕士 金融专业(MFin)](https://apply.gsm.pku.edu.cn/#/pm/status)~~
 
@@ -20,9 +20,9 @@
 
 【报名截止：2023.6.4】[管理硕士](https://masters.sem.tsinghua.edu.cn/qinghuajingguanxueyuanguanlishuoshixiangmu2024jituimianzhaoshengshuoming.pdf)
 
-【报名截止：2023.5.20】[金融硕士 第二批](https://masters.sem.tsinghua.edu.cn/jinrongshuoshi2024jituimianshuoming.pdf)
+~~【报名截止：2023.5.20】[金融硕士 第二批](https://masters.sem.tsinghua.edu.cn/jinrongshuoshi2024jituimianshuoming.pdf)~~
 
-【报名截止：2023.5.12】[直博](http://pg.sem.tsinghua.edu.cn/qinghuajingguan2023nianyouxiudaxueshengboshixialingyingbaomingtongzhi-benkezhiboshiyong.pdf)
+~~【报名截止：2023.5.12】[直博](http://pg.sem.tsinghua.edu.cn/qinghuajingguan2023nianyouxiudaxueshengboshixialingyingbaomingtongzhi-benkezhiboshiyong.pdf)~~
 
 ~~【报名截止：2023.4.8】[金融硕士 第一批](https://masters.sem.tsinghua.edu.cn/jinrongshuoshi2024jituimianshuoming.pdf)~~
 
@@ -32,7 +32,7 @@
 
 【报名截止：2023.8.31】[金融硕士 第三批](https://www.pbcsf.tsinghua.edu.cn/info/1146/6447.htm)
 
-【报名截止：2023.5.20】[金融硕士 第二批](https://www.pbcsf.tsinghua.edu.cn/info/1146/6447.htm)
+~~【报名截止：2023.5.20】[金融硕士 第二批](https://www.pbcsf.tsinghua.edu.cn/info/1146/6447.htm)~~
 
 ~~【报名截止：2023.4.8】[金融硕士 第一批](https://www.pbcsf.tsinghua.edu.cn/info/1146/6447.htm)~~
 
@@ -58,11 +58,11 @@
 
 ## 高金
 
+【报名截止：2023.6.25】[夏令营 直博](https://phd.saif.sjtu.edu.cn/show-204-326.html)
+
 【报名截止：2023.6.25】[夏令营 金融硕士](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)
 
-【报名截止：2023.5.14】[迷你营4 北京](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)
-
-【报名截止：2023.6.25】[夏令营 直博](https://phd.saif.sjtu.edu.cn/show-204-326.html)
+~~【报名截止：2023.5.14】[迷你营4 北京](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)~~
 
 ~~【报名截止：2023.5.1】[迷你营3 上海](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)~~
 
@@ -74,9 +74,9 @@
 
 ## 经济学院
 
-【报名截止：2023.5.10】[夏令营 直博](https://econ.fudan.edu.cn/info/1307/21021.htm)
+~~【报名截止：2023.5.10】[夏令营 直博](https://econ.fudan.edu.cn/info/1307/21021.htm)~~
 
-【报名截止：2023.5.10】[夏令营 金融专硕](https://econ.fudan.edu.cn/info/1519/21031.htm)
+~~【报名截止：2023.5.10】[夏令营 金融专硕](https://econ.fudan.edu.cn/info/1519/21031.htm)~~
 
 ## 管理学院
 
@@ -84,7 +84,7 @@
 
 【报名截止：2023.6.5】[博思营 硕博连读](https://www.fdsm.fudan.edu.cn/graduate/graduate1556953452754)
 
-【报名截止：2023.5.8】[5月领创营](https://www.fdsm.fudan.edu.cn/mf/mf1556953405097)
+~~【报名截止：2023.5.8】[5月领创营](https://www.fdsm.fudan.edu.cn/mf/mf1556953405097)~~
 
 ~~【报名截止：2023.3.27】[4月领创营](https://www.fdsm.fudan.edu.cn/mf/mf1556953405097)~~
 
@@ -92,7 +92,7 @@
 
 【报名截止：2023.7.24】[夏令营](https://mp.weixin.qq.com/s/suPsgauwIJ2bKJpI3V3Rfw)
 
-【报名截止：2023.5.8】[体验营3 上海](https://mp.weixin.qq.com/s/suPsgauwIJ2bKJpI3V3Rfw)
+~~【报名截止：2023.5.8】[体验营3 上海](https://mp.weixin.qq.com/s/suPsgauwIJ2bKJpI3V3Rfw)~~
 
 ~~【报名截止：2023.4.10】[体验营2 北京](https://mp.weixin.qq.com/s/suPsgauwIJ2bKJpI3V3Rfw)~~
 
