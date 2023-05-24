@@ -20,6 +20,10 @@
 
 ~~【报名截止：2023.4.14】[统计学研究中心](http://www.stat.tsinghua.edu.cn/admissions/summer-camp-enroll/)~~
 
+# 北京大学
+
+【报名截止：2023.6.25】[信息工程学院](https://www.ece.pku.edu.cn/info/1027/2607.htm)
+
 # 上海交通大学
 
 > https://yzb.sjtu.edu.cn/info/1005/3697.htm
