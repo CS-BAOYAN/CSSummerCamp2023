@@ -38,6 +38,8 @@
 
 > https://yzb.sjtu.edu.cn/info/1005/3697.htm
 
+【报名截止：2023.6.27】[密西根学院](https://mp.weixin.qq.com/s/fVpZF-630lVsACLvhpU7uQ)
+
 【报名截止：2023.6.15】[电子信息与电气工程学院](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html)
 
 ~~【报名截止：2023.3.30】[密西根学院 “科研见习项目”](https://jwc.sjtu.edu.cn/info/1222/12276.htm)~~
