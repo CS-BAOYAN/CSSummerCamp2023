@@ -24,6 +24,8 @@
 
 【报名截止：2023.6.25】[信息工程学院（深圳）](https://www.ece.pku.edu.cn/info/1027/2607.htm)
 
+【报名截止：2023.6.12】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1635)
+
 # 上海交通大学
 
 > https://yzb.sjtu.edu.cn/info/1005/3697.htm
