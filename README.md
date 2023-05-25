@@ -22,9 +22,15 @@
 
 # 北京大学
 
+> https://admission.pku.edu.cn/xly/index.htm?CSRFT=F92S-Z8W8-ES9W-6BFM-W68T-OTF2-6VOU-KQN9
+
 【报名截止：2023.6.25】[信息工程学院（深圳）](https://www.ece.pku.edu.cn/info/1027/2607.htm)
 
+【报名截止：2023.6.15】[未来技术学院](https://future.pku.edu.cn/xwzk/50257bf9fb784cc8ab174d9de7b68fb4.htm)
+
 【报名截止：2023.6.12】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1635)
+
+【报名截止：2023.6.12】[北大工学院](https://www.coe.pku.edu.cn/graduate/notice/12117.html)
 
 # 上海交通大学
 
@@ -35,6 +41,8 @@
 ~~【报名截止：2023.3.30】[密西根学院 “科研见习项目”](https://jwc.sjtu.edu.cn/info/1222/12276.htm)~~
 
 # 浙江大学
+
+> http://www.grs.zju.edu.cn/yjszs/2023/0518/c28498a2758651/page.htm
 
 【报名截止：2023.6.24】[软件学院](http://www.cst.zju.edu.cn/2023/0525/c32178a2762914/page.htm)
 
