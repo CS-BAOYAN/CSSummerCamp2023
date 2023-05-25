@@ -74,6 +74,8 @@
 
 # 同济大学
 
+> https://yz.tongji.edu.cn/info/1010/3121.htm
+
 【报名截止：2023.6.12】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/11487.htm)
 
 【报名截止：2023.6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/4205.htm)
