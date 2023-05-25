@@ -132,11 +132,15 @@
 
 # 南开大学
 
+> https://yzxt.nankai.edu.cn/intern/frontend/web/pg-net-sign-up/index
+
 【报名截止：2023.6.20】[软件学院](https://cs.nankai.edu.cn/info/1042/3466.htm)
 
 【报名截止：2023.6.9】[统计与数据科学学院](https://stat.nankai.edu.cn/2023/0522/c12320a512992/page.htm)
 
 # 厦门大学
+
+> https://zs.xmu.edu.cn/info/1026/7204.htm
 
 【报名截止：2023.6.15】[信息学院](https://informatics.xmu.edu.cn/info/1050/28869.htm)
 
