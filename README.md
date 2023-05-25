@@ -30,7 +30,7 @@
 
 【报名截止：2023.6.12】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1635)
 
-【报名截止：2023.6.12】[北大工学院](https://www.coe.pku.edu.cn/graduate/notice/12117.html)
+【报名截止：2023.6.12】[工学院](https://www.coe.pku.edu.cn/graduate/notice/12117.html)
 
 # 上海交通大学
 
