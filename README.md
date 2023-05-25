@@ -34,24 +34,6 @@
 
 【报名截止：2023.6.12】[工学院](https://www.coe.pku.edu.cn/graduate/notice/12117.html)
 
-# 中国科学院
-
-【报名截止：2023.7.1】[软件研究所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202305/t20230510_6751443.html)
-
-【报名截止：2023.6.28】[计算机网络信息中心](http://www.cnic.cas.cn/yjsjy/zsxx/tjms/202305/t20230518_6758322.html)
-
-【报名截止：2023.6.25】[深圳先进院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202305/t20230512_6753566.html)
-
-【报名截止：2023.6.20】[声学所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202305/t20230509_6750931.html)
-
-【报名截止：N/A】[空天信息创新研究院 春令营](https://mp.weixin.qq.com/s/kPkHMAKjcdQzZd6WTPjqGA)
-
-【报名截止：N/A】[杭州高等研究院](http://hias.ucas.ac.cn/info/1100/4428.htm)
-
-~~【报名截止：2023.5.17】[计算所 春闱计划](http://www.ict.cas.cn/yjsjy/zsxx/sszs/202305/t20230512_6753303.html)~~
-
-~~【报名截止：2023.2.28】[自动化研究所 “人工智能菁英班”项目](https://mp.weixin.qq.com/s/7AuOk-fl3zrHBZ8FOC75Vw)~~
-
 # 上海交通大学
 
 > https://yzb.sjtu.edu.cn/info/1005/3697.htm
@@ -107,6 +89,24 @@
 > http://tqms.ustc.edu.cn/
 
 【报名截止：N/A】[MIRA Lab](https://miralab.ai/admission/admission_2023/)
+
+# 中国科学院
+
+【报名截止：2023.7.1】[软件研究所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202305/t20230510_6751443.html)
+
+【报名截止：2023.6.28】[计算机网络信息中心](http://www.cnic.cas.cn/yjsjy/zsxx/tjms/202305/t20230518_6758322.html)
+
+【报名截止：2023.6.25】[深圳先进院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202305/t20230512_6753566.html)
+
+【报名截止：2023.6.20】[声学所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202305/t20230509_6750931.html)
+
+【报名截止：N/A】[空天信息创新研究院 春令营](https://mp.weixin.qq.com/s/kPkHMAKjcdQzZd6WTPjqGA)
+
+【报名截止：N/A】[杭州高等研究院](http://hias.ucas.ac.cn/info/1100/4428.htm)
+
+~~【报名截止：2023.5.17】[计算所 春闱计划](http://www.ict.cas.cn/yjsjy/zsxx/sszs/202305/t20230512_6753303.html)~~
+
+~~【报名截止：2023.2.28】[自动化研究所 “人工智能菁英班”项目](https://mp.weixin.qq.com/s/7AuOk-fl3zrHBZ8FOC75Vw)~~
 
 # 同济大学
 
