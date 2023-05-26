@@ -14,6 +14,8 @@
 
 【报名截止：2023.6.9】[精密仪器系](https://mp.weixin.qq.com/s?srcid=0516yoq33IRsYhqXMLERqPFd&scene=23&sharer_sharetime=1684222587305&mid=2649760510&sharer_shareid=43d6ab70a5210e01418614ab72f7162b&sn=c48ec84432e8d9877ad62ad4fe11d3b9&idx=1&__biz=MzA5NjQ4ODkxMA%3D%3D&chksm=88abde5fbfdc5749a19aced64fd33668a4fa86b62aa1fd00991b417d9e5050eb6ae576eba195&mpshare=1#rd)
 
+【报名截止：2023.6.6】[计算机科学与技术系](https://www.cs.tsinghua.edu.cn/info/1048/5459.htm)
+
 【报名截止：N/A】[智能产业研究院 AIR](https://mp.weixin.qq.com/s/SbJz9hzaaYDftQktzO70Qw)
 
 ~~【报名截止：2023.5.15】[交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/2023/appinfo.php)~~
@@ -66,7 +68,7 @@
 
 【报名截止：2023.6.16】[人工智能学院 本科生开放日](https://ai.nju.edu.cn/8c/72/c53055a625778/page.htm)
 
-【报名截止：2023.6.15】[智能科学与技术学院](https://ai.nju.edu.cn/8d/c6/c17810a626118/page.htm)
+【报名截止：2023.6.15】[智能科学与技术学院（苏洲）](https://ai.nju.edu.cn/8d/c6/c17810a626118/page.htm)
 
 【报名截止：2023.6.1】[计算机软件研究所 本科生开放日](https://cs.nju.edu.cn/ics/recruit/index.html)
 
@@ -233,7 +235,7 @@
 
 **夏令营报名仓库、入营名单、预推免报名仓库主要由以下人员维护。感谢大家的支持！**
 
-2023: [@yfyeung](https://github.com/yfyeung)、[@BNSWT](https://github.com/BNSWT)、[@NoFish-528](https://github.com/NoFish-528)、[@zengkaipeng](https://github.com/zengkaipeng)
+2023: [@yfyeung](https://github.com/yfyeung)、[@BNSWT](https://github.com/BNSWT)、[@NoFish-528](https://github.com/NoFish-528)、[@zengkaipeng](https://github.com/zengkaipeng)、[@shannany0606](https://github.com/shannany0606)
 
 2022: [@Ling-Hao (Evan) CHEN](https://github.com/LinghaoChan)、[@BoJack](https://github.com/ddlBoJack)、[@zengkaipeng](https://github.com/zengkaipeng)、[@Kevin Axel](https://github.com/KveinAxel)、[@Sumsky21](https://github.com/Sumsky21)、[@caposerenity](https://github.com/caposerenity)
 
