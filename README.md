@@ -90,6 +90,8 @@
 
 【报名截止：2023.5.31】[智能医学研究院](https://imi.fudan.edu.cn/info/1033/1323.htm)
 
+【报名截止：2023.5.31】[数字医学研究中心](https://miccai.fudan.edu.cn/7b/f7/c34228a490487/page.htm)
+
 # 中国科学技术大学
 
 > http://tqms.ustc.edu.cn/
