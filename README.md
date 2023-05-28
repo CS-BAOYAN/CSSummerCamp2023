@@ -36,6 +36,8 @@
 
 【报名截止：2023.6.12】[工学院](https://www.coe.pku.edu.cn/graduate/notice/12117.html)
 
+【报名截止：2023.6.14】[电子学院](https://ele.pku.edu.cn/info/1232/2633.htm)
+
 # 上海交通大学
 
 > https://yzb.sjtu.edu.cn/info/1005/3697.htm
@@ -153,6 +155,7 @@
 > https://zs.xmu.edu.cn/info/1026/7204.htm
 
 【报名截止：2023.6.15】[信息学院](https://informatics.xmu.edu.cn/info/1050/28869.htm)
+
 【报名截止：2023.6.15】[人工智能研究院](https://iai.xmu.edu.cn/info/1110/2974.htm)
 
 # 中山大学
@@ -162,6 +165,10 @@
 【报名截止：2023.6.15】[计算机学院](https://cse.sysu.edu.cn/content/6789)
 
 【报名截止：2023.6.5】[电子与通信工程学院](https://sece.sysu.edu.cn/zs/zs01/1408893.htm)
+
+# 北京师范大学
+
+【报名截止：2023.6.26】[人工智能学院](https://ai.bnu.edu.cn/tzgg/542aa8ea1b1a480bb5a86aebd7e3dcd6.html)
 
 # 华东师范大学
 > https://yjszs.ecnu.edu.cn/system/xlyjbxx_list.asp
