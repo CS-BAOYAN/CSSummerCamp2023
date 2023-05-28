@@ -162,6 +162,8 @@
 
 【报名截止：2023.6.25】[软件工程学院](https://sse.sysu.edu.cn/article/536)
 
+【报名截止：2023.6.18】[网络空间安全学院](https://scst.sysu.edu.cn/news/news02/1409129.htm)
+
 【报名截止：2023.6.15】[计算机学院](https://cse.sysu.edu.cn/content/6789)
 
 【报名截止：2023.6.15】[人工智能学院](https://sai.sysu.edu.cn/teach/graduate/1409130.htm)
