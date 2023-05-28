@@ -32,11 +32,11 @@
 
 【报名截止：2023.6.15】[未来技术学院](https://future.pku.edu.cn/xwzk/50257bf9fb784cc8ab174d9de7b68fb4.htm)
 
+【报名截止：2023.6.14】[电子学院](https://ele.pku.edu.cn/info/1232/2633.htm)
+
 【报名截止：2023.6.12】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1635)
 
 【报名截止：2023.6.12】[工学院](https://www.coe.pku.edu.cn/graduate/notice/12117.html)
-
-【报名截止：2023.6.14】[电子学院](https://ele.pku.edu.cn/info/1232/2633.htm)
 
 # 上海交通大学
 
