@@ -164,7 +164,10 @@
 
 【报名截止：2023.6.15】[计算机学院](https://cse.sysu.edu.cn/content/6789)
 
+【报名截止：2023.6.15】[人工智能学院](https://sai.sysu.edu.cn/teach/graduate/1409130.htm)
+
 【报名截止：2023.6.5】[电子与通信工程学院](https://sece.sysu.edu.cn/zs/zs01/1408893.htm)
+
 
 # 北京师范大学
 
