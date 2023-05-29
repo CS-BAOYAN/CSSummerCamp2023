@@ -18,6 +18,8 @@
 
 【报名截止：2023.6.6】[计算机科学与技术系](https://www.cs.tsinghua.edu.cn/info/1048/5459.htm)
 
+【报名截止：2023.6.6】[网络科学与网络空间研究院](https://www.insc.tsinghua.edu.cn/info/1179/3487.htm)
+
 【报名截止：N/A】[智能产业研究院 AIR](https://mp.weixin.qq.com/s/SbJz9hzaaYDftQktzO70Qw)
 
 ~~【报名截止：2023.5.15】[交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/2023/appinfo.php)~~
