@@ -34,7 +34,7 @@
 
 【报名截止：2023.6.25】[信息工程学院（深圳）](https://www.ece.pku.edu.cn/info/1027/2607.htm)
 
-【报名截止：2023.6.15】[集成电路学院](https://ic.pku.edu.cn/rcpy/yjszs/429c8c5dbf62468f9745e985b55d1c04.htm)
+【报名截止：2023.6.18】[集成电路学院](https://ic.pku.edu.cn/rcpy/yjszs/429c8c5dbf62468f9745e985b55d1c04.htm)
 
 【报名截止：2023.6.15】[未来技术学院](https://future.pku.edu.cn/xwzk/50257bf9fb784cc8ab174d9de7b68fb4.htm)
 
