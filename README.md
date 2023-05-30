@@ -82,7 +82,7 @@
 
 【报名截止：2023.6.15】[智能科学与技术学院（苏州）](https://ai.nju.edu.cn/8d/c6/c17810a626118/page.htm)
 
-【报名截止：2023.6.1】[计算机软件研究所 本科生开放日](https://cs.nju.edu.cn/ics/recruit/index.html)
+【报名截止：2023.6.15】[计算机软件研究所 本科生开放日](https://cs.nju.edu.cn/ics/recruit/index.html)
 
 【报名截止：2023.5.30】[NJUNLP 额外考核](https://mp.weixin.qq.com/s/QmuYVNNsqqfZ66pG6VvB0A)
 
