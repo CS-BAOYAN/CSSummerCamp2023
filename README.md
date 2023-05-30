@@ -124,9 +124,11 @@
 
 【报名截止：2023.6.20】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202305/t20230509_6750931.html)
 
-~~【报名截止：N/A】[空天信息创新研究院 春令营](https://mp.weixin.qq.com/s/kPkHMAKjcdQzZd6WTPjqGA)~~
+【报名截止：2023.6.20】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202305/t20230505_6749000.html)
 
 【报名截止：N/A】[杭州高等研究院](http://hias.ucas.ac.cn/info/1100/4428.htm)
+
+~~【报名截止：N/A】[空天信息创新研究院 春令营](https://mp.weixin.qq.com/s/kPkHMAKjcdQzZd6WTPjqGA)~~
 
 ~~【报名截止：2023.5.17】[计算所 春闱计划](http://www.ict.cas.cn/yjsjy/zsxx/sszs/202305/t20230512_6753303.html)~~
 
