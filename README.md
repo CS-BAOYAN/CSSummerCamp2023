@@ -38,6 +38,8 @@
 
 【报名截止：2023.6.15】[未来技术学院](https://future.pku.edu.cn/xwzk/50257bf9fb784cc8ab174d9de7b68fb4.htm)
 
+【报名截止：2023.6.14】[计算机学院](https://cs.pku.edu.cn/info/1336/4012.htm)
+
 【报名截止：2023.6.14】[智能学院](https://sai.pku.edu.cn/info/1083/2721.htm)
 
 【报名截止：2023.6.14】[电子学院](https://ele.pku.edu.cn/info/1232/2633.htm)
