@@ -188,6 +188,10 @@
 
 【报名截止：2023.6.10】[夏令营推免系统](https://gra.csu.edu.cn/info/1012/39140.htm)
 
+# 中国海洋大学
+
+【报名截止：2023.6.19】[信息科学与工程学部](http://it.ouc.edu.cn/2023/0530/c16066a433770/page.htm)
+
 # 北京师范大学
 
 【报名截止：2023.6.26】[人工智能学院](https://ai.bnu.edu.cn/tzgg/542aa8ea1b1a480bb5a86aebd7e3dcd6.html)
