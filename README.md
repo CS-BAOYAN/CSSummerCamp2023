@@ -122,6 +122,8 @@
 
 【报名截止：2023.6.30】[科学岛](https://xly.ustc.edu.cn/news.php?newsid=932)
 
+【报名截止：2023.6.25】[计算机科学](https://xly.ustc.edu.cn/news.php?newsid=928)
+
 【报名截止：N/A】[MIRA Lab](https://miralab.ai/admission/admission_2023/)
 
 # 中国科学院
