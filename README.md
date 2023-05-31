@@ -64,6 +64,8 @@
 
 【报名截止：2023.6.28】[计算机学院](http://www.cs.zju.edu.cn/csen/2023/0525/c27011a2763109/page.htm)
 
+【报名截止：2023.6.28】[网络空间安全研究中心](https://icsr.zju.edu.cn/2023/0529/c70139a2764625/page.htm)
+
 【报名截止：2023.6.24】[软件学院](http://www.cst.zju.edu.cn/2023/0525/c32178a2762914/page.htm)
 
 【报名截止：2023.6.15】[信息与电子工程学院](http://www.isee.zju.edu.cn/2023/0517/c21109a2758376/page.htm)
