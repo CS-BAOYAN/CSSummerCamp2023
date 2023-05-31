@@ -112,13 +112,13 @@
 
 > https://xly.ustc.edu.cn/newslist.php
 
-【报名截止：2023.6.30】[先进技术研究院](https://xly.ustc.edu.cn/news.php?newsid=925)
-
 【报名截止：2023.6.30】[网络空间安全学院](https://xly.ustc.edu.cn/news.php?newsid=924)
 
 【报名截止：2023.6.30】[信息科学技术学院](https://xly.ustc.edu.cn/news.php?newsid=922)
 
 【报名截止：2023.6.30】[苏州高等研究院](https://sz.ustc.edu.cn/xwgg_show/1119.html)
+
+【报名截止：2023.6.30】[先进技术研究院](https://xly.ustc.edu.cn/news.php?newsid=925)
 
 【报名截止：2023.6.30】[科学岛](https://xly.ustc.edu.cn/news.php?newsid=932)
 
