@@ -217,12 +217,6 @@
 
 【报名截止：2023.6.12】[西湖大学&浙江大学联培 直博](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202304/t20230411_27260.shtml)
 
-# 吉林大学
-
-~~【报名截止：2023.5.28】[计算机学院](http://ccst.jlu.edu.cn/info/1229/18143.htm)~~
-
-~~【报名截止：2023.5.20】[软件学院](https://mp.weixin.qq.com/s/_AmyjqmMfr3iQ1MFXpx7Ag)~~
-
 # 杭州电子科技大学
 
 【报名截止：2023.8.1】[智能信息处理实验室](https://mp.weixin.qq.com/s/eRH3XjcxzjGSw4MjDg_5gw)
@@ -253,9 +247,15 @@
 
 【报名截止：2023.6.6】[南瑞电气与自动化学院](http://eae.njnu.edu.cn/info/1041/3016.htm)
 
+# 吉林大学
+
+~~【报名截止：2023.5.28】[计算机学院](http://ccst.jlu.edu.cn/info/1229/18143.htm)~~
+
+~~【报名截止：2023.5.20】[软件学院](https://mp.weixin.qq.com/s/_AmyjqmMfr3iQ1MFXpx7Ag)~~
+
 # 澳门大学
 
-【报名截止：2023.5.31】[澳門大學科技學院舆協同劊新硏究院聯合𡒊辧 暑期研習營](https://www.fst.um.edu.mo/event/the-4th-summer-camp-for-outstanding-students-now-open-for-application-2/)
+~~【报名截止：2023.5.31】[澳門大學科技學院舆協同劊新硏究院聯合𡒊辧 暑期研習營](https://www.fst.um.edu.mo/event/the-4th-summer-camp-for-outstanding-students-now-open-for-application-2/)~~
 
 ~~【报名截止：2023.2.20】[澳门大学&广东省智能科学技术研究院联培（可视化，知识图谱）](https://mp.weixin.qq.com/s/UptD231MDxDdl54PteALcg)~~
 
