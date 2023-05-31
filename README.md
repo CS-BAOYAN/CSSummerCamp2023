@@ -120,6 +120,8 @@
 
 【报名截止：2023.6.30】[苏州高等研究院](https://sz.ustc.edu.cn/xwgg_show/1119.html)
 
+【报名截止：2023.6.30】[科学岛](https://xly.ustc.edu.cn/news.php?newsid=932)
+
 【报名截止：N/A】[MIRA Lab](https://miralab.ai/admission/admission_2023/)
 
 # 中国科学院
