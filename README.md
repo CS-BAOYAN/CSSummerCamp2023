@@ -86,7 +86,7 @@
 
 【报名截止：2023.6.15】[计算机软件研究所 本科生开放日](https://cs.nju.edu.cn/ics/recruit/index.html)
 
-【报名截止：2023.5.30】[NJUNLP 额外考核](https://mp.weixin.qq.com/s/QmuYVNNsqqfZ66pG6VvB0A)
+~~【报名截止：2023.5.30】[NJUNLP 额外考核](https://mp.weixin.qq.com/s/QmuYVNNsqqfZ66pG6VvB0A)~~
 
 ~~【报名截止：2023.5.15】[LAMDA 额外考核](http://www.lamda.nju.edu.cn/recruit-2024/recruit-2024.html)~~
 
