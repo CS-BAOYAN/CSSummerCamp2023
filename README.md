@@ -112,6 +112,12 @@
 
 > http://tqms.ustc.edu.cn/
 
+【报名截止：2023.6.30】[先进技术研究院](https://xly.ustc.edu.cn/news.php?newsid=925)
+
+【报名截止：2023.6.30】[网络空间安全学院](https://xly.ustc.edu.cn/news.php?newsid=924)
+
+【报名截止：2023.6.30】[信息科学技术学院](https://xly.ustc.edu.cn/news.php?newsid=922)
+
 【报名截止：N/A】[MIRA Lab](https://miralab.ai/admission/admission_2023/)
 
 # 中国科学院
