@@ -110,7 +110,7 @@
 
 # 中国科学技术大学
 
-> http://tqms.ustc.edu.cn/
+> https://xly.ustc.edu.cn/newslist.php
 
 【报名截止：2023.6.30】[先进技术研究院](https://xly.ustc.edu.cn/news.php?newsid=925)
 
