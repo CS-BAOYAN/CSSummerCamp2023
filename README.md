@@ -209,6 +209,10 @@
 
 【报名截止：2023.6.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1067/5580.htm)
 
+# 兰州大学
+
+【报名截止：2023.6.20】[信息科学与工程学院](https://xxxy.lzu.edu.cn/tongzhigonggao/2023/0529/216630.html)
+
 # 中国海洋大学
 
 【报名截止：2023.6.19】[信息科学与工程学部](http://it.ouc.edu.cn/2023/0530/c16066a433770/page.htm)
