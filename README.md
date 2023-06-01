@@ -76,7 +76,7 @@
 
 【报名截止：2023.6.6】[脑科学与脑医学学院](https://mp.weixin.qq.com/s/7rN1LXpL-rJ9N6jDnggF6A)
 
-【N/A】[良渚实验室](https://mp.weixin.qq.com/s/OK_T1vqvc7kfy1UKZBILuA)
+【报名截止：2023.6.18】[良渚实验室](http://liangzhulab.zju.edu.cn/index.php?m=content&c=index&a=show&catid=63&id=1103)
 
 # 南京大学
 
@@ -120,6 +120,8 @@
 
 【报名截止：2023.6.30】[网络空间安全学院](https://xly.ustc.edu.cn/news.php?newsid=924)
 
+【报名截止：2023.6.30】[大数据学院](http://m.xly.ustc.edu.cn/news.php?newsid=936)
+
 【报名截止：2023.6.30】[信息科学技术学院](https://xly.ustc.edu.cn/news.php?newsid=922)
 
 【报名截止：2023.6.30】[苏州高等研究院](https://sz.ustc.edu.cn/xwgg_show/1119.html)
@@ -146,7 +148,7 @@
 
 【报名截止：2023.6.20】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202305/t20230505_6749000.html)
 
-【报名截止：N/A】[杭州高等研究院](http://hias.ucas.ac.cn/info/1100/4428.htm)
+【报名截止：2023.6.19】[杭州高等研究院-智能科学与技术学院](http://hias.ucas.ac.cn/znkxyjs/info/1055/1565.htm)
 
 ~~【报名截止：N/A】[空天信息创新研究院 春令营](https://mp.weixin.qq.com/s/kPkHMAKjcdQzZd6WTPjqGA)~~
 
@@ -184,6 +186,18 @@
 
 【报名截止：2023.6.9】[统计与数据科学学院](https://stat.nankai.edu.cn/2023/0522/c12320a512992/page.htm)
 
+# 西安交通大学
+
+【报名截止：2023.6.18】[电子与信息学部-电子科学与工程学院](http://esteie.xjtu.edu.cn/info/1051/2652.htm)
+
+【报名截止：2023.6.20】[电信学部—软件学院](http://se.xjtu.edu.cn/info/1043/2614.htm)
+
+【报名截止：2023.6.15】[电子与信息学部-微电子学院](http://ele.xjtu.edu.cn/info/1013/2042.htm)
+
+【报名截止：2023.6.14】[电子与信息学部-信息与通信工程学院](http://dice.xjtu.edu.cn/info/1009/2667.htm)
+
+【报名截止：N/A】[电信学部-网络空间安全学院](http://cybersec.xjtu.edu.cn/info/1017/1823.htm)
+
 # 厦门大学
 
 > https://zs.xmu.edu.cn/info/1026/7204.htm
@@ -205,6 +219,8 @@
 【报名截止：2023.6.5】[电子与通信工程学院](https://sece.sysu.edu.cn/zs/zs01/1408893.htm)
 
 # 中南大学
+
+【报名截止：2023.6.10】[自动化学院](https://soa.csu.edu.cn/info/1032/7026.htm)
 
 【报名截止：2023.6.10】[计算机学院](https://gra.csu.edu.cn/info/1012/39140.htm)
 
@@ -276,6 +292,8 @@
 【报名截止：2023.6.6】[南瑞电气与自动化学院](http://eae.njnu.edu.cn/info/1041/3016.htm)
 
 # 吉林大学
+
+【报名截止：2023.6.25】[电子科学与工程学院](http://ee.jlu.edu.cn/info/1038/7898.htm)
 
 ~~【报名截止：2023.5.28】[计算机学院](http://ccst.jlu.edu.cn/info/1229/18143.htm)~~
 
