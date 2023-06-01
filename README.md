@@ -224,7 +224,7 @@
 
 【报名截止：2023.6.10】[自动化学院](https://soa.csu.edu.cn/info/1032/7026.htm)
 
-【报名截止：2023.6.10】[计算机学院](https://gra.csu.edu.cn/info/1012/39140.htm)
+【报名截止：2023.6.10】[计算机学院](https://cse.csu.edu.cn/info/1040/8287.htm)
 
 【报名截止：2023.6.10】[大数据研究院](https://gra.csu.edu.cn/info/1012/39140.htm)
 
