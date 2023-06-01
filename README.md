@@ -132,8 +132,6 @@
 
 【报名截止：2023.6.25】[计算机科学](https://xly.ustc.edu.cn/news.php?newsid=928)
 
-【报名截止：2023.6.19】[杭州高等研究院-智能科学与技术学院](http://hias.ucas.ac.cn/znkxyjs/info/1055/1565.htm)
-
 【报名截止：N/A】[MIRA Lab](https://miralab.ai/admission/admission_2023/)
 
 # 中国科学院
@@ -150,7 +148,7 @@
 
 【报名截止：2023.6.20】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202305/t20230505_6749000.html)
 
-【报名截止：N/A】[杭州高等研究院](http://hias.ucas.ac.cn/info/1100/4428.htm)
+【报名截止：2023.6.19】[杭州高等研究院-智能科学与技术学院](http://hias.ucas.ac.cn/znkxyjs/info/1055/1565.htm)
 
 ~~【报名截止：N/A】[空天信息创新研究院 春令营](https://mp.weixin.qq.com/s/kPkHMAKjcdQzZd6WTPjqGA)~~
 
@@ -190,15 +188,15 @@
 
 # 西安交通大学
 
-【报名截止：2023.6.14】[电子与信息学部-信息与通信工程学院](http://dice.xjtu.edu.cn/info/1009/2667.htm)
-
-【报名截止：2023.6.15】[电子与信息学部-微电子学院](http://ele.xjtu.edu.cn/info/1013/2042.htm)
-
 【报名截止：2023.6.18】[电子与信息学部-电子科学与工程学院](http://esteie.xjtu.edu.cn/info/1051/2652.htm)
 
 【报名截止：2023.6.20】[电信学部—软件学院](http://se.xjtu.edu.cn/info/1043/2614.htm)
 
-【报名截止：N/A】[电信学部-网络空间安全学院](http://cybersec.xjtu.edu.cn/xwzx/tzgg.htm)
+【报名截止：2023.6.15】[电子与信息学部-微电子学院](http://ele.xjtu.edu.cn/info/1013/2042.htm)
+
+【报名截止：2023.6.14】[电子与信息学部-信息与通信工程学院](http://dice.xjtu.edu.cn/info/1009/2667.htm)
+
+【报名截止：N/A】[电信学部-网络空间安全学院](http://cybersec.xjtu.edu.cn/info/1017/1823.htm)
 
 # 厦门大学
 
