@@ -36,6 +36,8 @@
 
 【报名截止：2023.6.18】[集成电路学院](https://ic.pku.edu.cn/rcpy/yjszs/429c8c5dbf62468f9745e985b55d1c04.htm)
 
+【报名截止：2023.6.16】[软件与微电子学院](https://www.ss.pku.edu.cn/admission/admnotice/4456.html)
+
 【报名截止：2023.6.15】[未来技术学院](https://future.pku.edu.cn/xwzk/50257bf9fb784cc8ab174d9de7b68fb4.htm)
 
 【报名截止：2023.6.14】[计算机学院](https://cs.pku.edu.cn/info/1336/4012.htm)
