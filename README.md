@@ -142,6 +142,8 @@
 
 【报名截止：2023.6.25】[深圳先进院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202305/t20230512_6753566.html)
 
+【报名截止：2023.6.20】[自动化研究所](http://www.ia.cas.cn/yjsjy/zs/sszs/202306/t20230601_6766442.html)
+
 【报名截止：2023.6.20】[信息工程研究所](http://www.iie.ac.cn/xwdt2020/tzgg2020/202305/t20230523_6761355.html)
 
 【报名截止：2023.6.20】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202305/t20230509_6750931.html)
