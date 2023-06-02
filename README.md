@@ -150,7 +150,7 @@
 
 【报名截止：2023.6.20】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202305/t20230505_6749000.html)
 
-【报名截止：2023.6.19】[杭州高等研究院-智能科学与技术学院](http://hias.ucas.ac.cn/znkxyjs/info/1055/1565.htm)
+【报名截止：2023.6.12】[杭州高等研究院-智能科学与技术学院](http://hias.ucas.ac.cn/znkxyjs/info/1055/1565.htm)
 
 ~~【报名截止：N/A】[空天信息创新研究院 春令营](https://mp.weixin.qq.com/s/kPkHMAKjcdQzZd6WTPjqGA)~~
 
