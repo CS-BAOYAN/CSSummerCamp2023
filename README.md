@@ -158,14 +158,6 @@
 
 ~~【报名截止：2023.2.28】[自动化研究所 “人工智能菁英班”项目](https://mp.weixin.qq.com/s/7AuOk-fl3zrHBZ8FOC75Vw)~~
 
-# 同济大学
-
-> https://yz.tongji.edu.cn/info/1010/3121.htm
-
-【报名截止：2023.6.12】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/11487.htm)
-
-【报名截止：2023.6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/4205.htm)
-
 # 香港中文大学
 
 【报名截止：2023.6.11】[工程学院系统工程与工程管理系（SEEM） 博士](https://mp.weixin.qq.com/s/aF4c6ngbn1JgyaZIXfahig)
@@ -188,17 +180,27 @@
 
 【报名截止：2023.6.9】[统计与数据科学学院](https://stat.nankai.edu.cn/2023/0522/c12320a512992/page.htm)
 
+# 同济大学
+
+> https://yz.tongji.edu.cn/info/1010/3121.htm
+
+【报名截止：2023.6.12】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/11487.htm)
+
+【报名截止：2023.6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/4205.htm)
+
 # 西安交通大学
 
-【报名截止：2023.6.18】[电子与信息学部-电子科学与工程学院](http://esteie.xjtu.edu.cn/info/1051/2652.htm)
+> https://yz.xjtu.edu.cn/a2023xly.htm
 
-【报名截止：2023.6.20】[电信学部—软件学院](http://se.xjtu.edu.cn/info/1043/2614.htm)
+【报名截止：2023.6.20】[电子与信息学部 软件学院](http://se.xjtu.edu.cn/info/1043/2614.htm)
 
-【报名截止：2023.6.15】[电子与信息学部-微电子学院](http://ele.xjtu.edu.cn/info/1013/2042.htm)
+【报名截止：2023.6.18】[电子与信息学部 电子科学与工程学院](http://esteie.xjtu.edu.cn/info/1051/2652.htm)
 
-【报名截止：2023.6.14】[电子与信息学部-信息与通信工程学院](http://dice.xjtu.edu.cn/info/1009/2667.htm)
+【报名截止：2023.6.15】[电子与信息学部 微电子学院](http://ele.xjtu.edu.cn/info/1013/2042.htm)
 
-【报名截止：N/A】[电信学部-网络空间安全学院](http://cybersec.xjtu.edu.cn/info/1017/1823.htm)
+【报名截止：2023.6.14】[电子与信息学部 信息与通信工程学院](http://dice.xjtu.edu.cn/info/1009/2667.htm)
+
+【报名截止：N/A】[电子与信息学部 网络空间安全学院](http://cybersec.xjtu.edu.cn/info/1017/1823.htm)
 
 # 厦门大学
 
