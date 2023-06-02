@@ -269,6 +269,10 @@
 
 【报名截止：2023.8.1】[智能信息处理实验室](https://mp.weixin.qq.com/s/eRH3XjcxzjGSw4MjDg_5gw)
 
+# 北京工业大学
+
+> https://yanzhao.bjut.edu.cn/info/1025/6520.htm
+
 # 上海财经大学
 
 【报名截止：2023.6.27】[交叉科学研究院](https://riis.sufe.edu.cn/jxChinese/0e/e8/c10268a200424/page.htm)
