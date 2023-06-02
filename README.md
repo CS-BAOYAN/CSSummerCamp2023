@@ -8,10 +8,6 @@
 
 另附[【腾讯文档】2023夏令营入营录取结果开奖表](https://docs.qq.com/sheet/DQlZSR1hKYUVTZ0hF?tab=BB08J2)，请使用加入了绿群的QQ号查看文档。
 
-# 天津大学
-
-【报名截止：2023.6.16】[智能与计算学部](http://cic.tju.edu.cn/info/1041/4451.htm)
-
 # 清华大学
 
 > https://yz.tsinghua.edu.cn/xlyxx.htm
@@ -217,6 +213,10 @@
 【报名截止：2023.6.15】[人工智能学院](https://sai.sysu.edu.cn/teach/graduate/1409130.htm)
 
 【报名截止：2023.6.5】[电子与通信工程学院](https://sece.sysu.edu.cn/zs/zs01/1408893.htm)
+
+# 天津大学
+
+【报名截止：2023.6.16】[智能与计算学部](http://cic.tju.edu.cn/info/1041/4451.htm)
 
 # 中南大学
 
