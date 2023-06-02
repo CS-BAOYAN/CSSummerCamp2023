@@ -16,7 +16,7 @@
 
 > https://yz.tsinghua.edu.cn/xlyxx.htm
 
-【报名截止：2023.6.20】[深圳国际研究生院](https://www.sigs.tsinghua.edu.cn/2023/0531/c120a63499/page.htm)
+【报名截止：2023.6.20】[数据与信息研究院（深圳）](https://www.sigs.tsinghua.edu.cn/2023/0531/c120a63499/page.htm)
 
 【报名截止：2023.6.9】[集成电路学院](https://www.sic.tsinghua.edu.cn/info/1036/1892.htm)
 
