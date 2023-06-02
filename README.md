@@ -96,24 +96,6 @@
 
 ~~【报名截止：2023.5.15】[LAMDA 额外考核](http://www.lamda.nju.edu.cn/recruit-2024/recruit-2024.html)~~
 
-# 复旦大学
-
-> https://gsao.fudan.edu.cn/7b/0e/c15014a490254/page.htm
-
-~~【报名截止：2023.5.31】[计算机科学技术学院](https://cs.fudan.edu.cn/7b/0b/c24257a490251/page.htm)~~
-
-~~【报名截止：2023.5.31】[大数据学院](https://sds.fudan.edu.cn/7a/51/c17701a490065/page.htm)~~
-
-~~【报名截止：2023.5.31】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4398)~~
-
-~~【报名截止：2023.5.31】[工程与应用技术研究院](http://faet.fudan.edu.cn/7b/e8/c23815a490472/page.htm)~~
-
-~~【报名截止：2023.5.31】[类脑智能科学与技术研究院](https://istbi.fudan.edu.cn/info/1167/4890.htm)~~
-
-~~【报名截止：2023.5.31】[智能医学研究院](https://imi.fudan.edu.cn/info/1033/1323.htm)~~
-
-~~【报名截止：2023.5.31】[数字医学研究中心](https://miccai.fudan.edu.cn/7b/f7/c34228a490487/page.htm)~~
-
 # 中国科学技术大学
 
 > https://yz.ustc.edu.cn/article/2652/182?num=-1
@@ -305,6 +287,24 @@
 
 ~~【报名截止：2023.5.20】[软件学院](https://mp.weixin.qq.com/s/_AmyjqmMfr3iQ1MFXpx7Ag)~~
 
+# 复旦大学
+
+> https://gsao.fudan.edu.cn/7b/0e/c15014a490254/page.htm
+
+~~【报名截止：2023.5.31】[计算机科学技术学院](https://cs.fudan.edu.cn/7b/0b/c24257a490251/page.htm)~~
+
+~~【报名截止：2023.5.31】[大数据学院](https://sds.fudan.edu.cn/7a/51/c17701a490065/page.htm)~~
+
+~~【报名截止：2023.5.31】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4398)~~
+
+~~【报名截止：2023.5.31】[工程与应用技术研究院](http://faet.fudan.edu.cn/7b/e8/c23815a490472/page.htm)~~
+
+~~【报名截止：2023.5.31】[类脑智能科学与技术研究院](https://istbi.fudan.edu.cn/info/1167/4890.htm)~~
+
+~~【报名截止：2023.5.31】[智能医学研究院](https://imi.fudan.edu.cn/info/1033/1323.htm)~~
+
+~~【报名截止：2023.5.31】[数字医学研究中心](https://miccai.fudan.edu.cn/7b/f7/c34228a490487/page.htm)~~
+
 # 澳门大学
 
 ~~【报名截止：2023.5.31】[澳門大學科技學院舆協同劊新硏究院聯合𡒊辧 暑期研習營](https://www.fst.um.edu.mo/event/the-4th-summer-camp-for-outstanding-students-now-open-for-application-2/)~~
@@ -325,7 +325,7 @@
 
 **夏令营报名仓库、入营名单、预推免报名仓库主要由以下人员维护。感谢大家的支持！**
 
-2023: [@yfyeung](https://github.com/yfyeung)、[@Liu-Steve](https://github.com/Liu-Steve)、[@NoFish-528](https://github.com/NoFish-528)、[@zengkaipeng](https://github.com/zengkaipeng)、[@shannany0606](https://github.com/shannany0606)、[@BNSWT](https://github.com/BNSWT)、
+2023: [@yfyeung](https://github.com/yfyeung)、[@Liu-Steve](https://github.com/Liu-Steve)、[@NoFish-528](https://github.com/NoFish-528)、[@zengkaipeng](https://github.com/zengkaipeng)、[@shannany0606](https://github.com/shannany0606)、[@BNSWT](https://github.com/BNSWT)
 
 2022: [@Ling-Hao (Evan) CHEN](https://github.com/LinghaoChan)、[@BoJack](https://github.com/ddlBoJack)、[@zengkaipeng](https://github.com/zengkaipeng)、[@Kevin Axel](https://github.com/KveinAxel)、[@Sumsky21](https://github.com/Sumsky21)、[@caposerenity](https://github.com/caposerenity)
 
