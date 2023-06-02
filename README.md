@@ -194,6 +194,10 @@
 
 【报名截止：2023.6.15】[人工智能研究院](https://iai.xmu.edu.cn/info/1110/2974.htm)
 
+# 武汉大学
+
+【报名截止：2023.6.15】[计算机学院](https://cs.whu.edu.cn/info/1055/4481.htm)
+
 # 中山大学
 
 【报名截止：2023.6.25】[软件工程学院](https://sse.sysu.edu.cn/article/536)
