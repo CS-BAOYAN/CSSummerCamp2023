@@ -116,7 +116,7 @@
 
 # 中国科学技术大学
 
-> https://xly.ustc.edu.cn/newslist.php
+> https://yz.ustc.edu.cn/article/2652/182?num=-1
 
 【报名截止：2023.6.30】[网络空间安全学院](https://xly.ustc.edu.cn/news.php?newsid=924)
 
@@ -130,7 +130,7 @@
 
 【报名截止：2023.6.30】[科学岛](https://xly.ustc.edu.cn/news.php?newsid=932)
 
-【报名截止：2023.6.25】[计算机科学](https://xly.ustc.edu.cn/news.php?newsid=928)
+【报名截止：2023.6.25】[计算机科学](http://m.xly.ustc.edu.cn/news.php?newsid=928)
 
 【报名截止：N/A】[MIRA Lab](https://miralab.ai/admission/admission_2023/)
 
