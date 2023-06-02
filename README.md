@@ -176,6 +176,8 @@
 
 # 武汉大学
 
+【报名截止：2023.6.20】[国家网络安全学院]([https://cs.whu.edu.cn/info/1055/4481.htm](https://cse.whu.edu.cn/info/1101/4563.htm))
+
 【报名截止：2023.6.15】[计算机学院](https://cs.whu.edu.cn/info/1055/4481.htm)
 
 # 西安交通大学
