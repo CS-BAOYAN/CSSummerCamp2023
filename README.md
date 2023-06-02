@@ -170,6 +170,10 @@
 
 【报名截止：2023.6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/4205.htm)
 
+# 武汉大学
+
+【报名截止：2023.6.15】[计算机学院](https://cs.whu.edu.cn/info/1055/4481.htm)
+
 # 西安交通大学
 
 > https://yz.xjtu.edu.cn/a2023xly.htm
