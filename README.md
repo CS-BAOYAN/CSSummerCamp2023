@@ -200,6 +200,8 @@
 
 【报名截止：2023.6.15】[信息学院](https://informatics.xmu.edu.cn/info/1050/28869.htm)
 
+【报名截止：2023.6.15】[电子科学与技术学院](https://github.com/jsjby/jsjby_2023)
+
 【报名截止：2023.6.15】[人工智能研究院](https://iai.xmu.edu.cn/info/1110/2974.htm)
 
 # 中山大学
