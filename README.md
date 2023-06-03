@@ -124,6 +124,8 @@
 
 【报名截止：2023.7.1】[软件研究所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202305/t20230510_6751443.html)
 
+【报名截止：2023.6.28】[沈阳自动化所](https://mp.weixin.qq.com/s/Ha1oJOHxHry9bAghbvbJjQ)
+
 【报名截止：2023.6.28】[计算机网络信息中心](http://www.cnic.cas.cn/yjsjy/zsxx/tjms/202305/t20230518_6758322.html)
 
 【报名截止：2023.6.25】[深圳先进院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202305/t20230512_6753566.html)
