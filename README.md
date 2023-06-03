@@ -303,6 +303,10 @@
 
 【报名截止：2023.6.6】[南瑞电气与自动化学院](http://eae.njnu.edu.cn/info/1041/3016.htm)
 
+# 海南大学
+
+【报名截止：2023.6.18】[生物医学工程学院](https://hd.hainanu.edu.cn/shengyi/info/1051/2631.htm)
+
 # 复旦大学
 
 > https://gsao.fudan.edu.cn/7b/0e/c15014a490254/page.htm
