@@ -166,6 +166,10 @@
 
 ~~【报名截止：2023.4.9】[数据科学理学硕士 Mini营 北京场](https://mscds.cuhk.edu.cn/nshow-2538.html)~~
 
+# 香港科技大学
+
+【报名截止：2023.9.1】[Postgraduate Student Early Recruiting](https://cse.hkust.edu.hk/pg/admissions/recruiting/)
+
 # 南开大学
 
 > https://yzxt.nankai.edu.cn/intern/frontend/web/pg-net-sign-up/index
