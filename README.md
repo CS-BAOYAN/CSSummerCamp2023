@@ -293,6 +293,10 @@
 
 【报名截止：2023.6.27】[交叉科学研究院](https://riis.sufe.edu.cn/jxChinese/0e/e8/c10268a200424/page.htm)
 
+# 海南大学
+
+【报名截止：2023.6.18】[生物医学工程学院](https://hd.hainanu.edu.cn/shengyi/info/1051/2631.htm)
+
 # 上海科技大学
 
 【报名截止：2023.6.30】[信息科学与技术学院](https://sist.shanghaitech.edu.cn/2023/0424/c7339a1077054/page.htm)
@@ -318,10 +322,6 @@
 【报名截止：2023.6.6】[计算机与电子信息学院/人工智能学院](http://ceai.njnu.edu.cn/Item/Show.asp?m=1&d=18920)
 
 【报名截止：2023.6.6】[南瑞电气与自动化学院](http://eae.njnu.edu.cn/info/1041/3016.htm)
-
-# 海南大学
-
-【报名截止：2023.6.18】[生物医学工程学院](https://hd.hainanu.edu.cn/shengyi/info/1051/2631.htm)
 
 # 复旦大学
 
