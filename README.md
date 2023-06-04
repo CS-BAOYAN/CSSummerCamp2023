@@ -144,6 +144,8 @@
 
 【报名截止：2023.6.12】[杭州高等研究院-智能科学与技术学院](http://hias.ucas.ac.cn/znkxyjs/info/1055/1565.htm)
 
+【报名截止：2023.6.15】[南京学院](https://kjxt.ucas.edu.cn/index.php/zh/tongzhi/569-2023-06-01-07-24-45)
+
 ~~【报名截止：N/A】[空天信息创新研究院 春令营](https://mp.weixin.qq.com/s/kPkHMAKjcdQzZd6WTPjqGA)~~
 
 ~~【报名截止：2023.5.17】[计算所 春闱计划](http://www.ict.cas.cn/yjsjy/zsxx/sszs/202305/t20230512_6753303.html)~~
