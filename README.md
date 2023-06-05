@@ -265,6 +265,8 @@
 
 【报名截止：2023.6.25】[电子科学与工程学院](http://ee.jlu.edu.cn/info/1038/7898.htm)
 
+【报名截止：2023.6.20】[人工智能学院](http://sai.jlu.edu.cn/info/1033/4331.htm)
+
 ~~【报名截止：2023.5.28】[计算机学院](http://ccst.jlu.edu.cn/info/1229/18143.htm)~~
 
 ~~【报名截止：2023.5.20】[软件学院](https://mp.weixin.qq.com/s/_AmyjqmMfr3iQ1MFXpx7Ag)~~
