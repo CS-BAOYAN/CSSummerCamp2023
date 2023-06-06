@@ -18,11 +18,11 @@
 
 【报名截止：2023.6.9】[精密仪器系](https://mp.weixin.qq.com/s?srcid=0516yoq33IRsYhqXMLERqPFd&scene=23&sharer_sharetime=1684222587305&mid=2649760510&sharer_shareid=43d6ab70a5210e01418614ab72f7162b&sn=c48ec84432e8d9877ad62ad4fe11d3b9&idx=1&__biz=MzA5NjQ4ODkxMA%3D%3D&chksm=88abde5fbfdc5749a19aced64fd33668a4fa86b62aa1fd00991b417d9e5050eb6ae576eba195&mpshare=1#rd)
 
-【报名截止：2023.6.6】[计算机科学与技术系](https://www.cs.tsinghua.edu.cn/info/1048/5459.htm)
-
-【报名截止：2023.6.6】[网络科学与网络空间研究院](https://www.insc.tsinghua.edu.cn/info/1179/3487.htm)
-
 【报名截止：N/A】[智能产业研究院 AIR](https://mp.weixin.qq.com/s/SbJz9hzaaYDftQktzO70Qw)
+
+~~【报名截止：2023.6.6】[计算机科学与技术系](https://www.cs.tsinghua.edu.cn/info/1048/5459.htm)~~
+
+~~【报名截止：2023.6.6】[网络科学与网络空间研究院](https://www.insc.tsinghua.edu.cn/info/1179/3487.htm)~~
 
 ~~【报名截止：2023.5.15】[交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/2023/appinfo.php)~~
 
@@ -78,7 +78,7 @@
 
 【报名截止：2023.6.15】[信息与电子工程学院](http://www.isee.zju.edu.cn/2023/0517/c21109a2758376/page.htm)
 
-【报名截止：2023.6.6】[脑科学与脑医学学院](https://mp.weixin.qq.com/s/7rN1LXpL-rJ9N6jDnggF6A)
+~~【报名截止：2023.6.6】[脑科学与脑医学学院](https://mp.weixin.qq.com/s/7rN1LXpL-rJ9N6jDnggF6A)~~
 
 # 南京大学
 
@@ -234,7 +234,7 @@
 
 【报名截止：2023.6.15】[人工智能学院](https://sai.sysu.edu.cn/teach/graduate/1409130.htm)
 
-【报名截止：2023.6.5】[电子与通信工程学院](https://sece.sysu.edu.cn/zs/zs01/1408893.htm)
+~~【报名截止：2023.6.5】[电子与通信工程学院](https://sece.sysu.edu.cn/zs/zs01/1408893.htm)~~
 
 # 中南大学
 
@@ -327,9 +327,9 @@
 
 # 南京师范大学
 
-【报名截止：2023.6.6】[计算机与电子信息学院/人工智能学院](http://ceai.njnu.edu.cn/Item/Show.asp?m=1&d=18920)
+~~【报名截止：2023.6.6】[计算机与电子信息学院/人工智能学院](http://ceai.njnu.edu.cn/Item/Show.asp?m=1&d=18920)~~
 
-【报名截止：2023.6.6】[南瑞电气与自动化学院](http://eae.njnu.edu.cn/info/1041/3016.htm)
+~~报名截止：2023.6.6】[南瑞电气与自动化学院](http://eae.njnu.edu.cn/info/1041/3016.htm)~~
 
 # 复旦大学
 
