@@ -150,6 +150,10 @@
 
 ~~【报名截止：2023.2.28】[自动化研究所 “人工智能菁英班”项目](https://mp.weixin.qq.com/s/7AuOk-fl3zrHBZ8FOC75Vw)~~
 
+# 中国人民大学
+
+【报名截止：2023.6.15】[高瓴人工智能学院](http://ai.ruc.edu.cn/newslist/notice/20230606100.html)
+
 # 香港中文大学
 
 【报名截止：2023.6.15】[人工智能与机器人理学硕士](https://sds.cuhk.edu.cn/page/909)
