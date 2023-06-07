@@ -343,6 +343,10 @@
 
 ~~【报名截止：2023.6.6】[南瑞电气与自动化学院](http://eae.njnu.edu.cn/info/1041/3016.htm)~~
 
+# 华中师范大学
+
+【报名截止：2023.6.23】[计算机学院](http://cs.ccnu.edu.cn/info/1056/3264.htm)
+
 # 复旦大学
 
 > https://gsao.fudan.edu.cn/7b/0e/c15014a490254/page.htm
