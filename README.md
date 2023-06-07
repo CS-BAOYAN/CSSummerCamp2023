@@ -68,6 +68,8 @@
 
 【报名截止：2023.6.15】[高瓴人工智能学院](http://ai.ruc.edu.cn/newslist/notice/20230606100.html)
 
+【报名截止：N/A】[AIM3 Lab](https://zhuanlan.zhihu.com/p/389474418)
+
 # 浙江大学
 
 > http://www.grs.zju.edu.cn/yjszs/2023/0518/c28498a2758651/page.htm
@@ -160,6 +162,10 @@
 
 ~~【报名截止：2023.2.28】[自动化研究所 “人工智能菁英班”项目](https://mp.weixin.qq.com/s/7AuOk-fl3zrHBZ8FOC75Vw)~~
 
+# 国防科技大学
+
+【报名截止：N/A】[优秀大学生夏令营](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13074)
+
 # 香港中文大学
 
 【报名截止：2023.6.15】[人工智能与机器人理学硕士](https://sds.cuhk.edu.cn/page/909)
@@ -240,6 +246,10 @@
 
 ~~【报名截止：2023.6.5】[电子与通信工程学院](https://sece.sysu.edu.cn/zs/zs01/1408893.htm)~~
 
+# 北京理工大学
+
+【报名截止：2023.6.14】[信息与电子学院](https://sie.bit.edu.cn/tzgg/zhtz/f24a00a759c14949a279295a55f51fa0.htm)
+
 # 中南大学
 
 【报名截止：2023.6.10】[计算机学院](https://cse.csu.edu.cn/info/1040/8287.htm)
@@ -247,10 +257,6 @@
 【报名截止：2023.6.10】[大数据研究院](https://gra.csu.edu.cn/info/1012/39140.htm)
 
 【报名截止：2023.6.10】[自动化学院](https://soa.csu.edu.cn/info/1032/7026.htm)
-
-# 天津大学
-
-【报名截止：2023.6.16】[智能与计算学部](http://cic.tju.edu.cn/info/1041/4451.htm)
 
 # 北京师范大学
 
@@ -271,6 +277,10 @@
 
 【报名截止：2023.6.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1067/5580.htm)
 
+# 天津大学
+
+【报名截止：2023.6.16】[智能与计算学部](http://cic.tju.edu.cn/info/1041/4451.htm)
+
 # 吉林大学
 
 【报名截止：2023.6.25】[电子科学与工程学院](http://ee.jlu.edu.cn/info/1038/7898.htm)
@@ -284,6 +294,10 @@
 # 兰州大学
 
 【报名截止：2023.6.20】[信息科学与工程学院](http://xxxy.lzu.edu.cn/tongzhigonggao/2023/0529/216630.html)
+
+# 东北师范大学
+
+【报名截止：2023.7.12】[信息科学与技术学院](http://ist.nenu.edu.cn/info/1157/5137.htm)
 
 # 中国海洋大学
 
@@ -308,10 +322,6 @@
 # 西南大学
 
 【报名截止：2023.6.18】[计算机与信息科学学院 软件学院](http://cis.swu.edu.cn/info/1039/2504.htm)
-
-# 兰州大学
-
-【报名截止：2023.6.20】[信息科学与工程学院](http://xxxy.lzu.edu.cn/tongzhigonggao/2023/0529/216630.html)
 
 # 海南大学
 
