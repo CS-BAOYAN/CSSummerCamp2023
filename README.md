@@ -62,6 +62,10 @@
 
 ~~【报名截止：2023.3.30】[密西根学院 “科研见习项目”](https://jwc.sjtu.edu.cn/info/1222/12276.htm)~~
 
+# 中国人民大学
+
+【报名截止：2023.6.15】[高瓴人工智能学院](http://ai.ruc.edu.cn/newslist/notice/20230606100.html)
+
 # 浙江大学
 
 > http://www.grs.zju.edu.cn/yjszs/2023/0518/c28498a2758651/page.htm
@@ -151,10 +155,6 @@
 ~~【报名截止：2023.5.17】[计算所 春闱计划](http://www.ict.cas.cn/yjsjy/zsxx/sszs/202305/t20230512_6753303.html)~~
 
 ~~【报名截止：2023.2.28】[自动化研究所 “人工智能菁英班”项目](https://mp.weixin.qq.com/s/7AuOk-fl3zrHBZ8FOC75Vw)~~
-
-# 中国人民大学
-
-【报名截止：2023.6.15】[高瓴人工智能学院](http://ai.ruc.edu.cn/newslist/notice/20230606100.html)
 
 # 香港中文大学
 
@@ -262,10 +262,6 @@
 # 电子科技大学
 
 【报名截止：2023.6.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1067/5580.htm)
-
-# 天津大学
-
-【报名截止：2023.6.16】[智能与计算学部](http://cic.tju.edu.cn/info/1041/4451.htm)
 
 # 吉林大学
 
