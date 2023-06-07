@@ -242,6 +242,10 @@
 
 ~~【报名截止：2023.6.5】[电子与通信工程学院](https://sece.sysu.edu.cn/zs/zs01/1408893.htm)~~
 
+# 北京理工大学
+
+【报名截止：2023.6.14】[信息与电子学院](https://sie.bit.edu.cn/tzgg/zhtz/f24a00a759c14949a279295a55f51fa0.htm)
+
 # 中南大学
 
 【报名截止：2023.6.10】[计算机学院](https://cse.csu.edu.cn/info/1040/8287.htm)
