@@ -273,6 +273,14 @@
 
 【报名截止：2023.6.9】[中法联培](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023050920150075093014)
 
+# 华中师范大学
+
+【报名截止：2023.6.23】[计算机学院](http://cs.ccnu.edu.cn/info/1056/3264.htm)
+
+# 东北师范大学
+
+【报名截止：2023.7.12】[信息科学与技术学院](http://ist.nenu.edu.cn/info/1157/5137.htm)
+
 # 电子科技大学
 
 【报名截止：2023.6.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1067/5580.htm)
@@ -294,10 +302,6 @@
 # 兰州大学
 
 【报名截止：2023.6.20】[信息科学与工程学院](http://xxxy.lzu.edu.cn/tongzhigonggao/2023/0529/216630.html)
-
-# 东北师范大学
-
-【报名截止：2023.7.12】[信息科学与技术学院](http://ist.nenu.edu.cn/info/1157/5137.htm)
 
 # 中国海洋大学
 
@@ -352,10 +356,6 @@
 ~~【报名截止：2023.6.6】[计算机与电子信息学院/人工智能学院](http://ceai.njnu.edu.cn/Item/Show.asp?m=1&d=18920)~~
 
 ~~【报名截止：2023.6.6】[南瑞电气与自动化学院](http://eae.njnu.edu.cn/info/1041/3016.htm)~~
-
-# 华中师范大学
-
-【报名截止：2023.6.23】[计算机学院](http://cs.ccnu.edu.cn/info/1056/3264.htm)
 
 # 复旦大学
 
