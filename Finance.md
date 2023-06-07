@@ -20,7 +20,7 @@
 
 【报名截止：2023.6.4】[管理硕士](https://masters.sem.tsinghua.edu.cn/qinghuajingguanxueyuanguanlishuoshixiangmu2024jituimianzhaoshengshuoming.pdf)
 
-【报名截止：2023.5.20】[金融硕士 第二批](https://masters.sem.tsinghua.edu.cn/jinrongshuoshi2024jituimianshuoming.pdf)
+~~【报名截止：2023.5.20】[金融硕士 第二批](https://masters.sem.tsinghua.edu.cn/jinrongshuoshi2024jituimianshuoming.pdf)~~
 
 ~~【报名截止：2023.5.12】[直博](http://pg.sem.tsinghua.edu.cn/qinghuajingguan2023nianyouxiudaxueshengboshixialingyingbaomingtongzhi-benkezhiboshiyong.pdf)~~
 
@@ -32,7 +32,7 @@
 
 【报名截止：2023.8.31】[金融硕士 第三批](https://www.pbcsf.tsinghua.edu.cn/info/1146/6447.htm)
 
-【报名截止：2023.5.20】[金融硕士 第二批](https://www.pbcsf.tsinghua.edu.cn/info/1146/6447.htm)
+~~【报名截止：2023.5.20】[金融硕士 第二批](https://www.pbcsf.tsinghua.edu.cn/info/1146/6447.htm)~~
 
 ~~【报名截止：2023.4.8】[金融硕士 第一批](https://www.pbcsf.tsinghua.edu.cn/info/1146/6447.htm)~~
 
@@ -107,6 +107,16 @@
 ~~【报名截止：2023.4.9】[Mini营北京场 第二轮](https://mp.weixin.qq.com/s?__biz=Mzg3NzA4MjI1OA==&mid=2247501176&idx=1&sn=2c2df980cb391387358e8d2aadf5f926&chksm=cf2ae685f85d6f933e70eadaeac3dc56e597210f4cd0f65709c0d60cd0661e172103b3c75f33&scene=178&cur_album_id=2709807278790606852#rd)~~
 
 ~~【报名截止：2023.2.19】[Mini营北京场 第一轮](https://mp.weixin.qq.com/s?__biz=Mzg3NzA4MjI1OA==&mid=2247501176&idx=1&sn=2c2df980cb391387358e8d2aadf5f926&chksm=cf2ae685f85d6f933e70eadaeac3dc56e597210f4cd0f65709c0d60cd0661e172103b3c75f33&scene=178&cur_album_id=2709807278790606852#rd)~~
+
+# 重庆大学
+
+## 经济与工商管理学院
+
+【报名截止：2023.6.16】[夏令营](http://ceba.cqu.edu.cn/info/3203/7261.htm)
+
+## 公共管理学院
+
+【报名截止：2023.6.23】[夏令营（硕士、直博）](http://cpa.cqu.edu.cn/info/1118/13282.htm)
 
 # 致谢
 
