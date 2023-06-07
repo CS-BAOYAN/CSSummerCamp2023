@@ -68,6 +68,8 @@
 
 【报名截止：2023.6.15】[高瓴人工智能学院](http://ai.ruc.edu.cn/newslist/notice/20230606100.html)
 
+【报名截止：N/A】[AIM3 Lab](https://zhuanlan.zhihu.com/p/389474418)
+
 # 浙江大学
 
 > http://www.grs.zju.edu.cn/yjszs/2023/0518/c28498a2758651/page.htm
