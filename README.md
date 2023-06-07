@@ -299,6 +299,10 @@
 
 【报名截止：2023.6.27】[交叉科学研究院](https://riis.sufe.edu.cn/jxChinese/0e/e8/c10268a200424/page.htm)
 
+# 西南大学
+
+【报名截止：2023.6.18】[计算机与信息科学学院 软件学院](http://cis.swu.edu.cn/info/1039/2504.htm)
+
 # 海南大学
 
 【报名截止：2023.6.18】[生物医学工程学院](https://hd.hainanu.edu.cn/shengyi/info/1051/2631.htm)
