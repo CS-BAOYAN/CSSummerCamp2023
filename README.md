@@ -273,14 +273,6 @@
 
 【报名截止：2023.6.9】[中法联培](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023050920150075093014)
 
-# 华中师范大学
-
-【报名截止：2023.6.23】[计算机学院](http://cs.ccnu.edu.cn/info/1056/3264.htm)
-
-# 东北师范大学
-
-【报名截止：2023.7.12】[信息科学与技术学院](http://ist.nenu.edu.cn/info/1157/5137.htm)
-
 # 电子科技大学
 
 【报名截止：2023.6.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1067/5580.htm)
@@ -326,6 +318,14 @@
 # 西南大学
 
 【报名截止：2023.6.18】[计算机与信息科学学院 软件学院](http://cis.swu.edu.cn/info/1039/2504.htm)
+
+# 华中师范大学
+
+【报名截止：2023.6.23】[计算机学院](http://cs.ccnu.edu.cn/info/1056/3264.htm)
+
+# 东北师范大学
+
+【报名截止：2023.7.12】[信息科学与技术学院](http://ist.nenu.edu.cn/info/1157/5137.htm)
 
 # 海南大学
 
