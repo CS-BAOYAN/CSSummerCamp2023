@@ -182,6 +182,10 @@
 
 【报名截止：2023.9.1】[Postgraduate Student Early Recruiting](https://cse.hkust.edu.hk/pg/admissions/recruiting/)
 
+# 北京航空航天大学
+
+【报名截止：2023.6.18】[计算机学院](https://scse.buaa.edu.cn/info/1099/9814.htm)
+
 # 南开大学
 
 > https://yzxt.nankai.edu.cn/intern/frontend/web/pg-net-sign-up/index
