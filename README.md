@@ -269,10 +269,6 @@
 
 【报名截止：2023.6.9】[中法联培](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023050920150075093014)
 
-# 电子科技大学
-
-【报名截止：2023.6.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1067/5580.htm)
-
 # 天津大学
 
 【报名截止：2023.6.16】[智能与计算学部](http://cic.tju.edu.cn/info/1041/4451.htm)
@@ -295,17 +291,21 @@
 
 【报名截止：2023.6.19】[信息科学与工程学部](http://it.ouc.edu.cn/2023/0530/c16066a433770/page.htm)
 
+# 电子科技大学
+
+【报名截止：2023.6.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1067/5580.htm)
+
 # 国防科技大学
 
-【报名截止：N/A】[优秀大学生夏令营](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13074)
-
-# 西湖大学
-
-【报名截止：2023.6.12】[西湖大学&浙江大学联培 直博](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202304/t20230411_27260.shtml)
+【报名截止：N/A】[计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13072)
 
 # 杭州电子科技大学
 
 【报名截止：2023.8.1】[智能信息处理实验室](https://mp.weixin.qq.com/s/eRH3XjcxzjGSw4MjDg_5gw)
+
+# 西湖大学
+
+【报名截止：2023.6.12】[西湖大学&浙江大学联培 直博](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202304/t20230411_27260.shtml)
 
 # 北京工业大学
 
