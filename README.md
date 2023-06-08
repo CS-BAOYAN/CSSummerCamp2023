@@ -162,10 +162,6 @@
 
 ~~【报名截止：2023.2.28】[自动化研究所 “人工智能菁英班”项目](https://mp.weixin.qq.com/s/7AuOk-fl3zrHBZ8FOC75Vw)~~
 
-# 国防科技大学
-
-【报名截止：N/A】[优秀大学生夏令营](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13074)
-
 # 香港中文大学
 
 【报名截止：2023.6.15】[人工智能与机器人理学硕士](https://sds.cuhk.edu.cn/page/909)
@@ -298,6 +294,10 @@
 # 中国海洋大学
 
 【报名截止：2023.6.19】[信息科学与工程学部](http://it.ouc.edu.cn/2023/0530/c16066a433770/page.htm)
+
+# 国防科技大学
+
+【报名截止：N/A】[优秀大学生夏令营](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13074)
 
 # 西湖大学
 
