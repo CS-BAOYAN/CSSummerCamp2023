@@ -248,6 +248,8 @@
 
 # 北京理工大学
 
+【报名截止：2023.6.15】[网络空间安全学院](https://cst.bit.edu.cn/xxfw/tzgg/9deff63fea694441a1ab4f8c95aae884.htm)
+
 【报名截止：2023.6.14】[信息与电子学院](https://sie.bit.edu.cn/tzgg/zhtz/f24a00a759c14949a279295a55f51fa0.htm)
 
 # 中南大学
