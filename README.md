@@ -21,8 +21,10 @@
 ~~【报名截止：2023.6.9】[精密仪器系](https://mp.weixin.qq.com/s?srcid=0516yoq33IRsYhqXMLERqPFd&scene=23&sharer_sharetime=1684222587305&mid=2649760510&sharer_shareid=43d6ab70a5210e01418614ab72f7162b&sn=c48ec84432e8d9877ad62ad4fe11d3b9&idx=1&__biz=MzA5NjQ4ODkxMA%3D%3D&chksm=88abde5fbfdc5749a19aced64fd33668a4fa86b62aa1fd00991b417d9e5050eb6ae576eba195&mpshare=1#rd)~~
 
 ~~【报名截止：2023.6.6】[计算机科学与技术系](https://www.cs.tsinghua.edu.cn/info/1048/5459.htm)~~
+2023.6.29-2023.7.1
 
 ~~【报名截止：2023.6.6】[网络科学与网络空间研究院](https://www.insc.tsinghua.edu.cn/info/1179/3487.htm)~~
+2023.6.29-2023.7.1
 
 ~~【报名截止：2023.5.15】[交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/2023/appinfo.php)~~
 
@@ -41,12 +43,16 @@
 【报名截止：2023.6.16】[软件与微电子学院](https://www.ss.pku.edu.cn/admission/admnotice/4456.html)
 
 【报名截止：2023.6.15】[未来技术学院](https://future.pku.edu.cn/xwzk/50257bf9fb784cc8ab174d9de7b68fb4.htm)
+2023.6.30-2023.7.3
 
 【报名截止：2023.6.14】[计算机学院](https://cs.pku.edu.cn/info/1336/4012.htm)
+2023.7.6-2023.7.8
 
 【报名截止：2023.6.14】[智能学院](https://sai.pku.edu.cn/info/1083/2721.htm)
+2023.7.6-2023.7.8
 
 【报名截止：2023.6.14】[电子学院](https://ele.pku.edu.cn/info/1232/2633.htm)
+2023.7.3-2023.7.5
 
 【报名截止：2023.6.12】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1635)
 
@@ -214,8 +220,10 @@
 # 武汉大学
 
 【报名截止：2023.6.20】[国家网络安全学院](https://cse.whu.edu.cn/info/1101/4563.htm)
+2023.7.6-2023.7.8
 
 【报名截止：2023.6.15】[计算机学院](https://cs.whu.edu.cn/info/1055/4481.htm)
+2023.7.5-2023.7.6
 
 # 西安交通大学
 
@@ -381,12 +389,15 @@
 > https://gsao.fudan.edu.cn/7b/0e/c15014a490254/page.htm
 
 ~~【报名截止：2023.5.31】[计算机科学技术学院](https://cs.fudan.edu.cn/7b/0b/c24257a490251/page.htm)~~
+2023.6.26-2023.6.29
 
 ~~【报名截止：2023.5.31】[大数据学院](https://sds.fudan.edu.cn/7a/51/c17701a490065/page.htm)~~
 
 ~~【报名截止：2023.5.31】[信息科学与工程学院](http://www.it.fudan.edu.cn/Data/View/4398)~~
+2023.7.3-2023.7.7
 
 ~~【报名截止：2023.5.31】[工程与应用技术研究院](http://faet.fudan.edu.cn/7b/e8/c23815a490472/page.htm)~~
+2023.6.30-2023.7.3
 
 ~~【报名截止：2023.5.31】[类脑智能科学与技术研究院](https://istbi.fudan.edu.cn/info/1167/4890.htm)~~
 
