@@ -75,7 +75,7 @@
 
 【报名截止：2023.6.18】[信息学院](https://mp.weixin.qq.com/s?__biz=Mzk0NzE2OTU4Nw==&mid=2247490751&idx=1&sn=0e461421315a553bd9049f981c2e348c&chksm=c37bace3f40c25f5e789bc604904950ca1074f7ccf27ae1fabc3e8feba6fc46af8d2c14d353e)
 
-【报名截止：2023.6.15】[高瓴人工智能学院](http://ai.ruc.edu.cn/newslist/notice/20230606100.html)
+【报名截止：2023.6.15】[高瓴人工智能学院](http://ai.ruc.edu.cn/newslist/notice/20230606100.html) 2023.7.8-2023.7.12
 
 【报名截止：N/A】[AIM3 Lab](https://zhuanlan.zhihu.com/p/389474418)
 
