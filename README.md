@@ -326,6 +326,10 @@
 
 【报名截止：2023.6.18】[计算机学院（国家示范性软件学院）](https://scs.bupt.edu.cn/info/1050/3563.htm)
 
+# 北京工业大学
+
+> https://yanzhao.bjut.edu.cn/info/1025/6520.htm
+
 # 北京交通大学
 
 【报名截止：2023.6.25】[计算机与信息技术学院](http://scit.bjtu.edu.cn/cms/item/5211.html)
@@ -337,10 +341,6 @@
 # 西湖大学
 
 【报名截止：2023.6.12】[西湖大学&浙江大学联培 直博](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202304/t20230411_27260.shtml)
-
-# 北京工业大学
-
-> https://yanzhao.bjut.edu.cn/info/1025/6520.htm
 
 # 上海财经大学
 
