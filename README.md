@@ -330,7 +330,7 @@
 
 > https://yanzhao.bjut.edu.cn/info/1025/6521.htm
 
-【报名截止：2023.6.30】[信息学部](https://yanzhao.bjut.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1823684272&wbfileid=39A500E720DBA2240FE52CE65AEE8594)2023.7.13-2023.7.14
+【报名截止：2023.6.30】[信息学部](https://yanzhao.bjut.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1823684272&wbfileid=39A500E720DBA2240FE52CE65AEE8594) 2023.7.13-2023.7.14
 
 # 北京交通大学
 
