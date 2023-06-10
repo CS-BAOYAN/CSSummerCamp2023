@@ -62,6 +62,11 @@
 
 【报名截止：2023.6.15】[电子信息与电气工程学院 电子工程系](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html) 直博 2023.6.30 直硕 2023.7.11
 
+【报名截止：2023.6.15】[电子信息与电气工程学院 网络空间安全学院](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html) 2023.7.5
+
+【报名截止：2023.6.15】[电子信息与电气工程学院 软件学院](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html) 2023.7.12-2023-7.14
+
+
 ~~【报名截止：2023.3.30】[密西根学院 “科研见习项目”](https://jwc.sjtu.edu.cn/info/1222/12276.htm)~~
 
 # 中国人民大学
