@@ -71,9 +71,9 @@
 
 # 中国人民大学
 
-【报名截止：2023.6.25】[统计与大数据研究院](http://isbd.ruc.edu.cn/zsxx/zss/7a7a5c719abf4325aecaffe9459a25f0.htm)
+【报名截止：2023.6.25】[统计与大数据研究院](http://isbd.ruc.edu.cn/zsxx/zss/7a7a5c719abf4325aecaffe9459a25f0.htm) 2023.7.16
 
-【报名截止：2023.6.18】[信息学院](https://mp.weixin.qq.com/s?__biz=Mzk0NzE2OTU4Nw==&mid=2247490751&idx=1&sn=0e461421315a553bd9049f981c2e348c&chksm=c37bace3f40c25f5e789bc604904950ca1074f7ccf27ae1fabc3e8feba6fc46af8d2c14d353e)
+【报名截止：2023.6.18】[信息学院](https://mp.weixin.qq.com/s?__biz=Mzk0NzE2OTU4Nw==&mid=2247490751&idx=1&sn=0e461421315a553bd9049f981c2e348c&chksm=c37bace3f40c25f5e789bc604904950ca1074f7ccf27ae1fabc3e8feba6fc46af8d2c14d353e) 2023.7.8-2023.7.12
 
 【报名截止：2023.6.15】[高瓴人工智能学院](http://ai.ruc.edu.cn/newslist/notice/20230606100.html) 2023.7.8-2023.7.12
 
