@@ -295,6 +295,10 @@
 
 ~~【报名截止：2023.6.9】[中法联培](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023050920150075093014)~~
 
+# 山东大学
+
+> https://yz.sdu.edu.cn/info/1009/5637.htm
+
 # 天津大学
 
 【报名截止：2023.6.16】[智能与计算学部](http://cic.tju.edu.cn/info/1041/4451.htm)
