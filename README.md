@@ -280,6 +280,12 @@
 
 【报名截止：2023.6.14】[信息与电子学院](https://sie.bit.edu.cn/tzgg/zhtz/f24a00a759c14949a279295a55f51fa0.htm)
 
+# 北京邮电大学
+
+【报名截止：2023.6.30】[网络空间安全学院](https://scss.bupt.edu.cn/info/1110/5052.htm) 2023.7.8-2023.7.16
+
+【报名截止：2023.6.18】[计算机学院（国家示范性软件学院）](https://scs.bupt.edu.cn/info/1050/3563.htm) 2023.7.3-2023.7.7
+
 # 北京师范大学
 
 【报名截止：2023.6.26】[人工智能学院](https://ai.bnu.edu.cn/tzgg/542aa8ea1b1a480bb5a86aebd7e3dcd6.html)
@@ -328,12 +334,6 @@
 # 国防科技大学
 
 【报名截止：N/A】[计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13072)
-
-# 北京邮电大学
-
-【报名截止：2023.6.30】[网络空间安全学院](https://scss.bupt.edu.cn/info/1110/5052.htm) 2023.7.8-2023.7.16
-
-【报名截止：2023.6.18】[计算机学院（国家示范性软件学院）](https://scs.bupt.edu.cn/info/1050/3563.htm) 2023.7.3-2023.7.7
 
 # 北京工业大学
 
