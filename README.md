@@ -132,16 +132,20 @@
 【报名截止：2023.6.30】[网络空间安全学院](https://xly.ustc.edu.cn/news.php?newsid=924)
 
 【报名截止：2023.6.30】[大数据学院](http://m.xly.ustc.edu.cn/news.php?newsid=936)
+2023.7.19-2023.7.24
 
 【报名截止：2023.6.30】[信息科学技术学院](https://xly.ustc.edu.cn/news.php?newsid=922)
+2023.7.19-2023.7.24
 
 【报名截止：2023.6.30】[苏州高等研究院](https://sz.ustc.edu.cn/xwgg_show/1119.html)
 
 【报名截止：2023.6.30】[先进技术研究院](https://xly.ustc.edu.cn/news.php?newsid=925)
+2023.7.19-2023.7.22
 
 【报名截止：2023.6.30】[科学岛](https://xly.ustc.edu.cn/news.php?newsid=932)
 
 【报名截止：2023.6.25】[计算机科学夏令营](http://m.xly.ustc.edu.cn/news.php?newsid=928)
+2023.7.19-2023.7.24
 
 【报名截止：N/A】[计算机科学预面试](http://cs.ustc.edu.cn/2023/0606/c22510a605151/pagem.htm)
 
@@ -158,10 +162,12 @@
 【报名截止：2023.6.28】[计算机网络信息中心](http://www.cnic.cas.cn/yjsjy/zsxx/tjms/202305/t20230518_6758322.html)
 
 【报名截止：2023.6.25】[深圳先进院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202305/t20230512_6753566.html)
+2023.7.10-2023.7.14（暂定）
 
 【报名截止：2023.6.20】[自动化研究所](http://www.ia.cas.cn/yjsjy/zs/sszs/202306/t20230601_6766442.html)
 
 【报名截止：2023.6.20】[信息工程研究所](http://www.iie.ac.cn/xwdt2020/tzgg2020/202305/t20230523_6761355.html)
+2023.7.3-2023.7.9（暂定）
 
 【报名截止：2023.6.20】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202305/t20230509_6750931.html)
 
@@ -200,6 +206,7 @@
 # 北京航空航天大学
 
 【报名截止：2023.6.18】[计算机学院](https://scse.buaa.edu.cn/info/1099/9814.htm)
+2023.6.30-2023.7.2
 
 # 南开大学
 
@@ -214,8 +221,10 @@
 > https://yz.tongji.edu.cn/info/1010/3121.htm
 
 【报名截止：2023.6.12】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/11487.htm)
+2023.6.30-2023.7.2
 
 【报名截止：2023.6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/4205.htm)
+2023.7.7-2023.7.9
 
 # 武汉大学
 
