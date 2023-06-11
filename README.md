@@ -269,14 +269,6 @@
 
 【报名截止：2023.6.14】[信息与电子学院](https://sie.bit.edu.cn/tzgg/zhtz/f24a00a759c14949a279295a55f51fa0.htm)
 
-# 中南大学
-
-【报名截止：2023.6.10】[计算机学院](https://cse.csu.edu.cn/info/1040/8287.htm)
-
-【报名截止：2023.6.10】[大数据研究院](https://gra.csu.edu.cn/info/1012/39140.htm)
-
-【报名截止：2023.6.10】[自动化学院](https://soa.csu.edu.cn/info/1032/7026.htm)
-
 # 北京师范大学
 
 【报名截止：2023.6.26】[人工智能学院](https://ai.bnu.edu.cn/tzgg/542aa8ea1b1a480bb5a86aebd7e3dcd6.html)
@@ -410,6 +402,14 @@
 ~~【报名截止：2023.5.31】[智能医学研究院](https://imi.fudan.edu.cn/info/1033/1323.htm)~~
 
 ~~【报名截止：2023.5.31】[数字医学研究中心](https://miccai.fudan.edu.cn/7b/f7/c34228a490487/page.htm)~~
+
+# 中南大学
+
+~~【报名截止：2023.6.10】[计算机学院](https://cse.csu.edu.cn/info/1040/8287.htm)~~
+
+~~【报名截止：2023.6.10】[大数据研究院](https://gra.csu.edu.cn/info/1012/39140.htm)~~
+
+~~【报名截止：2023.6.10】[自动化学院](https://soa.csu.edu.cn/info/1032/7026.htm)~~
 
 # 澳门大学
 
