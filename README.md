@@ -28,7 +28,7 @@
 ~~【报名截止：2023.6.6】[网络科学与网络空间研究院](https://www.insc.tsinghua.edu.cn/info/1179/3487.htm)~~
 2023.6.29-2023.7.1
 
-~~【报名截止：2023.5.15】[交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/2023/appinfo.php)~~
+~~【报名截止：2023.5.15】[交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/2023/appinfo.php)~~ 2023.6.3-2023.6.4
 
 ~~【报名截止：2023.4.30】[自动化系智能与网络化系统研究中心](https://mp.weixin.qq.com/s/V93_HfSlbGKiCPTlT2qaiA)~~
 
