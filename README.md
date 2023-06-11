@@ -12,9 +12,9 @@
 
 > https://yz.tsinghua.edu.cn/xlyxx.htm
 
-【报名截止：2023.6.16】[国际开放创新教育中心（Open FIESTA）（深圳）](https://www.sigs.tsinghua.edu.cn/2023/0530/c120a63274/page.htm)
-
 【报名截止：2023.6.20】[数据与信息研究院（深圳）](https://www.sigs.tsinghua.edu.cn/2023/0531/c120a63499/page.htm)
+
+【报名截止：2023.6.16】[国际开放创新教育中心（Open FIESTA）（深圳）](https://www.sigs.tsinghua.edu.cn/2023/0530/c120a63274/page.htm)
 
 【报名截止：N/A】[智能产业研究院 AIR](https://mp.weixin.qq.com/s/SbJz9hzaaYDftQktzO70Qw)
 
@@ -327,7 +327,9 @@
 
 # 北京邮电大学
 
-【报名截止：2023.6.18】[计算机学院（国家示范性软件学院）](https://scs.bupt.edu.cn/info/1050/3563.htm)
+【报名截止：2023.6.30】[网络空间安全学院](https://scss.bupt.edu.cn/info/1110/5052.htm) 2023.7.8-2023.7.16
+
+【报名截止：2023.6.18】[计算机学院（国家示范性软件学院）](https://scs.bupt.edu.cn/info/1050/3563.htm) 2023.7.3-2023.7.7
 
 # 北京工业大学
 
