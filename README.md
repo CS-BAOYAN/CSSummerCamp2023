@@ -8,6 +8,8 @@
 
 另附[【腾讯文档】2023夏令营入营录取结果开奖表](https://docs.qq.com/sheet/DQlZSR1hKYUVTZ0hF?tab=BB08J2)，请使用加入了绿群的QQ号查看文档，无须申请权限。
 
+[保研日历移步至此(欢迎pr)](https://github.com/asimple1/BAOYAN-Calendar)
+
 # 清华大学
 
 > https://yz.tsinghua.edu.cn/xlyxx.htm
