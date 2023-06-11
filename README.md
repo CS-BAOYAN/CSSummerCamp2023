@@ -12,6 +12,8 @@
 
 > https://yz.tsinghua.edu.cn/xlyxx.htm
 
+【报名截止：2023.6.16】[国际开放创新教育中心（Open FIESTA）（深圳）](https://www.sigs.tsinghua.edu.cn/2023/0530/c120a63274/page.htm)
+
 【报名截止：2023.6.20】[数据与信息研究院（深圳）](https://www.sigs.tsinghua.edu.cn/2023/0531/c120a63499/page.htm)
 
 【报名截止：N/A】[智能产业研究院 AIR](https://mp.weixin.qq.com/s/SbJz9hzaaYDftQktzO70Qw)
