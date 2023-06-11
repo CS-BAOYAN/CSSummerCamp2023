@@ -345,10 +345,6 @@
 
 【报名截止：2023.6.25】[计算机与信息技术学院](http://scit.bjtu.edu.cn/cms/item/5211.html)
 
-# 杭州电子科技大学
-
-【报名截止：2023.8.1】[智能信息处理实验室](https://mp.weixin.qq.com/s/eRH3XjcxzjGSw4MjDg_5gw)
-
 # 西湖大学
 
 【报名截止：2023.6.12】[西湖大学&浙江大学联培 直博](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202304/t20230411_27260.shtml)
@@ -384,6 +380,10 @@
 【报名截止：2023.6.15】[深港微电子学院](https://mp.weixin.qq.com/s/bRyGtRCLblbCug06xhLb9g)
 
 ~~【报名截止：2023.6.10】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/284)~~
+
+# 杭州电子科技大学
+
+【报名截止：2023.8.1】[智能信息处理实验室](https://mp.weixin.qq.com/s/eRH3XjcxzjGSw4MjDg_5gw)
 
 # 深圳大学
 
