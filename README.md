@@ -192,7 +192,7 @@
 
 【报名截止：2023.6.15】[人工智能与机器人理学硕士](https://sds.cuhk.edu.cn/page/909)
 
-【报名截止：2023.6.11】[工程学院系统工程与工程管理系（SEEM） 博士](https://mp.weixin.qq.com/s/aF4c6ngbn1JgyaZIXfahig)
+~~【报名截止：2023.6.11】[工程学院系统工程与工程管理系（SEEM） 博士](https://mp.weixin.qq.com/s/aF4c6ngbn1JgyaZIXfahig)~~
 
 ~~【报名截止：2023.6.10】[数据科学理学 硕士](https://mp.weixin.qq.com/s/g7ubbjLPqLKnP3P0Zbl45Q)~~
 
@@ -228,8 +228,8 @@
 【报名截止：2023.6.12】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/11487.htm)
 2023.6.30-2023.7.2
 
-【报名截止：2023.6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/4205.htm)
-2023.7.7-2023.7.9
+~~【报名截止：2023.6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/4205.htm)~~
+~~2023.7.7-2023.7.9~~
 
 # 武汉大学
 
