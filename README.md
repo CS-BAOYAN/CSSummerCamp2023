@@ -308,6 +308,8 @@
 
 > https://yz.sdu.edu.cn/info/1009/5637.htm
 
+【报名截止：2023.6.25】[软件学院](https://www.sc.sdu.edu.cn/info/1019/4104.htm)
+
 # 天津大学
 
 【报名截止：2023.6.16】[智能与计算学部](http://cic.tju.edu.cn/info/1041/4451.htm)
