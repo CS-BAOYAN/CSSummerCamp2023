@@ -56,9 +56,9 @@
 【报名截止：2023.6.14】[电子学院](https://ele.pku.edu.cn/info/1232/2633.htm)
 2023.7.3-2023.7.5
 
-【报名截止：2023.6.12】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1635)
+~~【报名截止：2023.6.12】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1635)~~
 
-【报名截止：2023.6.12】[工学院](https://www.coe.pku.edu.cn/graduate/notice/12117.html)
+~~【报名截止：2023.6.12】[工学院](https://www.coe.pku.edu.cn/graduate/notice/12117.html)~~
 
 # 上海交通大学
 
@@ -122,7 +122,7 @@
 
 【报名截止：2023.6.15】[计算机软件研究所](https://cs.nju.edu.cn/ics/recruit/index.html)
 
-【报名截止：2023.6.12】[集成电路学院（苏州）](https://ese.nju.edu.cn/8b/8e/c22538a625550/page.htm)
+~~【报名截止：2023.6.12】[集成电路学院（苏州）](https://ese.nju.edu.cn/8b/8e/c22538a625550/page.htm)~~
 
 ~~【报名截止：2023.5.30】[NJUNLP 额外考核](https://mp.weixin.qq.com/s/QmuYVNNsqqfZ66pG6VvB0A)~~
 
@@ -181,7 +181,7 @@
 【报名截止：2023.6.19】[计算所](http://www.ict.ac.cn/yjsjy/zsxx/sszs/202306/t20230612_6776566.html)
 2023.7.17-2023.7.21（暂定）
 
-【报名截止：2023.6.12】[杭州高等研究院-智能科学与技术学院](http://hias.ucas.ac.cn/znkxyjs/info/1055/1565.htm)
+~~【报名截止：2023.6.12】[杭州高等研究院-智能科学与技术学院](http://hias.ucas.ac.cn/znkxyjs/info/1055/1565.htm)~~
 
 ~~【报名截止：N/A】[空天信息创新研究院 春令营](https://mp.weixin.qq.com/s/kPkHMAKjcdQzZd6WTPjqGA)~~
 
@@ -226,8 +226,8 @@
 
 > https://yz.tongji.edu.cn/info/1010/3121.htm
 
-【报名截止：2023.6.12】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/11487.htm)
-2023.6.30-2023.7.2
+~~【报名截止：2023.6.12】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/11487.htm)
+2023.6.30-2023.7.2~~
 
 ~~【报名截止：2023.6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/4205.htm)~~ 2023.7.7-2023.7.9
 
@@ -300,7 +300,7 @@
 
 【报名截止：2023.6.19】[计算机学院](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023050420050017104300)
 
-【报名截止：2023.6.12】[软件学院](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023051020179966101311)
+~~【报名截止：2023.6.12】[软件学院](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023051020179966101311)~~
 
 ~~【报名截止：2023.6.9】[中法联培](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023050920150075093014)~~
 
