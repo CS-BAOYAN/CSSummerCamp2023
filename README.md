@@ -173,7 +173,7 @@
 
 【报名截止：2023.6.20】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202305/t20230509_6750931.html) 第一期 2023.7.12-2023.7.14 第二期  2023.7.19-2023.7.21
 
-【报名截止：2423.6.20】[微小卫星创新研究院](https://mp.weixin.qq.com/s/XcCDVlu9Miq4k6pVW16kfw)
+【报名截止：2023.6.20】[微小卫星创新研究院](https://mp.weixin.qq.com/s/XcCDVlu9Miq4k6pVW16kfw)
 
 【报名截止：2023.6.20】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202305/t20230505_6749000.html)
 
