@@ -380,9 +380,10 @@
 
 # 华南理工大学
 
->https://yanzhao.scut.edu.cn/MasterX/Zmfa.aspx
+> https://yanzhao.scut.edu.cn/MasterX/Zmfa.aspx
 
-【报名截止：2023.6.27】[软件学院](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC8340685D81CF441BECE4063707A58F81A976DA366C2B70C35C300471FFB8F71473E50B6F1797D20EC52767D503339889B9B)
+【报名截止：2023.6.27】[软件学院](https://yz.scut.edu.cn/2023/0609/c30111a506471/page.htm)
+2023.7.7-2023.7.8
 
 # 南京信息工程大学
 
