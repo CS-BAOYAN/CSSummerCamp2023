@@ -245,6 +245,10 @@
 
 【报名截止：N/A】[电子与信息学部 网络空间安全学院](http://cybersec.xjtu.edu.cn/info/1017/1823.htm)
 
+# 哈尔滨工业大学
+
+【报名截止：2023.6.25】[计算学部](https://cs.hit.edu.cn/2023/0613/c11271a313864/page.htm) 2023.7.3-2023-7.5
+
 # 厦门大学
 
 > https://zs.xmu.edu.cn/info/1026/7204.htm
