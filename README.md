@@ -216,15 +216,6 @@
 
 ~~【报名截止：2023.6.9】[统计与数据科学学院](https://stat.nankai.edu.cn/2023/0522/c12320a512992/page.htm)~~
 
-# 同济大学
-
-> https://yz.tongji.edu.cn/info/1010/3121.htm
-
-~~【报名截止：2023.6.12】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/11487.htm)
-2023.6.30-2023.7.2~~
-
-~~【报名截止：2023.6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/4205.htm)~~ 2023.7.7-2023.7.9
-
 # 武汉大学
 
 【报名截止：2023.6.20】[国家网络安全学院](https://cse.whu.edu.cn/info/1101/4563.htm)
@@ -408,6 +399,15 @@
 ~~【报名截止：2023.5.31】[智能医学研究院](https://imi.fudan.edu.cn/info/1033/1323.htm)~~
 
 ~~【报名截止：2023.5.31】[数字医学研究中心](https://miccai.fudan.edu.cn/7b/f7/c34228a490487/page.htm)~~
+
+# 同济大学
+
+> https://yz.tongji.edu.cn/info/1010/3121.htm
+
+~~【报名截止：2023.6.12】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/11487.htm)
+2023.6.30-2023.7.2~~
+
+~~【报名截止：2023.6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/4205.htm)~~ 2023.7.7-2023.7.9
 
 # 中南大学
 
