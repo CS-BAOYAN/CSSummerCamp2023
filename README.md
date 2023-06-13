@@ -378,6 +378,12 @@
 
 【报名截止：2023.6.20】[计算机与软件学院](https://mp.weixin.qq.com/s?__biz=MzkzMTI5NDYxOA==&mid=2247587818&idx=1&sn=41cb1434a5d65452891b012b54962d90&chksm=c26eeb1ff5196209399a9db60aff65ca5a471c32d328ef217e90e5cec1756862e259bb13be8f&mpshare=1&scene=23)
 
+# 华南理工大学
+
+>https://yanzhao.scut.edu.cn/MasterX/Zmfa.aspx
+
+【报名截止：2023.6.27】[软件学院](https://yanzhao.scut.edu.cn/Public/PdfViewer.html?file=/Public/GetFileHex.aspx?B4BE4CC6D1C772920FC283855A6DC8340685D81CF441BECE4063707A58F81A976DA366C2B70C35C300471FFB8F71473E50B6F1797D20EC52767D503339889B9B)
+
 # 南京信息工程大学
 
 【报名截止：2023.6.15】[人工智能学院（未来技术学院）夏令营 第一轮](https://rgzn.nuist.edu.cn/info/1033/2842.htm)
