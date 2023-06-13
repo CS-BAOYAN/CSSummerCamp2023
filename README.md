@@ -156,6 +156,8 @@
 
 # 中国科学院
 
+> https://kjxt.ucas.ac.cn/index.php/zh/tongzhi
+
 【报名截止：2023.7.1】[软件研究所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202305/t20230510_6751443.html)
 
 【报名截止：2023.7.1】[微电子研究所](http://www.ime.cas.cn/kjrh/tzggkjrh/202305/t20230519_6759998.html)
