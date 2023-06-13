@@ -189,12 +189,6 @@
 
 ~~【报名截止：2023.2.28】[自动化研究所 “人工智能菁英班”项目](https://mp.weixin.qq.com/s/7AuOk-fl3zrHBZ8FOC75Vw)~~
 
-# 香港中文大学
-
-~~【报名截止：2023.6.11】[工程学院系统工程与工程管理系（SEEM） 博士](https://mp.weixin.qq.com/s/aF4c6ngbn1JgyaZIXfahig)~~
-
-~~【报名截止：2023.5.12】[CUHK CSE Early Admission for M.Phil. and Ph.D.](https://www.cse.cuhk.edu.hk/admission/mphil-phd/early-admission/)~~
-
 # 香港中文大学（深圳）
 
 【报名截止：2023.6.15】[人工智能与机器人理学硕士](https://sds.cuhk.edu.cn/page/909)
@@ -398,12 +392,6 @@
 
 【报名截止：2023.6.15】[人工智能学院（未来技术学院）夏令营 第一轮](https://rgzn.nuist.edu.cn/info/1033/2842.htm)
 
-# 南京师范大学
-
-~~【报名截止：2023.6.6】[计算机与电子信息学院/人工智能学院](http://ceai.njnu.edu.cn/Item/Show.asp?m=1&d=18920)~~
-
-~~【报名截止：2023.6.6】[南瑞电气与自动化学院](http://eae.njnu.edu.cn/info/1041/3016.htm)~~
-
 # 复旦大学
 
 > https://gsao.fudan.edu.cn/7b/0e/c15014a490254/page.htm
@@ -433,6 +421,22 @@
 
 ~~【报名截止：2023.6.10】[自动化学院](https://soa.csu.edu.cn/info/1032/7026.htm)~~
 
+# 香港大学
+
+~~【报名截止：2023.5.1】[HKU CS Early Recruitment Scheme for M.Phil. and Ph.D.](https://i.cs.hku.hk/~gradappl/index.html)~~
+
+# 香港中文大学
+
+~~【报名截止：2023.6.11】[工程学院系统工程与工程管理系（SEEM） 博士](https://mp.weixin.qq.com/s/aF4c6ngbn1JgyaZIXfahig)~~
+
+~~【报名截止：2023.5.12】[CUHK CSE Early Admission for M.Phil. and Ph.D.](https://www.cse.cuhk.edu.hk/admission/mphil-phd/early-admission/)~~
+
+# 南京师范大学
+
+~~【报名截止：2023.6.6】[计算机与电子信息学院/人工智能学院](http://ceai.njnu.edu.cn/Item/Show.asp?m=1&d=18920)~~
+
+~~【报名截止：2023.6.6】[南瑞电气与自动化学院](http://eae.njnu.edu.cn/info/1041/3016.htm)~~
+
 # 澳门大学
 
 ~~【报名截止：2023.5.31】[澳門大學科技學院舆協同劊新硏究院聯合𡒊辧 暑期研習營](https://www.fst.um.edu.mo/event/the-4th-summer-camp-for-outstanding-students-now-open-for-application-2/)~~
@@ -440,10 +444,6 @@
 ~~【报名截止：2023.2.20】[澳门大学&广东省智能科学技术研究院联培（可视化，知识图谱）](https://mp.weixin.qq.com/s/UptD231MDxDdl54PteALcg)~~
 
 ~~【报名截止：2023.2.20】[澳门大学&广东省智能科学技术研究院联培（类脑）](https://mp.weixin.qq.com/s/SniRr_4xNk23BBImXh3Dsg)~~
-
-# 香港大学
-
-~~【报名截止：2023.5.1】[HKU CS Early Recruitment Scheme for M.Phil. and Ph.D.](https://i.cs.hku.hk/~gradappl/index.html)~~
 
 # 澳门科技大学
 
