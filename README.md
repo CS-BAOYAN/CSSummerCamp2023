@@ -183,6 +183,9 @@
 【报名截止：2023.6.19】[计算所](http://www.ict.ac.cn/yjsjy/zsxx/sszs/202306/t20230612_6776566.html)
 2023.7.17-2023.7.21（暂定）
 
+【报名截止：2023.6.19】[沈阳计算所](https://kjxt.ucas.ac.cn/index.php/zh/tongzhi/577-2023-32)
+2023.7.24-2023.7.28
+
 ~~【报名截止：2023.6.12】[杭州高等研究院-智能科学与技术学院](http://hias.ucas.ac.cn/znkxyjs/info/1055/1565.htm)~~
 
 ~~【报名截止：N/A】[空天信息创新研究院 春令营](https://mp.weixin.qq.com/s/kPkHMAKjcdQzZd6WTPjqGA)~~
