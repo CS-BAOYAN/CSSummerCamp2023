@@ -348,6 +348,8 @@
 
 【报名截止：2023.6.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1067/5580.htm)
 
+【报名截止：2023.6.25】[计算机学院](https://www.scse.uestc.edu.cn/info/1015/13809.htm)
+
 # 国防科技大学
 
 【报名截止：N/A】[计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13072)
