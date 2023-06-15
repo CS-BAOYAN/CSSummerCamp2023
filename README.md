@@ -227,6 +227,8 @@
 
 【报名截止：2023.6.20】[软件学院](https://cs.nankai.edu.cn/info/1042/3466.htm)
 
+【报名截止：N/A】[计算机学院、网络空间安全学院](https://cc.nankai.edu.cn/2023/0615/c13297a514889/page.htm)
+
 ~~【报名截止：2023.6.9】[统计与数据科学学院](https://stat.nankai.edu.cn/2023/0522/c12320a512992/page.htm)~~
 
 # 华中科技大学
