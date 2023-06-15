@@ -64,11 +64,14 @@
 
 > https://yzb.sjtu.edu.cn/info/1005/3697.htm
 
-【报名截止：2023.6.27】[密西根学院](https://mp.weixin.qq.com/s/fVpZF-630lVsACLvhpU7uQ) 2023.7.12-2023.7.14
+【报名截止：2023.6.27】[密西根学院](https://mp.weixin.qq.com/s/fVpZF-630lVsACLvhpU7uQ)
+2023.7.12-2023.7.14
 
-【报名截止：2023.6.15】[电子信息与电气工程学院 计算机科学与工程系](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html) 2023.7.3-2023.7.10
+【报名截止：2023.6.15】[电子信息与电气工程学院 计算机科学与工程系](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html)
+2023.7.3-2023.7.10
 
-【报名截止：2023.6.15】[电子信息与电气工程学院 电子工程系](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html) 直博 2023.6.30 直硕 2023.7.11
+【报名截止：2023.6.15】[电子信息与电气工程学院 电子工程系](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html)
+直博 2023.6.30 直硕 2023.7.11
 
 【报名截止：2023.6.15】[电子信息与电气工程学院 网络空间安全学院](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html)
 2023.7.5
