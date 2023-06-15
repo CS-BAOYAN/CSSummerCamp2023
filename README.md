@@ -386,6 +386,16 @@
 # 北京交通大学
 
 【报名截止：2023.6.25】[计算机与信息技术学院](http://scit.bjtu.edu.cn/cms/item/5211.html)
+2023.7.5-2023.7.6
+
+【报名截止：2023.6.25】[电子信息工程学院](http://eie.bjtu.edu.cn/WebHtml/newsDetailsPage/FDFA73981763629EE050403B57032CBA)
+2023.7.1-2023.9.24
+
+【报名截止：2023.7.1】[软件学院](http://sse.bjtu.edu.cn/cms/item/943.html)
+2023.7.6-2023.7.6
+
+【报名截止：2023.6.27】[系统科学学院](https://ssse.bjtu.edu.cn/media/attachments/2023/06/20230615142403_85.pdf)
+2023.7.11-2023.7.12
 
 # 上海财经大学
 
