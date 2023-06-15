@@ -47,13 +47,13 @@
 【报名截止：2023.6.15】[未来技术学院](https://future.pku.edu.cn/xwzk/50257bf9fb784cc8ab174d9de7b68fb4.htm)
 2023.6.30-2023.7.3
 
-【报名截止：2023.6.14】[计算机学院](https://cs.pku.edu.cn/info/1336/4012.htm)
+~~【报名截止：2023.6.14】[计算机学院](https://cs.pku.edu.cn/info/1336/4012.htm)~~
 2023.7.6-2023.7.8
 
-【报名截止：2023.6.14】[智能学院](https://sai.pku.edu.cn/info/1083/2721.htm)
+~~【报名截止：2023.6.14】[智能学院](https://sai.pku.edu.cn/info/1083/2721.htm)~~
 2023.7.6-2023.7.8
 
-【报名截止：2023.6.14】[电子学院](https://ele.pku.edu.cn/info/1232/2633.htm)
+~~【报名截止：2023.6.14】[电子学院](https://ele.pku.edu.cn/info/1232/2633.htm)~~
 2023.7.3-2023.7.5
 
 ~~【报名截止：2023.6.12】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1635)~~
@@ -70,21 +70,25 @@
 
 【报名截止：2023.6.15】[电子信息与电气工程学院 电子工程系](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html) 直博 2023.6.30 直硕 2023.7.11
 
-【报名截止：2023.6.15】[电子信息与电气工程学院 网络空间安全学院](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html) 2023.7.5
+【报名截止：2023.6.15】[电子信息与电气工程学院 网络空间安全学院](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html)
+2023.7.5
 
-【报名截止：2023.6.15】[电子信息与电气工程学院 软件学院](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html) 2023.7.12-2023-7.14
+【报名截止：2023.6.15】[电子信息与电气工程学院 软件学院](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html)
+2023.7.12-2023-7.14
 
 
 ~~【报名截止：2023.3.30】[密西根学院 “科研见习项目”](https://jwc.sjtu.edu.cn/info/1222/12276.htm)~~
 
 # 中国人民大学
 
-【报名截止：2023.6.25】[统计与大数据研究院](http://isbd.ruc.edu.cn/zsxx/zss/7a7a5c719abf4325aecaffe9459a25f0.htm) 2023.7.16
+【报名截止：2023.6.25】[统计与大数据研究院](http://isbd.ruc.edu.cn/zsxx/zss/7a7a5c719abf4325aecaffe9459a25f0.htm)
+2023.7.16
 
 【报名截止：2023.6.18】[信息学院](http://info.ruc.edu.cn/xwgg/xygg/4315ed614da74272aa1d90bbe7053a71.htm)
 2023.7.8-2023.7.12
 
-【报名截止：2023.6.15】[高瓴人工智能学院](http://ai.ruc.edu.cn/newslist/notice/20230606100.html) 2023.7.8-2023.7.12
+【报名截止：2023.6.15】[高瓴人工智能学院](http://ai.ruc.edu.cn/newslist/notice/20230606100.html)
+2023.7.8-2023.7.12
 
 【报名截止：N/A】[AIM3 Lab](https://zhuanlan.zhihu.com/p/389474418)
 
@@ -174,7 +178,8 @@
 【报名截止：2023.6.20】[信息工程研究所](http://www.iie.ac.cn/xwdt2020/tzgg2020/202305/t20230523_6761355.html)
 2023.7.3-2023.7.9（暂定）
 
-【报名截止：2023.6.20】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202305/t20230509_6750931.html) 第一期 2023.7.12-2023.7.14 第二期  2023.7.19-2023.7.21
+【报名截止：2023.6.20】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202305/t20230509_6750931.html)
+第一期 2023.7.12-2023.7.14 第二期  2023.7.19-2023.7.21
 
 【报名截止：2023.6.20】[微小卫星创新研究院](https://mp.weixin.qq.com/s/XcCDVlu9Miq4k6pVW16kfw)
 
@@ -249,9 +254,9 @@
 
 【报名截止：2023.6.15】[电子与信息学部 微电子学院](http://ele.xjtu.edu.cn/info/1013/2042.htm)
 
-【报名截止：2023.6.14】[电子与信息学部 信息与通信工程学院](http://dice.xjtu.edu.cn/info/1009/2667.htm)
-
 【报名截止：N/A】[电子与信息学部 网络空间安全学院](http://cybersec.xjtu.edu.cn/info/1017/1823.htm)
+
+~~【报名截止：2023.6.14】[电子与信息学部 信息与通信工程学院](http://dice.xjtu.edu.cn/info/1009/2667.htm)~~
 
 # 哈尔滨工业大学
 
@@ -283,13 +288,15 @@
 
 【报名截止：2023.6.15】[网络空间安全学院](https://cst.bit.edu.cn/xxfw/tzgg/9deff63fea694441a1ab4f8c95aae884.htm)
 
-【报名截止：2023.6.14】[信息与电子学院](https://sie.bit.edu.cn/tzgg/zhtz/f24a00a759c14949a279295a55f51fa0.htm)
+~~【报名截止：2023.6.14】[信息与电子学院](https://sie.bit.edu.cn/tzgg/zhtz/f24a00a759c14949a279295a55f51fa0.htm)~~
 
 # 北京邮电大学
 
-【报名截止：2023.6.30】[网络空间安全学院](https://scss.bupt.edu.cn/info/1110/5052.htm) 2023.7.8-2023.7.16
+【报名截止：2023.6.30】[网络空间安全学院](https://scss.bupt.edu.cn/info/1110/5052.htm)
+2023.7.8-2023.7.16
 
-【报名截止：2023.6.18】[计算机学院（国家示范性软件学院）](https://scs.bupt.edu.cn/info/1050/3563.htm) 2023.7.3-2023.7.7
+【报名截止：2023.6.18】[计算机学院（国家示范性软件学院）](https://scs.bupt.edu.cn/info/1050/3563.htm)
+2023.7.3-2023.7.7
 
 # 北京师范大学
 
@@ -366,7 +373,8 @@
 
 > https://yanzhao.bjut.edu.cn/info/1025/6521.htm
 
-【报名截止：2023.6.30】[信息学部](https://yanzhao.bjut.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1823684272&wbfileid=39A500E720DBA2240FE52CE65AEE8594) 2023.7.13-2023.7.14
+【报名截止：2023.6.30】[信息学部](https://yanzhao.bjut.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1823684272&wbfileid=39A500E720DBA2240FE52CE65AEE8594)
+2023.7.13-2023.7.14
 
 # 北京交通大学
 
@@ -451,7 +459,8 @@
 ~~【报名截止：2023.6.12】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/11487.htm)
 2023.6.30-2023.7.2~~
 
-~~【报名截止：2023.6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/4205.htm)~~ 2023.7.7-2023.7.9
+~~【报名截止：2023.6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/4205.htm)~~
+2023.7.7-2023.7.9
 
 # 中南大学
 
