@@ -1,17 +1,15 @@
-#%%
 import datetime
-from functools import reduce
 import os
-from pathlib import Path
+import pandas as pd
 import re
-this_file = Path(__file__).resolve()
-this_directory = this_file.parent
-this_directory
-#%%
-with open(this_directory/"README.md", 'r', encoding="utf-8") as f:
+from functools import reduce
+from pathlib import Path
+
+
+with open("README.md", 'r', encoding="utf-8") as f:
     contents = f.read()
 contents[-10:]
-# %%
+
 def find_first(fun, it):
     for i, item in enumerate(it):
         if fun(item):
@@ -19,15 +17,13 @@ def find_first(fun, it):
     return -1
 def find_last(fun, it):
     return len(it)-1-find_first(fun, reversed(it))
-#%%
+
 paragraphs = contents.split("# ")
 # paragraphs = list(filter(lambda x:"大学" in x or "学院" in, paragraphs))
 first_uni = find_first(lambda x:"大学" in x or "学院" in x, paragraphs)
 last_uni = find_last(lambda x:"大学" in x or "学院" in x, paragraphs)
 paragraphs = paragraphs[first_uni:last_uni+1]
-paragraphs 
-# %%
-# import pandas as pd
+
 def item2dict(item):
     print(item)
     try:
@@ -44,6 +40,8 @@ def item2dict(item):
     except:
         通知网址 = ""
     return dict(报名截止=报名截止,院系名称=院系名称, 通知网址=通知网址)
+
+
 def paragraph2dicts(paragraph):
     # 学校名称 = line.split("\n\n")[0]
     lines = re.split("\n+", paragraph)
@@ -71,12 +69,8 @@ def paragraph2dicts(paragraph):
     
 datas = list(reduce(lambda x,y:x+y, 
                     map(paragraph2dicts, paragraphs), []))
-datas
-# %%
-import pandas as pd
+
+
 df = pd.DataFrame(datas)
 df.head()
-# %%
 df.to_excel("数据汇总.xlsx", index=False)
-
-# %%
