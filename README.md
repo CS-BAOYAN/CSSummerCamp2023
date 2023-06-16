@@ -98,6 +98,8 @@
 
 > http://www.grs.zju.edu.cn/yjszs/2023/0518/c28498a2758651/page.htm
 
+【报名截止：2023.7.10】[工程师学院](https://pi.zju.edu.cn/2023/0616/c67820a2773740/page.htm)
+
 【报名截止：2023.6.28】[计算机学院](http://www.cs.zju.edu.cn/csen/2023/0525/c27011a2763109/page.htm)
 
 【报名截止：2023.6.28】[网络空间安全研究中心](https://icsr.zju.edu.cn/2023/0529/c70139a2764625/page.htm)
