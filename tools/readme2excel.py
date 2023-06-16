@@ -15,6 +15,8 @@ def find_first(fun, it):
         if fun(item):
             return i
     return -1
+
+
 def find_last(fun, it):
     return len(it)-1-find_first(fun, reversed(it))
 
