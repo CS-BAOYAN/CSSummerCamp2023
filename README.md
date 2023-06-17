@@ -6,7 +6,7 @@
 
 另附[保研小白必看的往年经验贴大全，建议全部看完至少掌握保研流程，否则容易问一些很显然的问题](https://github.com/CS-BAOYAN/CS-BAOYAN-2023)。
 
-另附[【腾讯文档】2023夏令营入营录取结果开奖表](https://docs.qq.com/sheet/DQlZSR1hKYUVTZ0hF?tab=BB08J2)，请使用加入了绿群的QQ号查看文档，无须申请权限。
+另附[【腾讯文档】2023夏令营入营录取结果开奖表](https://docs.qq.com/sheet/DQlZSR1hKYUVTZ0hF?tab=BB08J2)，请使用**加入了绿群的QQ号登陆以查看文档，无须申请权限**。
 
 # 清华大学
 
