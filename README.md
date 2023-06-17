@@ -14,9 +14,9 @@
 
 【报名截止：2023.6.20】[数据与信息研究院（深圳）](https://www.sigs.tsinghua.edu.cn/2023/0531/c120a63499/page.htm)
 
-【报名截止：2023.6.16】[国际开放创新教育中心（Open FIESTA）（深圳）](https://www.sigs.tsinghua.edu.cn/2023/0530/c120a63274/page.htm)
-
 【报名截止：N/A】[智能产业研究院 AIR](https://mp.weixin.qq.com/s/SbJz9hzaaYDftQktzO70Qw)
+
+~~【报名截止：2023.6.16】[国际开放创新教育中心（Open FIESTA）（深圳）](https://www.sigs.tsinghua.edu.cn/2023/0530/c120a63274/page.htm)~~
 
 ~~【报名截止：2023.6.9】[集成电路学院](https://www.sic.tsinghua.edu.cn/info/1036/1892.htm)~~
 
@@ -28,7 +28,8 @@
 ~~【报名截止：2023.6.6】[网络科学与网络空间研究院](https://www.insc.tsinghua.edu.cn/info/1179/3487.htm)~~
 2023.6.29-2023.7.1
 
-~~【报名截止：2023.5.15】[交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/2023/appinfo.php)~~ 2023.6.3-2023.6.4
+~~【报名截止：2023.5.15】[交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/2023/appinfo.php)~~
+2023.6.3-2023.6.4
 
 ~~【报名截止：2023.4.30】[自动化系智能与网络化系统研究中心](https://mp.weixin.qq.com/s/V93_HfSlbGKiCPTlT2qaiA)~~
 
@@ -259,7 +260,8 @@
 
 # 哈尔滨工业大学
 
-【报名截止：2023.6.25】[计算学部](https://cs.hit.edu.cn/2023/0613/c11271a313864/page.htm) 2023.7.3-2023-7.5
+【报名截止：2023.6.25】[计算学部](https://cs.hit.edu.cn/2023/0613/c11271a313864/page.htm)
+2023.7.3-2023-7.5
 
 # 中山大学
 
