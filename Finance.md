@@ -126,7 +126,7 @@
 
 **本仓库主要由以下人员维护。**
 
-2023: [@yfyeung](https://github.com/yfyeung)
+2023: [@yfyeung](https://github.com/yfyeung)、[@bro-sin](https://github.com/bro-sin)
 
 # Copyright
 ```
