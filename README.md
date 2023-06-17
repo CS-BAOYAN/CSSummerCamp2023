@@ -298,6 +298,13 @@
 
 ~~【报名截止：2023.6.9】[中法联培](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023050920150075093014)~~
 
+# 华南理工大学
+
+> https://yanzhao.scut.edu.cn/MasterX/Zmfa.aspx
+
+【报名截止：2023.6.27】[软件学院](https://yz.scut.edu.cn/2023/0609/c30111a506471/page.htm)
+2023.7.7-2023.7.8
+
 # 山东大学
 
 > https://yz.sdu.edu.cn/info/1009/5637.htm
@@ -400,6 +407,11 @@
 
 【报名截止：2023.6.18】[生物医学工程学院](https://hd.hainanu.edu.cn/shengyi/info/1051/2631.htm)
 
+# 哈尔滨工程大学
+
+【报名截止：2023.6.22】[计算机科学与技术学院](http://cstc.hrbeu.edu.cn/2023/0615/c3688a310389/page.htm)
+2023.7.3-2023.7.4
+
 # 上海科技大学
 
 【报名截止：2023.6.30】[信息科学与技术学院](https://sist.shanghaitech.edu.cn/2023/0424/c7339a1077054/page.htm)
@@ -413,18 +425,6 @@
 # 深圳大学
 
 【报名截止：2023.6.20】[计算机与软件学院](https://mp.weixin.qq.com/s?__biz=MzkzMTI5NDYxOA==&mid=2247587818&idx=1&sn=41cb1434a5d65452891b012b54962d90&chksm=c26eeb1ff5196209399a9db60aff65ca5a471c32d328ef217e90e5cec1756862e259bb13be8f&mpshare=1&scene=23)
-
-# 华南理工大学
-
-> https://yanzhao.scut.edu.cn/MasterX/Zmfa.aspx
-
-【报名截止：2023.6.27】[软件学院](https://yz.scut.edu.cn/2023/0609/c30111a506471/page.htm)
-2023.7.7-2023.7.8
-
-# 哈尔滨工程大学
-
-【报名截止：2023.6.22】[计算机科学与技术学院](http://cstc.hrbeu.edu.cn/2023/0615/c3688a310389/page.htm)
-2023.7.3-2023.7.4
 
 # 复旦大学
 
