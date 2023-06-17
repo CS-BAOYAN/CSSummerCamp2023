@@ -316,6 +316,8 @@
 
 【报名截止：2023.6.25】[计算机科学与技术学院](https://www.cs.sdu.edu.cn/info/1068/5908.htm)
 
+【报名截止：2023.6.25】[控制科学与工程学院](http://control.sdu.edu.cn/info/1018/6538.htm)
+
 # 湖南大学
 
 【报名截止：2023.6.21】[信息科学与工程学院](http://csee.hnu.edu.cn/info/1062/12691.htm) 
