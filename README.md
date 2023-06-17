@@ -426,20 +426,6 @@
 【报名截止：2023.6.22】[计算机科学与技术学院](http://cstc.hrbeu.edu.cn/2023/0615/c3688a310389/page.htm)
 2023.7.3-2023.7.4
 
-# 南京信息工程大学
-
-~~【报名截止：2023.6.15】[人工智能学院（未来技术学院）夏令营 第一轮](https://rgzn.nuist.edu.cn/info/1033/2842.htm)~~
-
-# 厦门大学
-
-> https://zs.xmu.edu.cn/info/1026/7204.htm
-
-~~【报名截止：2023.6.15】[信息学院](https://informatics.xmu.edu.cn/info/1050/28869.htm)~~
-
-~~【报名截止：2023.6.15】[电子科学与技术学院](https://github.com/jsjby/jsjby_2023)~~
-
-~~【报名截止：2023.6.15】[人工智能研究院](https://iai.xmu.edu.cn/info/1110/2974.htm)~~
-
 # 复旦大学
 
 > https://gsao.fudan.edu.cn/7b/0e/c15014a490254/page.htm
@@ -461,37 +447,6 @@
 
 ~~【报名截止：2023.5.31】[数字医学研究中心](https://miccai.fudan.edu.cn/7b/f7/c34228a490487/page.htm)~~
 
-# 同济大学
-
-> https://yz.tongji.edu.cn/info/1010/3121.htm
-
-~~【报名截止：2023.6.12】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/11487.htm)
-2023.6.30-2023.7.2~~
-
-~~【报名截止：2023.6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/4205.htm)~~
-2023.7.7-2023.7.9
-
-# 中南大学
-
-~~【报名截止：2023.6.10】[计算机学院](https://cse.csu.edu.cn/info/1040/8287.htm)~~
-
-~~【报名截止：2023.6.10】[大数据研究院](https://gra.csu.edu.cn/info/1012/39140.htm)~~
-
-~~【报名截止：2023.6.10】[自动化学院](https://soa.csu.edu.cn/info/1032/7026.htm)~~
-~~2023.6.30-2023.7.2~~
-
-# 北京理工大学
-
-~~【报名截止：2023.6.15】[网络空间安全学院](https://cst.bit.edu.cn/xxfw/tzgg/9deff63fea694441a1ab4f8c95aae884.htm)~~
-
-~~【报名截止：2023.6.14】[信息与电子学院](https://sie.bit.edu.cn/tzgg/zhtz/f24a00a759c14949a279295a55f51fa0.htm)~~
-
-# 南方科技大学
-
-~~【报名截止：2023.6.15】[深港微电子学院](https://mp.weixin.qq.com/s/bRyGtRCLblbCug06xhLb9g)~~
-
-~~【报名截止：2023.6.10】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/284)~~
-
 # 香港大学
 
 ~~【报名截止：2023.5.1】[HKU CS Early Recruitment Scheme for M.Phil. and Ph.D.](https://i.cs.hku.hk/~gradappl/index.html)~~
@@ -512,15 +467,60 @@
 
 ~~【报名截止：2023.4.9】[数据科学理学硕士 Mini营 北京场](https://mscds.cuhk.edu.cn/nshow-2538.html)~~
 
+# 同济大学
+
+> https://yz.tongji.edu.cn/info/1010/3121.htm
+
+~~【报名截止：2023.6.12】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/11487.htm)
+2023.6.30-2023.7.2~~
+
+~~【报名截止：2023.6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/4205.htm)~~
+2023.7.7-2023.7.9
+
+# 厦门大学
+
+> https://zs.xmu.edu.cn/info/1026/7204.htm
+
+~~【报名截止：2023.6.15】[信息学院](https://informatics.xmu.edu.cn/info/1050/28869.htm)~~
+
+~~【报名截止：2023.6.15】[电子科学与技术学院](https://github.com/jsjby/jsjby_2023)~~
+
+~~【报名截止：2023.6.15】[人工智能研究院](https://iai.xmu.edu.cn/info/1110/2974.htm)~~
+
+# 中南大学
+
+~~【报名截止：2023.6.10】[计算机学院](https://cse.csu.edu.cn/info/1040/8287.htm)~~
+
+~~【报名截止：2023.6.10】[大数据研究院](https://gra.csu.edu.cn/info/1012/39140.htm)~~
+
+~~【报名截止：2023.6.10】[自动化学院](https://soa.csu.edu.cn/info/1032/7026.htm)~~
+~~2023.6.30-2023.7.2~~
+
+# 北京理工大学
+
+~~【报名截止：2023.6.15】[网络空间安全学院](https://cst.bit.edu.cn/xxfw/tzgg/9deff63fea694441a1ab4f8c95aae884.htm)~~
+
+~~【报名截止：2023.6.14】[信息与电子学院](https://sie.bit.edu.cn/tzgg/zhtz/f24a00a759c14949a279295a55f51fa0.htm)~~
+
 # 西湖大学
 
 ~~【报名截止：2023.6.12】[西湖大学&浙江大学联培 直博](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202304/t20230411_27260.shtml)~~
+
+# 南方科技大学
+
+~~【报名截止：2023.6.15】[深港微电子学院](https://mp.weixin.qq.com/s/bRyGtRCLblbCug06xhLb9g)~~
+
+~~【报名截止：2023.6.10】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/284)~~
 
 # 南京师范大学
 
 ~~【报名截止：2023.6.6】[计算机与电子信息学院/人工智能学院](http://ceai.njnu.edu.cn/Item/Show.asp?m=1&d=18920)~~
 
 ~~【报名截止：2023.6.6】[南瑞电气与自动化学院](http://eae.njnu.edu.cn/info/1041/3016.htm)~~
+
+# 南京信息工程大学
+
+~~【报名截止：2023.6.15】[人工智能学院（未来技术学院）夏令营 第一轮](https://rgzn.nuist.edu.cn/info/1033/2842.htm)~~
 
 # 澳门大学
 
