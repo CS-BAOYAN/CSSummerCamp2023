@@ -322,6 +322,8 @@
 
 > https://yz.sdu.edu.cn/info/1009/5637.htm
 
+【报名截止：2023.7.8】[威海前沿交叉科学研究院](https://mp.weixin.qq.com/s/VWDU9wgluLsVU3UfBT_0dA)
+
 【报名截止：2023.6.25】[软件学院](https://www.sc.sdu.edu.cn/info/1019/4104.htm)
 
 【报名截止：2023.6.25】[网络空间安全学院](https://cst.qd.sdu.edu.cn/info/1023/2730.htm)
@@ -330,6 +332,9 @@
 【报名截止：2023.6.25】[计算机科学与技术学院](https://www.cs.sdu.edu.cn/info/1068/5908.htm)
 
 【报名截止：2023.6.25】[控制科学与工程学院](http://control.sdu.edu.cn/info/1018/6538.htm)
+
+【报名截止：2023.6.25】[前沿交叉科学青岛研究院 青岛理论与计算科学研究院](https://frontier.qd.sdu.edu.cn/info/1011/7034.htm)
+
 
 # 湖南大学
 
