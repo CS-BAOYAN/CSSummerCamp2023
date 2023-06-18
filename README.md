@@ -112,7 +112,7 @@
 
 【报名截止：2023.6.18】[良渚实验室](http://liangzhulab.zju.edu.cn/index.php?m=content&c=index&a=show&catid=63&id=1103)
 
-【报名截止：2023.6.17】[微纳电子学院](https://mne.zju.edu.cn/2023/0524/c54013a2762408/page.htm)
+~~【报名截止：2023.6.17】[微纳电子学院](https://mne.zju.edu.cn/2023/0524/c54013a2762408/page.htm)~~
 
 ~~【报名截止：2023.6.15】[信息与电子工程学院](http://www.isee.zju.edu.cn/2023/0517/c21109a2758376/page.htm)~~
 
