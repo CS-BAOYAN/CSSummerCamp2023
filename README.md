@@ -417,6 +417,9 @@
 【报名截止：2023.7.10】[计算机与人工智能学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=A49994D65FFC0734)
 2023.7.20-2023.7.22
 
+【报名截止：2023.6.30】[信息科学与技术学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=F3A41143A0F05E70)
+2023.7.20-2023.7.22
+
 # 上海财经大学
 
 【报名截止：2023.6.27】[交叉科学研究院](https://riis.sufe.edu.cn/jxChinese/0e/e8/c10268a200424/page.htm)
