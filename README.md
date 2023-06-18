@@ -224,6 +224,19 @@
 
 ~~【报名截止：2023.6.9】[统计与数据科学学院](https://stat.nankai.edu.cn/2023/0522/c12320a512992/page.htm)~~
 
+# 同济大学
+
+> https://yz.tongji.edu.cn/info/1010/3121.htm
+
+【报名截止：2023.6.30】[卓越工程师学院](https://yz.tongji.edu.cn/info/1010/3148.htm)
+2023.7.16-2023.7.21
+
+~~【报名截止：2023.6.12】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/11487.htm)~~
+~~2023.6.30-2023.7.2~~
+
+~~【报名截止：2023.6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/4205.htm)~~
+~~2023.7.7-2023.7.9~~
+
 # 华中科技大学
 
 【报名截止：2023.6.28】[计算机科学与技术学院](http://cs.hust.edu.cn/info/1439/3208.htm)
@@ -471,16 +484,6 @@
 ~~【报名截止：2023.6.10】[数据科学理学 硕士](https://mp.weixin.qq.com/s/g7ubbjLPqLKnP3P0Zbl45Q)~~
 
 ~~【报名截止：2023.4.9】[数据科学理学硕士 Mini营 北京场](https://mscds.cuhk.edu.cn/nshow-2538.html)~~
-
-# 同济大学
-
-> https://yz.tongji.edu.cn/info/1010/3121.htm
-
-~~【报名截止：2023.6.12】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/11487.htm)
-2023.6.30-2023.7.2~~
-
-~~【报名截止：2023.6.11】[软件学院](https://sse.tongji.edu.cn/info/1132/4205.htm)~~
-2023.7.7-2023.7.9
 
 # 厦门大学
 
