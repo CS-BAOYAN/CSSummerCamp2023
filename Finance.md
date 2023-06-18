@@ -16,9 +16,9 @@
 
 ## 经管
 
-【报名截止：2023.6.4】[清华-哥大 商务分析双硕士](https://masters.sem.tsinghua.edu.cn/tzgg/1649645196652024935.pdf)
+~~【报名截止：2023.6.4】[清华-哥大 商务分析双硕士](https://masters.sem.tsinghua.edu.cn/tzgg/1649645196652024935.pdf)~~
 
-【报名截止：2023.6.4】[管理硕士](https://masters.sem.tsinghua.edu.cn/qinghuajingguanxueyuanguanlishuoshixiangmu2024jituimianzhaoshengshuoming.pdf)
+~~【报名截止：2023.6.4】[管理硕士](https://masters.sem.tsinghua.edu.cn/qinghuajingguanxueyuanguanlishuoshixiangmu2024jituimianzhaoshengshuoming.pdf)~~
 
 ~~【报名截止：2023.5.20】[金融硕士 第二批](https://masters.sem.tsinghua.edu.cn/jinrongshuoshi2024jituimianshuoming.pdf)~~
 
@@ -42,13 +42,13 @@
 
 ## 安泰
 
-【报名截止：2023.6.15】[优才营 夏季营直博 上海](https://www.acem.sjtu.edu.cn/notices/75833.html)
+~~【报名截止：2023.6.15】[优才营 夏季营直博 上海](https://www.acem.sjtu.edu.cn/notices/75833.html)~~
 
-【报名截止：2023.6.15】[优才营 夏季营学硕 上海](https://www.acem.sjtu.edu.cn/notices/75833.html)
+~~【报名截止：2023.6.15】[优才营 夏季营学硕 上海](https://www.acem.sjtu.edu.cn/notices/75833.html)~~
 
-【报名截止：2023.6.15】[优才营 夏季营会计审计 上海](https://www.acem.sjtu.edu.cn/notices/75833.html)
+~~【报名截止：2023.6.15】[优才营 夏季营会计审计 上海](https://www.acem.sjtu.edu.cn/notices/75833.html)~~
 
-【报名截止：2023.6.15】[优才营 夏季营金融硕士 上海](https://www.acem.sjtu.edu.cn/notices/75833.html)
+~~【报名截止：2023.6.15】[优才营 夏季营金融硕士 上海](https://www.acem.sjtu.edu.cn/notices/75833.html)~~
 
 ~~【报名截止：2023.4.20】[优才营 春季营会计审计 上海](https://www.acem.sjtu.edu.cn/notices/75833.html)~~
 
@@ -82,7 +82,7 @@
 
 【报名截止：2023.6.26】[7月领创营](https://www.fdsm.fudan.edu.cn/mf/mf1556953405097)
 
-【报名截止：2023.6.5】[博思营 硕博连读](https://www.fdsm.fudan.edu.cn/graduate/graduate1556953452754)
+~~【报名截止：2023.6.5】[博思营 硕博连读](https://www.fdsm.fudan.edu.cn/graduate/graduate1556953452754)~~
 
 ~~【报名截止：2023.5.8】[5月领创营](https://www.fdsm.fudan.edu.cn/mf/mf1556953405097)~~
 
@@ -102,7 +102,7 @@
 
 ## 深高金
 
-【报名截止：2023.6.10】[硕士 体验营 ](https://mp.weixin.qq.com/s/PDHSfrRyjKffic3neWnu1g)
+~~【报名截止：2023.6.10】[硕士 体验营 ](https://mp.weixin.qq.com/s/PDHSfrRyjKffic3neWnu1g)~~
 
 ~~【报名截止：2023.4.9】[Mini营北京场 第二轮](https://mp.weixin.qq.com/s?__biz=Mzg3NzA4MjI1OA==&mid=2247501176&idx=1&sn=2c2df980cb391387358e8d2aadf5f926&chksm=cf2ae685f85d6f933e70eadaeac3dc56e597210f4cd0f65709c0d60cd0661e172103b3c75f33&scene=178&cur_album_id=2709807278790606852#rd)~~
 
