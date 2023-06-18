@@ -412,6 +412,11 @@
 【报名截止：2023.6.25】[计算机与信息技术学院](http://scit.bjtu.edu.cn/cms/item/5211.html)
 2023.7.5-2023.7.6
 
+# 西南交通大学
+
+【报名截止：2023.7.10】[计算机与人工智能学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=A49994D65FFC0734)
+2023.7.20-2023.7.22
+
 # 上海财经大学
 
 【报名截止：2023.6.27】[交叉科学研究院](https://riis.sufe.edu.cn/jxChinese/0e/e8/c10268a200424/page.htm)
