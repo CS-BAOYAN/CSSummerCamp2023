@@ -343,10 +343,6 @@
 【报名截止：2023.6.21】[机器人学院](http://robotics.hnu.edu.cn/info/1074/2231.htm) 
 2023.7.3-2023.7.4
 
-# 天津大学
-
-【报名截止：2023.6.16】[智能与计算学部](http://cic.tju.edu.cn/info/1041/4451.htm)
-
 # 东北大学
 
 【报名截止：2023.6.26】[计算机科学与工程学院](http://www.cse.neu.edu.cn/2023/0615/c6274a232028/page.htm)
@@ -529,6 +525,10 @@
 ~~【报名截止：2023.6.15】[网络空间安全学院](https://cst.bit.edu.cn/xxfw/tzgg/9deff63fea694441a1ab4f8c95aae884.htm)~~
 
 ~~【报名截止：2023.6.14】[信息与电子学院](https://sie.bit.edu.cn/tzgg/zhtz/f24a00a759c14949a279295a55f51fa0.htm)~~
+
+# 天津大学
+
+~~【报名截止：2023.6.16】[智能与计算学部](http://cic.tju.edu.cn/info/1041/4451.htm)~~
 
 # 西湖大学
 
