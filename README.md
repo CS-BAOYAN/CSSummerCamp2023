@@ -309,10 +309,10 @@
 # 华东师范大学
 > https://yjszs.ecnu.edu.cn/system/xlyjbxx_list.asp
 
-【报名截止：2023.6.20】[数据科学与工程学院](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023051520140103134343)
-
 【报名截止：2023.6.25】[华东师范大学信息学部-电子信息专业学位产教融合项目](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023060920190112135430)
 2023.7.13-2023.7.14
+
+~~【报名截止：2023.6.20】[数据科学与工程学院](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023051520140103134343)~~
 
 ~~【报名截止：2023.6.19】[计算机学院](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023050420050017104300)~~
 
