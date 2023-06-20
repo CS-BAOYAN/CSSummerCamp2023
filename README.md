@@ -375,8 +375,7 @@
 
 # 兰州大学
 
-【报名截止：2023.6.20】[信息科学与工程学院](http://xxxy.lzu.edu.cn/tongzhigonggao/2023/0529/216630.html)
-
+~~【报名截止：2023.6.20】[信息科学与工程学院](http://xxxy.lzu.edu.cn/tongzhigonggao/2023/0529/216630.html)~~
 # 四川大学
 
 【报名截止：2023.6.27】[四川大学网络空间安全学院](https://ccs.scu.edu.cn/info/1026/3353.htm)
