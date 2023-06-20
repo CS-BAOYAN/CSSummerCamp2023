@@ -396,7 +396,7 @@
 【报名截止：2023.6.25】[网络空间安全学院](https://www.scse.uestc.edu.cn/info/1015/13809.htm)
 2023.7.4-2023.7.5
 
-【报名截止：2023.6.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1067/5580.htm)
+~~【报名截止：2023.6.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1067/5580.htm)~~
 
 # 中国海洋大学
 
