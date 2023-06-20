@@ -133,6 +133,7 @@
 ~~【报名截止：2023.6.15】[计算机软件研究所](https://cs.nju.edu.cn/ics/recruit/index.html)~~
 
 ~~【报名截止：2023.6.12】[集成电路学院（苏州）](https://ese.nju.edu.cn/8b/8e/c22538a625550/page.htm)~~
+2023.7.6-2023.7.8
 
 ~~【报名截止：2023.5.30】[NJUNLP 额外考核](https://mp.weixin.qq.com/s/QmuYVNNsqqfZ66pG6VvB0A)~~
 
