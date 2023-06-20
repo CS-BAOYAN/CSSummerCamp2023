@@ -553,6 +553,8 @@
 
 ~~【报名截止：2023.6.15】[深港微电子学院](https://mp.weixin.qq.com/s/bRyGtRCLblbCug06xhLb9g)~~
 
+~~【报名截止：2023.6.15】[深圳量子科学与工程研究院](https://siqse.sustech.edu.cn/Zh/Index/view/mid/19/id/1351)~~
+
 ~~【报名截止：2023.6.10】[统计与数据科学系](https://stat-ds.sustech.edu.cn/notice/284)~~
 
 # 南京师范大学
