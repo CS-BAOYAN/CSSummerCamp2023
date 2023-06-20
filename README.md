@@ -583,6 +583,7 @@
 # 重庆大学
 
 > https://yz.cqu.edu.cn/news/2023-06/2028.html
+> https://mp.weixin.qq.com/s/hSOC09hhjiqdL-xaHz9ifg
 
 # 致谢
 
