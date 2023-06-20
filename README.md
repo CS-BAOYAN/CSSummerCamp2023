@@ -12,9 +12,9 @@
 
 > https://yz.tsinghua.edu.cn/xlyxx.htm
 
-【报名截止：2023.6.20】[数据与信息研究院（深圳）](https://www.sigs.tsinghua.edu.cn/2023/0531/c120a63499/page.htm)
-
 【报名截止：N/A】[智能产业研究院 AIR](https://mp.weixin.qq.com/s/SbJz9hzaaYDftQktzO70Qw)
+
+~~【报名截止：2023.6.20】[数据与信息研究院（深圳）](https://www.sigs.tsinghua.edu.cn/2023/0531/c120a63499/page.htm)~~
 
 ~~【报名截止：2023.6.16】[国际开放创新教育中心（Open FIESTA）（深圳）](https://www.sigs.tsinghua.edu.cn/2023/0530/c120a63274/page.htm)~~
 
@@ -122,9 +122,9 @@
 
 > https://yzb.nju.edu.cn/8c/dc/c47863a625884/pagem.htm
 
-【报名截止：2023.6.20】[计算机科学与技术系](https://cs.nju.edu.cn/8b/3d/c1702a625469/page.htm)
+~~【报名截止：2023.6.20】[计算机科学与技术系](https://cs.nju.edu.cn/8b/3d/c1702a625469/page.htm)~~
 
-【报名截止：2023.6.20】[软件学院](https://software.nju.edu.cn//tzgg/20230531/i247344.html)
+~~【报名截止：2023.6.20】[软件学院](https://software.nju.edu.cn//tzgg/20230531/i247344.html)~~
 
 ~~【报名截止：2023.6.16】[人工智能学院](https://ai.nju.edu.cn/8c/72/c53055a625778/page.htm)~~
 
