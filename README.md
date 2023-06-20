@@ -212,7 +212,7 @@
 # 北京航空航天大学
 
 【报名截止：2023.6.28】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=10557)
-2023.6.30-2023.7.2
+2023.7.3-2023.7.9
 
 ~~【报名截止：2023.6.18】[计算机学院](https://scse.buaa.edu.cn/info/1099/9814.htm)~~
 2023.6.30-2023.7.2
