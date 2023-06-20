@@ -265,9 +265,9 @@
 
 > https://yz.xjtu.edu.cn/a2023xly.htm
 
-【报名截止：2023.6.20】[电子与信息学部 软件学院](http://se.xjtu.edu.cn/info/1043/2614.htm)
-
 【报名截止：N/A】[电子与信息学部 网络空间安全学院](http://cybersec.xjtu.edu.cn/info/1017/1823.htm)
+
+~~【报名截止：2023.6.20】[电子与信息学部 软件学院](http://se.xjtu.edu.cn/info/1043/2614.htm)~~
 
 ~~【报名截止：2023.6.18】[电子与信息学部 电子科学与工程学院](http://esteie.xjtu.edu.cn/info/1051/2652.htm)~~
 
