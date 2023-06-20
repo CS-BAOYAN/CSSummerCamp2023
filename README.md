@@ -157,10 +157,10 @@
 
 【报名截止：2023.6.30】[科学岛](https://xly.ustc.edu.cn/news.php?newsid=932)
 
-【报名截止：2023.6.25】[计算机科学夏令营](http://m.xly.ustc.edu.cn/news.php?newsid=928)
+【报名截止：2023.6.25】[计算机科学与技术学院](http://m.xly.ustc.edu.cn/news.php?newsid=928)
 2023.7.19-2023.7.24
 
-【报名截止：2023.6.25】[计算机科学预面试](http://cs.ustc.edu.cn/2023/0606/c22510a605151/pagem.htm)
+【报名截止：2023.6.25】[计算机科学与技术学院](http://cs.ustc.edu.cn/2023/0606/c22510a605151/pagem.htm)
 
 【报名截止：N/A】[MIRA Lab](https://miralab.ai/admission/admission_2023/)
 
