@@ -234,11 +234,11 @@
 
 > https://yz.tongji.edu.cn/info/1010/3121.htm
 
-【报名截止：2023.6.29】[上海自主智能无人系统科学中心](https://mp.weixin.qq.com/s/fUlYGLmaIGvOV0MTXiO11g)
-2023.7.10-2023.7.11
-
 【报名截止：2023.6.30】[卓越工程师学院](https://yz.tongji.edu.cn/info/1010/3148.htm)
 2023.7.16-2023.7.21
+
+【报名截止：2023.6.29】[上海自主智能无人系统科学中心](https://mp.weixin.qq.com/s/fUlYGLmaIGvOV0MTXiO11g)
+2023.7.10-2023.7.11
 
 ~~【报名截止：2023.6.12】[电子与信息工程学院](https://see.tongji.edu.cn/info/1147/11487.htm)~~
 ~~2023.6.30-2023.7.2~~
