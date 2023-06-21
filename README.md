@@ -209,6 +209,9 @@
 
 # 北京航空航天大学
 
+【报名截止：2023.7.5】[人工智能研究院](https://iai.buaa.edu.cn/info/1082/2545.htm)
+2023.7.14-2023.7.16
+
 【报名截止：2023.6.28】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=10557)
 2023.7.3-2023.7.9
 
