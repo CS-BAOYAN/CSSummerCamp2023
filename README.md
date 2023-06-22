@@ -312,10 +312,10 @@
 
 > https://yzb.nwpu.edu.cn/
 
+【报名截止：2023.6.30】[无人系统研究院](https://wurenxitong.nwpu.edu.cn/info/1108/5028.htm)
+
 【报名截止：2023.6.28】[计算机学院](https://jsj.nwpu.edu.cn/info/1599/18935.htm)
 2023.7.2-2023.7.4
-
-【报名截止：2023.6.30】[无人系统研究院](https://wurenxitong.nwpu.edu.cn/info/1108/5028.htm)
 
 # 北京邮电大学
 
