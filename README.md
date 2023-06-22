@@ -390,10 +390,6 @@
 
 ~~【报名截止：2023.5.20】[软件学院](https://mp.weixin.qq.com/s/_AmyjqmMfr3iQ1MFXpx7Ag)~~
 
-# 兰州大学
-
-~~【报名截止：2023.6.20】[信息科学与工程学院](http://xxxy.lzu.edu.cn/tongzhigonggao/2023/0529/216630.html)~~
-
 # 四川大学
 
 【报名截止：2023.6.27】[四川大学网络空间安全学院](https://ccs.scu.edu.cn/info/1026/3353.htm)
@@ -563,6 +559,10 @@
 # 中国海洋大学
 
 ~~【报名截止：2023.6.19】[信息科学与工程学部](http://it.ouc.edu.cn/2023/0530/c16066a433770/page.htm)~~
+
+# 兰州大学
+
+~~【报名截止：2023.6.20】[信息科学与工程学院](http://xxxy.lzu.edu.cn/tongzhigonggao/2023/0529/216630.html)~~
 
 # 西湖大学
 
