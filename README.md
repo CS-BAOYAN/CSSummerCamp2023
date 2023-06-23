@@ -485,8 +485,10 @@
 
 【报名截止：2023.8.1】[智能信息处理实验室](https://mp.weixin.qq.com/s/eRH3XjcxzjGSw4MjDg_5gw)
 
+# 西南财经大学
 
-
+【报名截止：2023.6.29】[计算机与人工智能学院](https://it.swufe.edu.cn/info/1093/8302.htm)
+2023.7.10-2023.7.11
 
 # 复旦大学
 
