@@ -65,7 +65,7 @@
 
 > https://yzb.sjtu.edu.cn/info/1005/3697.htm
 
-【报名截止：2023.6.27】[密西根学院](https://mp.weixin.qq.com/s/fVpZF-630lVsACLvhpU7uQ)
+【报名截止：2023.6.27】[密西根学院](https://www.ji.sjtu.edu.cn/cn/off-the-press-zh/2023-05-24/138602/)
 2023.7.12-2023.7.14
 
 ~~【报名截止：2023.6.15】[电子信息与电气工程学院 计算机科学与工程系](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html)~~
@@ -209,6 +209,9 @@
 
 # 北京航空航天大学
 
+【报名截止：2023.7.5】[人工智能研究院](https://iai.buaa.edu.cn/info/1082/2545.htm)
+2023.7.14-2023.7.16
+
 【报名截止：2023.6.28】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=10557)
 2023.7.3-2023.7.9
 
@@ -246,9 +249,11 @@
 
 # 华中科技大学
 
+【报名截止：2023.6.30】[人工智能与自动化学院](http://aia.hust.edu.cn/info/1177/8423.htm)
+
 【报名截止：2023.6.28】[计算机科学与技术学院](http://cs.hust.edu.cn/info/1439/3208.htm)
 
-【报名截止：2023.6.22】[武汉光电国家研究中心](http://wnlo.hust.edu.cn/info/1178/11831.htm)
+~~【报名截止：2023.6.22】[武汉光电国家研究中心](http://wnlo.hust.edu.cn/info/1178/11831.htm)~~
 2023.7.1
 
 # 武汉大学
@@ -280,6 +285,16 @@
 
 # 哈尔滨工业大学
 
+【报名截止：2023.7.7】[计算机科学与技术学院（深圳）](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=6c8c05e43c17470f8bcde67486079253&xxlm=04)
+
+【报名截止：2023.7.7】[电子与信息工程学院（深圳）](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=6c8c05e43c17470f8bcde67486079253&xxlm=04)
+
+【报名截止：2023.6.30】[计算机科学与技术学院（威海）](http://yjsc.hitwh.edu.cn/2023/0609/c2134a169786/page.htm)
+2023.7.15-2023-7.16
+
+【报名截止：2023.6.30】[信息科学与工程学院（威海）](http://yjsc.hitwh.edu.cn/2023/0609/c2134a169786/page.htm)
+2023.7.15-2023-7.16
+
 【报名截止：2023.6.25】[计算学部](https://cs.hit.edu.cn/2023/0613/c11271a313864/page.htm)
 2023.7.3-2023-7.5
 
@@ -294,6 +309,15 @@
 ~~【报名截止：2023.6.15】[人工智能学院](https://sai.sysu.edu.cn/teach/graduate/1409130.htm)~~
 
 ~~【报名截止：2023.6.5】[电子与通信工程学院](https://sece.sysu.edu.cn/zs/zs01/1408893.htm)~~
+
+# 西北工业大学
+
+> https://yzb.nwpu.edu.cn/
+
+【报名截止：2023.6.30】[无人系统技术研究院](https://wurenxitong.nwpu.edu.cn/info/1108/5028.htm)
+
+【报名截止：2023.6.28】[计算机学院](https://jsj.nwpu.edu.cn/info/1599/18935.htm)
+2023.7.2-2023.7.4
 
 # 北京邮电大学
 
@@ -345,14 +369,6 @@
 
 【报名截止：2023.6.25】[前沿交叉科学青岛研究院 青岛理论与计算科学研究院](https://frontier.qd.sdu.edu.cn/info/1011/7034.htm)
 
-# 湖南大学
-
-【报名截止：2023.6.21】[信息科学与工程学院](http://csee.hnu.edu.cn/info/1062/12691.htm) 
-2023.7.8-2023.7.9
-
-【报名截止：2023.6.21】[机器人学院](http://robotics.hnu.edu.cn/info/1074/2231.htm) 
-2023.7.3-2023.7.4
-
 # 东北大学
 
 【报名截止：2023.6.29】[机器人科学与工程学院](http://www.rse.neu.edu.cn/2023/0619/c2147a232264/page.htm)
@@ -361,7 +377,7 @@
 【报名截止：2023.6.26】[计算机科学与工程学院](http://www.cse.neu.edu.cn/2023/0615/c6274a232028/page.htm)
 2023.7.8-2023.7.9
 
-【报名截止：2023.6.21】[信息科学与工程学院](http://www.ise.neu.edu.cn/2023/0616/c157a232088/page.htm)
+~~【报名截止：2023.6.21】[信息科学与工程学院](http://www.ise.neu.edu.cn/2023/0616/c157a232088/page.htm)~~
 2023.7.3-2023.7.5
 
 # 吉林大学
@@ -374,9 +390,6 @@
 
 ~~【报名截止：2023.5.20】[软件学院](https://mp.weixin.qq.com/s/_AmyjqmMfr3iQ1MFXpx7Ag)~~
 
-# 兰州大学
-
-~~【报名截止：2023.6.20】[信息科学与工程学院](http://xxxy.lzu.edu.cn/tongzhigonggao/2023/0529/216630.html)~~
 # 四川大学
 
 【报名截止：2023.6.27】[四川大学网络空间安全学院](https://ccs.scu.edu.cn/info/1026/3353.htm)
@@ -398,10 +411,6 @@
 2023.7.4-2023.7.5
 
 ~~【报名截止：2023.6.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1067/5580.htm)~~
-
-# 中国海洋大学
-
-~~【报名截止：2023.6.19】[信息科学与工程学部](http://it.ouc.edu.cn/2023/0530/c16066a433770/page.htm)~~
 
 # 国防科技大学
 
@@ -440,25 +449,30 @@
 
 【报名截止：2023.6.27】[交叉科学研究院](https://riis.sufe.edu.cn/jxChinese/0e/e8/c10268a200424/page.htm)
 
-# 西南大学
+# 上海大学
 
-~~【报名截止：2023.6.18】[计算机与信息科学学院 软件学院](http://cis.swu.edu.cn/info/1039/2504.htm)~~
+【报名截止：2023.6.28】[通信与信息工程学院](https://scie.shu.edu.cn/info/1065/39724.htm)
+2023.7.5-2023.7.6
+
+# 江南大学
+
+【报名截止：2023.6.29】[人工智能与计算机学院](http://ai.jiangnan.edu.cn/info/1055/3110.htm)
+2023.7.3-2023.7.4
+
+【报名截止：2023.6.29】[物联网工程学院](http://iot.jiangnan.edu.cn/info/1055/5835.htm)
+2023.7.5-2023.7.6
 
 # 华中师范大学
 
-【报名截止：2023.6.23】[计算机学院](http://cs.ccnu.edu.cn/info/1056/3264.htm)
+~~【报名截止：2023.6.23】[计算机学院](http://cs.ccnu.edu.cn/info/1056/3264.htm)~~
 
 # 东北师范大学
 
 【报名截止：2023.7.12】[信息科学与技术学院](http://ist.nenu.edu.cn/info/1157/5137.htm)
 
-# 海南大学
-
-~~【报名截止：2023.6.18】[生物医学工程学院](https://hd.hainanu.edu.cn/shengyi/info/1051/2631.htm)~~
-
 # 哈尔滨工程大学
 
-【报名截止：2023.6.22】[计算机科学与技术学院](http://cstc.hrbeu.edu.cn/2023/0615/c3688a310389/page.htm)
+~~【报名截止：2023.6.22】[计算机科学与技术学院](http://cstc.hrbeu.edu.cn/2023/0615/c3688a310389/page.htm)~~
 2023.7.3-2023.7.4
 
 # 上海科技大学
@@ -471,9 +485,10 @@
 
 【报名截止：2023.8.1】[智能信息处理实验室](https://mp.weixin.qq.com/s/eRH3XjcxzjGSw4MjDg_5gw)
 
-# 深圳大学
+# 西南财经大学
 
-~~【报名截止：2023.6.20】[计算机与软件学院](https://mp.weixin.qq.com/s?__biz=MzkzMTI5NDYxOA==&mid=2247587818&idx=1&sn=41cb1434a5d65452891b012b54962d90&chksm=c26eeb1ff5196209399a9db60aff65ca5a471c32d328ef217e90e5cec1756862e259bb13be8f&mpshare=1&scene=23)~~
+【报名截止：2023.6.29】[计算机与人工智能学院](https://it.swufe.edu.cn/info/1093/8302.htm)
+2023.7.10-2023.7.11
 
 # 复旦大学
 
@@ -535,6 +550,14 @@
 ~~【报名截止：2023.6.10】[自动化学院](https://soa.csu.edu.cn/info/1032/7026.htm)~~
 2023.6.30-2023.7.2
 
+# 湖南大学
+
+~~【报名截止：2023.6.21】[信息科学与工程学院](http://csee.hnu.edu.cn/info/1062/12691.htm)~~
+2023.7.8-2023.7.9
+
+~~【报名截止：2023.6.21】[机器人学院](http://robotics.hnu.edu.cn/info/1074/2231.htm)~~
+2023.7.3-2023.7.4
+
 # 北京理工大学
 
 ~~【报名截止：2023.6.15】[网络空间安全学院](https://cst.bit.edu.cn/xxfw/tzgg/9deff63fea694441a1ab4f8c95aae884.htm)~~
@@ -545,9 +568,25 @@
 
 ~~【报名截止：2023.6.16】[智能与计算学部](http://cic.tju.edu.cn/info/1041/4451.htm)~~
 
+# 中国海洋大学
+
+~~【报名截止：2023.6.19】[信息科学与工程学部](http://it.ouc.edu.cn/2023/0530/c16066a433770/page.htm)~~
+
+# 兰州大学
+
+~~【报名截止：2023.6.20】[信息科学与工程学院](http://xxxy.lzu.edu.cn/tongzhigonggao/2023/0529/216630.html)~~
+
 # 西湖大学
 
 ~~【报名截止：2023.6.12】[西湖大学&浙江大学联培 直博](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202304/t20230411_27260.shtml)~~
+
+# 西南大学
+
+~~【报名截止：2023.6.18】[计算机与信息科学学院 软件学院](http://cis.swu.edu.cn/info/1039/2504.htm)~~
+
+# 海南大学
+
+~~【报名截止：2023.6.18】[生物医学工程学院](https://hd.hainanu.edu.cn/shengyi/info/1051/2631.htm)~~
 
 # 南方科技大学
 
@@ -578,6 +617,10 @@
 # 澳门科技大学
 
 ~~【报名截止：2023.2.15】[澳门科技大学&广东省智能科学研究院联培（类脑）](https://mp.weixin.qq.com/s/6dX0-U-4hnvO_t7v4yHrVQ)~~
+
+# 深圳大学
+
+~~【报名截止：2023.6.20】[计算机与软件学院](https://mp.weixin.qq.com/s?__biz=MzkzMTI5NDYxOA==&mid=2247587818&idx=1&sn=41cb1434a5d65452891b012b54962d90&chksm=c26eeb1ff5196209399a9db60aff65ca5a471c32d328ef217e90e5cec1756862e259bb13be8f&mpshare=1&scene=23)~~
 
 # 致谢
 
