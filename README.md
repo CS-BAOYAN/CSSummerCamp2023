@@ -108,7 +108,7 @@
 
 【报名截止：2023.6.25】[伊利诺伊大学厄巴纳香槟校区联合学院](https://mp.weixin.qq.com/s/39j3MUDlh3zZlWDyykbmvg)
 
-【报名截止：2023.6.24】[软件学院](http://www.cst.zju.edu.cn/2023/0525/c32178a2762914/page.htm)
+~~【报名截止：2023.6.24】[软件学院](http://www.cst.zju.edu.cn/2023/0525/c32178a2762914/page.htm)~~
 
 ~~【报名截止：2023.6.18】[良渚实验室](http://liangzhulab.zju.edu.cn/index.php?m=content&c=index&a=show&catid=63&id=1103)~~
 
