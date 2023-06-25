@@ -118,27 +118,6 @@
 
 ~~【报名截止：2023.6.6】[脑科学与脑医学学院](https://mp.weixin.qq.com/s/7rN1LXpL-rJ9N6jDnggF6A)~~
 
-# 南京大学
-
-> https://yzb.nju.edu.cn/8c/dc/c47863a625884/pagem.htm
-
-~~【报名截止：2023.6.20】[计算机科学与技术系](https://cs.nju.edu.cn/8b/3d/c1702a625469/page.htm)~~
-
-~~【报名截止：2023.6.20】[软件学院](https://software.nju.edu.cn//tzgg/20230531/i247344.html)~~
-
-~~【报名截止：2023.6.16】[人工智能学院](https://ai.nju.edu.cn/8c/72/c53055a625778/page.htm)~~
-
-~~【报名截止：2023.6.15】[智能科学与技术学院（苏州）](https://ai.nju.edu.cn/8d/c6/c17810a626118/page.htm)~~
-
-~~【报名截止：2023.6.15】[计算机软件研究所](https://cs.nju.edu.cn/ics/recruit/index.html)~~
-
-~~【报名截止：2023.6.12】[集成电路学院（苏州）](https://ese.nju.edu.cn/8b/8e/c22538a625550/page.htm)~~
-2023.7.6-2023.7.8
-
-~~【报名截止：2023.5.30】[NJUNLP 额外考核](https://mp.weixin.qq.com/s/QmuYVNNsqqfZ66pG6VvB0A)~~
-
-~~【报名截止：2023.5.15】[LAMDA 额外考核](http://www.lamda.nju.edu.cn/recruit-2024/recruit-2024.html)~~
-
 # 中国科学技术大学
 
 > https://yz.ustc.edu.cn/article/2652/182?num=-1
@@ -462,10 +441,6 @@
 【报名截止：2023.6.29】[物联网工程学院](http://iot.jiangnan.edu.cn/info/1055/5835.htm)
 2023.7.5-2023.7.6
 
-# 华中师范大学
-
-~~【报名截止：2023.6.23】[计算机学院](http://cs.ccnu.edu.cn/info/1056/3264.htm)~~
-
 # 东北师范大学
 
 【报名截止：2023.7.12】[信息科学与技术学院](http://ist.nenu.edu.cn/info/1157/5137.htm)
@@ -489,6 +464,27 @@
 
 【报名截止：2023.6.29】[计算机与人工智能学院](https://it.swufe.edu.cn/info/1093/8302.htm)
 2023.7.10-2023.7.11
+
+# 南京大学
+
+> https://yzb.nju.edu.cn/8c/dc/c47863a625884/pagem.htm
+
+~~【报名截止：2023.6.20】[计算机科学与技术系](https://cs.nju.edu.cn/8b/3d/c1702a625469/page.htm)~~
+
+~~【报名截止：2023.6.20】[软件学院](https://software.nju.edu.cn//tzgg/20230531/i247344.html)~~
+
+~~【报名截止：2023.6.16】[人工智能学院](https://ai.nju.edu.cn/8c/72/c53055a625778/page.htm)~~
+
+~~【报名截止：2023.6.15】[智能科学与技术学院（苏州）](https://ai.nju.edu.cn/8d/c6/c17810a626118/page.htm)~~
+
+~~【报名截止：2023.6.15】[计算机软件研究所](https://cs.nju.edu.cn/ics/recruit/index.html)~~
+
+~~【报名截止：2023.6.12】[集成电路学院（苏州）](https://ese.nju.edu.cn/8b/8e/c22538a625550/page.htm)~~
+2023.7.6-2023.7.8
+
+~~【报名截止：2023.5.30】[NJUNLP 额外考核](https://mp.weixin.qq.com/s/QmuYVNNsqqfZ66pG6VvB0A)~~
+
+~~【报名截止：2023.5.15】[LAMDA 额外考核](http://www.lamda.nju.edu.cn/recruit-2024/recruit-2024.html)~~
 
 # 复旦大学
 
@@ -587,6 +583,10 @@
 # 海南大学
 
 ~~【报名截止：2023.6.18】[生物医学工程学院](https://hd.hainanu.edu.cn/shengyi/info/1051/2631.htm)~~
+
+# 华中师范大学
+
+~~【报名截止：2023.6.23】[计算机学院](http://cs.ccnu.edu.cn/info/1056/3264.htm)~~
 
 # 南方科技大学
 
