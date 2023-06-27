@@ -622,6 +622,14 @@
 
 ~~【报名截止：2023.6.20】[计算机与软件学院](https://mp.weixin.qq.com/s?__biz=MzkzMTI5NDYxOA==&mid=2247587818&idx=1&sn=41cb1434a5d65452891b012b54962d90&chksm=c26eeb1ff5196209399a9db60aff65ca5a471c32d328ef217e90e5cec1756862e259bb13be8f&mpshare=1&scene=23)~~
 
+# 重庆大学
+
+【报名截止：2023.7.3】[电气工程学院](http://www.cee.cqu.edu.cn/info/3542/18858.htm)
+2023.7.10-2023.7.13
+
+【报名截止：2023.7.3】[自动化学院](http://accu.cqu.edu.cn/info/1028/6291.htm)
+2023.7.7-2023.7.8
+
 # 致谢
 
 **夏令营报名仓库、入营/优营名单主要由以下人员维护。感谢大家的支持！**
