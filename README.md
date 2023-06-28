@@ -242,6 +242,9 @@
 
 【报名截止：2023.7.3】[网络空间安全学院](https://mp.weixin.qq.com/s/dog4AUZ0lsy3hhxg4KDWVw)
 
+【报名截止：2023.6.30】[软件学院](https://ruanjian.nwpu.edu.cn/info/1133/7406.htm)
+2023.6.28-2023.6.30
+
 
 # 北京邮电大学
 
