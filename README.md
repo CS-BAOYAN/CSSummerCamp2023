@@ -115,7 +115,7 @@
 2023.7.3-2023.7.9
 
 ~~【报名截止：2023.6.20】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202305/t20230509_6750931.html)~~
-~~第一期 2023.7.12-2023.7.14 第二期  2023.7.19-2023.7.21~~
+第一期 2023.7.12-2023.7.14 第二期  2023.7.19-2023.7.21
 
 ~~【报名截止：2023.6.20】[微小卫星创新研究院](https://mp.weixin.qq.com/s/XcCDVlu9Miq4k6pVW16kfw)~~
 
@@ -154,10 +154,10 @@
 
 > https://yzxt.nankai.edu.cn/intern/frontend/web/pg-net-sign-up/index
 
+【报名截止：N/A】[计算机学院、网络空间安全学院](https://cc.nankai.edu.cn/2023/0615/c13297a514889/page.htm)
+
 ~~【报名截止：2023.6.28】[人工智能学院](https://ai.nankai.edu.cn/info/1024/5363.htm)~~
 2023.7.5-2023.7.6
-
-【报名截止：N/A】[计算机学院、网络空间安全学院](https://cc.nankai.edu.cn/2023/0615/c13297a514889/page.htm)
 
 ~~【报名截止：2023.6.20】[软件学院](https://cs.nankai.edu.cn/info/1042/3466.htm)~~
 
@@ -233,7 +233,12 @@
 
 > https://yzb.nwpu.edu.cn/
 
-~~【报名截止：2023.6.30】[无人系统技术研究院](https://wurenxitong.nwpu.edu.cn/info/1108/5028.htm)~~
+【报名截止：2023.7.3】[网络空间安全学院](https://mp.weixin.qq.com/s/dog4AUZ0lsy3hhxg4KDWVw)
+
+【报名截止：2023.6.30】[软件学院](https://ruanjian.nwpu.edu.cn/info/1133/7406.htm)
+2023.6.28-2023.6.30
+
+【报名截止：2023.6.30】[无人系统技术研究院](https://wurenxitong.nwpu.edu.cn/info/1108/5028.htm)
 
 ~~【报名截止：2023.6.28】[计算机学院](https://jsj.nwpu.edu.cn/info/1599/18935.htm)~~
 2023.7.2-2023.7.4
@@ -241,18 +246,13 @@
 ~~【报名截止：2023.6.28】[光电与智能研究院](https://iopen.nwpu.edu.cn/info/1028/3366.htm)~~
 2023.7.1-2023.7.2
 
-【报名截止：2023.7.3】[网络空间安全学院](https://mp.weixin.qq.com/s/dog4AUZ0lsy3hhxg4KDWVw)
-
-【报名截止：2023.6.30】[软件学院](https://ruanjian.nwpu.edu.cn/info/1133/7406.htm)
-2023.6.28-2023.6.30
-
 
 # 北京邮电大学
 
+【报名截止：2023.7.3】[人工智能学院](https://ai.bupt.edu.cn/info/1065/2867.htm)
+
 【报名截止：2023.6.30】[网络空间安全学院](https://scss.bupt.edu.cn/info/1110/5052.htm)
 2023.7.8-2023.7.16
-
-【报名截止：2023.7.3】[人工智能学院](https://ai.bupt.edu.cn/info/1065/2867.htm)
 
 ~~【报名截止：2023.6.18】[计算机学院（国家示范性软件学院）](https://scs.bupt.edu.cn/info/1050/3563.htm)~~
 2023.7.3-2023.7.7
