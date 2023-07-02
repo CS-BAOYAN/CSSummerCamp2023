@@ -94,47 +94,6 @@
 
 ~~【报名截止：2023.6.25】[计算机科学与技术学院](http://cs.ustc.edu.cn/2023/0606/c22510a605151/pagem.htm)~~
 
-# 中国科学院
-
-> https://kjxt.ucas.ac.cn/index.php/zh/tongzhi
-
-【报名截止：2023.7.1】[软件研究所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202305/t20230510_6751443.html)
-
-【报名截止：2023.7.1】[微电子研究所](http://www.ime.cas.cn/kjrh/tzggkjrh/202305/t20230519_6759998.html)
-
-~~【报名截止：2023.6.28】[沈阳自动化所](https://mp.weixin.qq.com/s/Ha1oJOHxHry9bAghbvbJjQ)~~
-
-~~【报名截止：2023.6.28】[计算机网络信息中心](http://www.cnic.cas.cn/yjsjy/zsxx/tjms/202305/t20230518_6758322.html)~~
-
-~~【报名截止：2023.6.25】[深圳先进院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202305/t20230512_6753566.html)~~
-2023.7.10-2023.7.14
-
-~~【报名截止：2023.6.20】[自动化研究所](http://www.ia.cas.cn/yjsjy/zs/sszs/202306/t20230601_6766442.html)~~
-
-~~【报名截止：2023.6.20】[信息工程研究所](http://www.iie.ac.cn/xwdt2020/tzgg2020/202305/t20230523_6761355.html)~~
-2023.7.3-2023.7.9
-
-~~【报名截止：2023.6.20】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202305/t20230509_6750931.html)~~
-第一期 2023.7.12-2023.7.14 第二期  2023.7.19-2023.7.21
-
-~~【报名截止：2023.6.20】[微小卫星创新研究院](https://mp.weixin.qq.com/s/XcCDVlu9Miq4k6pVW16kfw)~~
-
-~~【报名截止：2023.6.20】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202305/t20230505_6749000.html)~~
-
-~~【报名截止：2023.6.19】[计算所](http://www.ict.ac.cn/yjsjy/zsxx/sszs/202306/t20230612_6776566.html)~~
-2023.7.17-2023.7.21
-
-~~【报名截止：2023.6.19】[沈阳计算所](https://kjxt.ucas.ac.cn/index.php/zh/tongzhi/577-2023-32)~~
-2023.7.24-2023.7.28
-
-~~【报名截止：2023.6.12】[杭州高等研究院-智能科学与技术学院](http://hias.ucas.ac.cn/znkxyjs/info/1055/1565.htm)~~
-
-~~【报名截止：N/A】[空天信息创新研究院 春令营](https://mp.weixin.qq.com/s/kPkHMAKjcdQzZd6WTPjqGA)~~
-
-~~【报名截止：2023.5.17】[计算所 春闱计划](http://www.ict.cas.cn/yjsjy/zsxx/sszs/202305/t20230512_6753303.html)~~
-
-~~【报名截止：2023.2.28】[自动化研究所 “人工智能菁英班”项目](https://mp.weixin.qq.com/s/7AuOk-fl3zrHBZ8FOC75Vw)~~
-
 # 香港科技大学
 
 【报名截止：2023.9.1】[Postgraduate Student Early Recruiting](https://cse.hkust.edu.hk/pg/admissions/recruiting/)
@@ -273,20 +232,6 @@
 【报名截止：2023.7.3】[自动化学院](http://accu.cqu.edu.cn/info/1028/6291.htm)
 2023.7.7-2023.7.8
 
-# 北京交通大学
-
-【报名截止：2023.7.1】[软件学院](http://sse.bjtu.edu.cn/cms/item/943.html)
-2023.7.6-2023.7.6
-
-~~【报名截止：2023.6.27】[电子信息工程学院](http://eie.bjtu.edu.cn/WebHtml/newsDetailsPage/FDFA73981763629EE050403B57032CBA)~~
-2023.7.1-2023.9.24
-
-~~【报名截止：2023.6.27】[系统科学学院](https://ssse.bjtu.edu.cn/media/attachments/2023/06/20230615142403_85.pdf)~~
-2023.7.11-2023.7.12
-
-~~【报名截止：2023.6.25】[计算机与信息技术学院](http://scit.bjtu.edu.cn/cms/item/5211.html)~~
-2023.7.5-2023.7.6
-
 # 西南交通大学
 
 【报名截止：2023.7.10】[计算机与人工智能学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=A49994D65FFC0734)
@@ -411,6 +356,47 @@
 ~~【报名截止：2023.5.30】[NJUNLP 额外考核](https://mp.weixin.qq.com/s/QmuYVNNsqqfZ66pG6VvB0A)~~
 
 ~~【报名截止：2023.5.15】[LAMDA 额外考核](http://www.lamda.nju.edu.cn/recruit-2024/recruit-2024.html)~~
+
+# 中国科学院
+
+> https://kjxt.ucas.ac.cn/index.php/zh/tongzhi
+
+~~【报名截止：2023.7.1】[软件研究所](http://www.is.cas.cn/yjsjy2016/zsxx2016/202305/t20230510_6751443.html)~~
+
+~~【报名截止：2023.7.1】[微电子研究所](http://www.ime.cas.cn/kjrh/tzggkjrh/202305/t20230519_6759998.html)~~
+
+~~【报名截止：2023.6.28】[沈阳自动化所](https://mp.weixin.qq.com/s/Ha1oJOHxHry9bAghbvbJjQ)~~
+
+~~【报名截止：2023.6.28】[计算机网络信息中心](http://www.cnic.cas.cn/yjsjy/zsxx/tjms/202305/t20230518_6758322.html)~~
+
+~~【报名截止：2023.6.25】[深圳先进院](https://www.siat.ac.cn/yjsjy2016/zsjs2016/202305/t20230512_6753566.html)~~
+2023.7.10-2023.7.14
+
+~~【报名截止：2023.6.20】[自动化研究所](http://www.ia.cas.cn/yjsjy/zs/sszs/202306/t20230601_6766442.html)~~
+
+~~【报名截止：2023.6.20】[信息工程研究所](http://www.iie.ac.cn/xwdt2020/tzgg2020/202305/t20230523_6761355.html)~~
+2023.7.3-2023.7.9
+
+~~【报名截止：2023.6.20】[声学研究所](http://www.ioa.cas.cn/yjs/zsxx/zstz/202305/t20230509_6750931.html)~~
+第一期 2023.7.12-2023.7.14 第二期  2023.7.19-2023.7.21
+
+~~【报名截止：2023.6.20】[微小卫星创新研究院](https://mp.weixin.qq.com/s/XcCDVlu9Miq4k6pVW16kfw)~~
+
+~~【报名截止：2023.6.20】[上海高等研究院](http://www.sari.cas.cn/gradedu/gdzssz/gddxssjxm/202305/t20230505_6749000.html)~~
+
+~~【报名截止：2023.6.19】[计算所](http://www.ict.ac.cn/yjsjy/zsxx/sszs/202306/t20230612_6776566.html)~~
+2023.7.17-2023.7.21
+
+~~【报名截止：2023.6.19】[沈阳计算所](https://kjxt.ucas.ac.cn/index.php/zh/tongzhi/577-2023-32)~~
+2023.7.24-2023.7.28
+
+~~【报名截止：2023.6.12】[杭州高等研究院-智能科学与技术学院](http://hias.ucas.ac.cn/znkxyjs/info/1055/1565.htm)~~
+
+~~【报名截止：N/A】[空天信息创新研究院 春令营](https://mp.weixin.qq.com/s/kPkHMAKjcdQzZd6WTPjqGA)~~
+
+~~【报名截止：2023.5.17】[计算所 春闱计划](http://www.ict.cas.cn/yjsjy/zsxx/sszs/202305/t20230512_6753303.html)~~
+
+~~【报名截止：2023.2.28】[自动化研究所 “人工智能菁英班”项目](https://mp.weixin.qq.com/s/7AuOk-fl3zrHBZ8FOC75Vw)~~
 
 # 同济大学
 
@@ -609,6 +595,20 @@
 
 ~~【报名截止：2023.6.30】[信息学部](https://yanzhao.bjut.edu.cn/system/_content/download.jsp?urltype=news.DownloadAttachUrl&owner=1823684272&wbfileid=39A500E720DBA2240FE52CE65AEE8594)~~
 2023.7.13-2023.7.14
+
+# 北京交通大学
+
+~~【报名截止：2023.7.1】[软件学院](http://sse.bjtu.edu.cn/cms/item/943.html)~~
+2023.7.6-2023.7.6
+
+~~【报名截止：2023.6.27】[电子信息工程学院](http://eie.bjtu.edu.cn/WebHtml/newsDetailsPage/FDFA73981763629EE050403B57032CBA)~~
+2023.7.1-2023.9.24
+
+~~【报名截止：2023.6.27】[系统科学学院](https://ssse.bjtu.edu.cn/media/attachments/2023/06/20230615142403_85.pdf)~~
+2023.7.11-2023.7.12
+
+~~【报名截止：2023.6.25】[计算机与信息技术学院](http://scit.bjtu.edu.cn/cms/item/5211.html)~~
+2023.7.5-2023.7.6
 
 # 武汉理工大学
 
