@@ -225,7 +225,7 @@
 
 # 国防科技大学
 
-【报名截止：N/A】[计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13072)
+~~【报名截止：2023.6.30】[计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13072)~~
 
 # 重庆大学
 
