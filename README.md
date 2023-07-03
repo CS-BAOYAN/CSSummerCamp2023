@@ -369,6 +369,10 @@
 
 ~~【报名截止：2023.2.28】[自动化研究所 “人工智能菁英班”项目](https://mp.weixin.qq.com/s/7AuOk-fl3zrHBZ8FOC75Vw)~~
 
+# 北京通用人工智能研究院
+
+~~【报名截止：2023.6.30】[通计划](https://www.bigai.ai/tongprogram-2023/)~~
+
 # 同济大学
 
 > https://yz.tongji.edu.cn/info/1010/3121.htm
