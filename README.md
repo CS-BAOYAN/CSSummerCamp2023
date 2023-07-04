@@ -683,7 +683,7 @@
 
 **夏令营报名仓库、入营/优营名单主要由以下人员维护。感谢大家的支持！**
 
-2023: [@yfyeung](https://github.com/yfyeung)、[@Liu-Steve](https://github.com/Liu-Steve)、[@NoFish-528](https://github.com/NoFish-528)、[@zengkaipeng](https://github.com/zengkaipeng)、[@shannany0606](https://github.com/shannany0606)、[@BNSWT](https://github.com/BNSWT)、[@Yirannn](https://github.com/Yirannn)
+2023: [@yfyeung](https://github.com/yfyeung)、[@Liu-Steve](https://github.com/Liu-Steve)、[@NoFish-528](https://github.com/NoFish-528)、[@zengkaipeng](https://github.com/zengkaipeng)、[@shannany0606](https://github.com/shannany0606)、[@BNSWT](https://github.com/BNSWT)、[@i-Yirannn](https://github.com/i-Yirannn)
 
 2022: [@Ling-Hao (Evan) CHEN](https://github.com/LinghaoChan)、[@BoJack](https://github.com/ddlBoJack)、[@zengkaipeng](https://github.com/zengkaipeng)、[@Kevin Axel](https://github.com/KveinAxel)、[@Sumsky21](https://github.com/Sumsky21)、[@caposerenity](https://github.com/caposerenity)
 
