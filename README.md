@@ -166,33 +166,6 @@
 ~~【报名截止：2023.6.25】[计算学部](https://cs.hit.edu.cn/2023/0613/c11271a313864/page.htm)~~
 2023.7.3-2023-7.5
 
-# 西北工业大学
-
-> https://yzb.nwpu.edu.cn/
-
-【报名截止：2023.7.3】[网络空间安全学院](https://mp.weixin.qq.com/s/dog4AUZ0lsy3hhxg4KDWVw)
-
-~~【报名截止：2023.6.30】[软件学院](https://ruanjian.nwpu.edu.cn/info/1133/7406.htm)~~
-2023.6.28-2023.6.30
-
-~~【报名截止：2023.6.30】[无人系统技术研究院](https://wurenxitong.nwpu.edu.cn/info/1108/5028.htm)~~
-
-~~【报名截止：2023.6.28】[计算机学院](https://jsj.nwpu.edu.cn/info/1599/18935.htm)~~
-2023.7.2-2023.7.4
-
-~~【报名截止：2023.6.28】[光电与智能研究院](https://iopen.nwpu.edu.cn/info/1028/3366.htm)~~
-2023.7.1-2023.7.2
-
-# 北京邮电大学
-
-【报名截止：2023.7.3】[人工智能学院](https://ai.bupt.edu.cn/info/1065/2867.htm)
-
-~~【报名截止：2023.6.30】[网络空间安全学院](https://scss.bupt.edu.cn/info/1110/5052.htm)~~
-2023.7.8-2023.7.16
-
-~~【报名截止：2023.6.18】[计算机学院（国家示范性软件学院）](https://scs.bupt.edu.cn/info/1050/3563.htm)~~
-2023.7.3-2023.7.7
-
 # 西安电子科技科技大学
 
 【报名截止：2023.7.7】[人工智能学院](https://sai.xidian.edu.cn/info/1106/8210.htm)
@@ -200,11 +173,6 @@
 
 【报名截止：2023.7.5】[计算机科学与技术学院（国家示范性软件学院）](https://cs.xidian.edu.cn/info/1003/15891.htm)
 2023.7.11-2023.7.13
-
-# 大连理工大学
-
-【报名截止：2023.7.3】[软件学院](https://ssdut.dlut.edu.cn/info/1122/23584.htm)
-2023.7.10-2023.7.11
 
 # 山东大学
 
@@ -250,6 +218,11 @@
 # 杭州电子科技大学
 
 【报名截止：2023.8.1】[智能信息处理实验室](https://mp.weixin.qq.com/s/eRH3XjcxzjGSw4MjDg_5gw)
+
+# 新疆大学
+
+【报名截止：2023.7.10】[软件学院](http://ss.xju.edu.cn/info/1033/2936.htm)
+2023.7.17-2023.7.18
 
 # 北京大学
 
@@ -401,6 +374,10 @@
 
 ~~【报名截止：2023.2.28】[自动化研究所 “人工智能菁英班”项目](https://mp.weixin.qq.com/s/7AuOk-fl3zrHBZ8FOC75Vw)~~
 
+# 北京通用人工智能研究院
+
+~~【报名截止：2023.6.30】[通计划](https://www.bigai.ai/tongprogram-2023/)~~
+
 # 同济大学
 
 > https://yz.tongji.edu.cn/info/1010/3121.htm
@@ -492,6 +469,33 @@
 
 ~~【报名截止：2023.6.9】[中法联培](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023050920150075093014)~~
 
+# 西北工业大学
+
+> https://yzb.nwpu.edu.cn/
+
+~~【报名截止：2023.7.3】[网络空间安全学院](https://mp.weixin.qq.com/s/dog4AUZ0lsy3hhxg4KDWVw)~~
+
+~~【报名截止：2023.6.30】[软件学院](https://ruanjian.nwpu.edu.cn/info/1133/7406.htm)~~
+2023.6.28-2023.6.30
+
+~~【报名截止：2023.6.30】[无人系统技术研究院](https://wurenxitong.nwpu.edu.cn/info/1108/5028.htm)~~
+
+~~【报名截止：2023.6.28】[计算机学院](https://jsj.nwpu.edu.cn/info/1599/18935.htm)~~
+2023.7.2-2023.7.4
+
+~~【报名截止：2023.6.28】[光电与智能研究院](https://iopen.nwpu.edu.cn/info/1028/3366.htm)~~
+2023.7.1-2023.7.2
+
+# 北京邮电大学
+
+~~【报名截止：2023.7.3】[人工智能学院](https://ai.bupt.edu.cn/info/1065/2867.htm)~~
+
+~~【报名截止：2023.6.30】[网络空间安全学院](https://scss.bupt.edu.cn/info/1110/5052.htm)~~
+2023.7.8-2023.7.16
+
+~~【报名截止：2023.6.18】[计算机学院（国家示范性软件学院）](https://scs.bupt.edu.cn/info/1050/3563.htm)~~
+2023.7.3-2023.7.7
+
 # 吉林大学
 
 ~~【报名截止：2023.6.25】[电子科学与工程学院](http://ee.jlu.edu.cn/info/1038/7898.htm)~~
@@ -542,6 +546,11 @@
 
 ~~【报名截止：2023.6.27】[软件学院](https://yz.scut.edu.cn/2023/0609/c30111a506471/page.htm)~~
 2023.7.7-2023.7.8
+
+# 大连理工大学
+
+~~【报名截止：2023.7.3】[软件学院](https://ssdut.dlut.edu.cn/info/1122/23584.htm)~~
+2023.7.10-2023.7.11
 
 # 东北大学
 
@@ -674,7 +683,7 @@
 
 **夏令营报名仓库、入营/优营名单主要由以下人员维护。感谢大家的支持！**
 
-2023: [@yfyeung](https://github.com/yfyeung)、[@Liu-Steve](https://github.com/Liu-Steve)、[@NoFish-528](https://github.com/NoFish-528)、[@zengkaipeng](https://github.com/zengkaipeng)、[@shannany0606](https://github.com/shannany0606)、[@BNSWT](https://github.com/BNSWT)
+2023: [@yfyeung](https://github.com/yfyeung)、[@Liu-Steve](https://github.com/Liu-Steve)、[@NoFish-528](https://github.com/NoFish-528)、[@zengkaipeng](https://github.com/zengkaipeng)、[@shannany0606](https://github.com/shannany0606)、[@BNSWT](https://github.com/BNSWT)、[@i-Yirannn](https://github.com/i-Yirannn)
 
 2022: [@Ling-Hao (Evan) CHEN](https://github.com/LinghaoChan)、[@BoJack](https://github.com/ddlBoJack)、[@zengkaipeng](https://github.com/zengkaipeng)、[@Kevin Axel](https://github.com/KveinAxel)、[@Sumsky21](https://github.com/Sumsky21)、[@caposerenity](https://github.com/caposerenity)
 
