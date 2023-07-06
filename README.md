@@ -98,17 +98,6 @@
 
 【报名截止：2023.9.1】[Postgraduate Student Early Recruiting](https://cse.hkust.edu.hk/pg/admissions/recruiting/)
 
-# 北京航空航天大学
-
-【报名截止：2023.7.5】[人工智能研究院](https://iai.buaa.edu.cn/info/1082/2545.htm)
-2023.7.14-2023.7.16
-
-~~【报名截止：2023.6.28】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=10557)~~
-2023.7.3-2023.7.9
-
-~~【报名截止：2023.6.18】[计算机学院](https://scse.buaa.edu.cn/info/1099/9814.htm)~~
-2023.6.30-2023.7.2
-
 # 南开大学
 
 > https://yzxt.nankai.edu.cn/intern/frontend/web/pg-net-sign-up/index
@@ -168,10 +157,12 @@
 
 # 西安电子科技科技大学
 
+【报名截止：2023.7.10】[杭州研究院](https://mp.weixin.qq.com/s/fo04n1LCPSULmDssXQAq7A)
+
 【报名截止：2023.7.7】[人工智能学院](https://sai.xidian.edu.cn/info/1106/8210.htm)
 2023.7.14-2023.7.16
 
-【报名截止：2023.7.5】[计算机科学与技术学院（国家示范性软件学院）](https://cs.xidian.edu.cn/info/1003/15891.htm)
+~~【报名截止：2023.7.5】[计算机科学与技术学院（国家示范性软件学院）](https://cs.xidian.edu.cn/info/1003/15891.htm)~~
 2023.7.11-2023.7.13
 
 # 山东大学
@@ -377,6 +368,17 @@
 # 北京通用人工智能研究院
 
 ~~【报名截止：2023.6.30】[通计划](https://www.bigai.ai/tongprogram-2023/)~~
+
+# 北京航空航天大学
+
+~~【报名截止：2023.7.5】[人工智能研究院](https://iai.buaa.edu.cn/info/1082/2545.htm)~~
+2023.7.14-2023.7.16
+
+~~【报名截止：2023.6.28】[软件学院](https://soft.buaa.edu.cn/news_nry.jsp?urltype=news.NewsContentUrl&wbtreeid=1325&wbnewsid=10557)~~
+2023.7.3-2023.7.9
+
+~~【报名截止：2023.6.18】[计算机学院](https://scse.buaa.edu.cn/info/1099/9814.htm)~~
+2023.6.30-2023.7.2
 
 # 同济大学
 
