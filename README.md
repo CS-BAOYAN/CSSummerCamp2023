@@ -142,9 +142,9 @@
 
 # 哈尔滨工业大学
 
-【报名截止：2023.7.7】[计算机科学与技术学院（深圳）](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=6c8c05e43c17470f8bcde67486079253&xxlm=04)
+~~【报名截止：2023.7.7】[计算机科学与技术学院（深圳）](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=6c8c05e43c17470f8bcde67486079253&xxlm=04)~~
 
-【报名截止：2023.7.7】[电子与信息工程学院（深圳）](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=6c8c05e43c17470f8bcde67486079253&xxlm=04)
+~~【报名截止：2023.7.7】[电子与信息工程学院（深圳）](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=6c8c05e43c17470f8bcde67486079253&xxlm=04)~~
 
 ~~【报名截止：2023.6.30】[计算机科学与技术学院（威海）](http://yjsc.hitwh.edu.cn/2023/0609/c2134a169786/page.htm)~~
 2023.7.15-2023-7.16
@@ -159,7 +159,7 @@
 
 【报名截止：2023.7.10】[杭州研究院](https://mp.weixin.qq.com/s/fo04n1LCPSULmDssXQAq7A)
 
-【报名截止：2023.7.7】[人工智能学院](https://sai.xidian.edu.cn/info/1106/8210.htm)
+~~【报名截止：2023.7.7】[人工智能学院](https://sai.xidian.edu.cn/info/1106/8210.htm)~~
 2023.7.14-2023.7.16
 
 ~~【报名截止：2023.7.5】[计算机科学与技术学院（国家示范性软件学院）](https://cs.xidian.edu.cn/info/1003/15891.htm)~~
