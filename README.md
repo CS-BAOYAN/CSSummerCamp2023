@@ -236,18 +236,6 @@
 
 ~~【报名截止：2023.6.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1067/5580.htm)~~
 
-# 国防科技大学
-
-~~【报名截止：2023.6.30】[计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13072)~~
-
-# 重庆大学
-
-~~【报名截止：2023.7.3】[电气工程学院](http://www.cee.cqu.edu.cn/info/3542/18858.htm)~~
-2023.7.10-2023.7.13
-
-~~【报名截止：2023.7.3】[自动化学院](http://accu.cqu.edu.cn/info/1028/6291.htm)~~
-2023.7.7-2023.7.8
-
 # 西南交通大学
 
 【报名截止：2023.7.10】[计算机与人工智能学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=A49994D65FFC0734)
@@ -546,6 +534,14 @@
 
 ~~【报名截止：2023.6.25】[前沿交叉科学青岛研究院 青岛理论与计算科学研究院](https://frontier.qd.sdu.edu.cn/info/1011/7034.htm)~~
 
+# 国防科技大学
+
+~~【报名截止：2023.6.30】[计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13072)~~
+
+~~【报名截止：2023.6.25】[前沿交叉科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13085)~~
+
+~~【报名截止：2023.6.25】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13079)~~
+
 # 吉林大学
 
 ~~【报名截止：2023.6.25】[电子科学与工程学院](http://ee.jlu.edu.cn/info/1038/7898.htm)~~
@@ -576,6 +572,14 @@
 ~~【报名截止：2023.6.20】[视觉合成图形图像技术国家级重点实验室](https://vs.scu.edu.cn/info/1052/2013.htm)~~
 
 ~~【报名截止：2023.6.19】[计算机学院](https://cs.scu.edu.cn/info/1247/17790.htm)~~
+
+# 重庆大学
+
+~~【报名截止：2023.7.3】[电气工程学院](http://www.cee.cqu.edu.cn/info/3542/18858.htm)~~
+2023.7.10-2023.7.13
+
+~~【报名截止：2023.7.3】[自动化学院](http://accu.cqu.edu.cn/info/1028/6291.htm)~~
+2023.7.7-2023.7.8
 
 # 华南理工大学
 
