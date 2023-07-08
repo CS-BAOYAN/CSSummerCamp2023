@@ -124,6 +124,9 @@
 【报名截止：2023.8.5】[软件学院](https://cose.seu.edu.cn/2023/0627/c18033a449715/page.htm)
 2023.8.15-2023.8.18
 
+【报名截止：2023.7.27】[自动化学院](https://automation.seu.edu.cn/2023/0705/c24460a450730/page.htm)
+2023.8.4-2023.8.6
+
 # 西安交通大学
 
 > https://yz.xjtu.edu.cn/a2023xly.htm
