@@ -215,6 +215,9 @@
 【报名截止：2023.7.10】[软件学院](http://ss.xju.edu.cn/info/1033/2936.htm)
 2023.7.17-2023.7.18
 
+【报名截止：2023.7.9】[未来技术学院](http://wljs.xju.edu.cn/info/1031/1396.htm)
+2023.7.13-2023.7.14
+
 # 北京大学
 
 > https://admission.pku.edu.cn/xly/index.htm?CSRFT=F92S-Z8W8-ES9W-6BFM-W68T-OTF2-6VOU-KQN9
