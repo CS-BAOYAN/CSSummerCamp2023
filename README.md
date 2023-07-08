@@ -538,6 +538,10 @@
 
 ~~【报名截止：2023.6.30】[计算机学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13072)~~
 
+~~【报名截止：2023.6.25】[前沿交叉科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13085)~~
+
+~~【报名截止：2023.6.25】[智能科学学院](http://yjszs.nudt.edu.cn/pubweb/homePageList/detailed.view?keyId=13079)~~
+
 # 吉林大学
 
 ~~【报名截止：2023.6.25】[电子科学与工程学院](http://ee.jlu.edu.cn/info/1038/7898.htm)~~
