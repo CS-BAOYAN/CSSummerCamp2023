@@ -289,6 +289,11 @@
 【报名截止：2023.7.9】[未来技术学院](http://wljs.xju.edu.cn/info/1031/1396.htm)
 2023.7.13-2023.7.14
 
+# 大连海事大学
+
+【报名截止：2023.7.10】[信息科学技术学院](https://ist.dlmu.edu.cn/info/1068/4218.htm)
+2023.7.19-2023.7.21
+
 # 北京大学
 
 > https://admission.pku.edu.cn/xly/index.htm?CSRFT=F92S-Z8W8-ES9W-6BFM-W68T-OTF2-6VOU-KQN9
