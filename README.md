@@ -142,6 +142,9 @@
 
 # 哈尔滨工业大学
 
+【报名截止：2023.7.10】[电气工程及自动化学院](http://hitee.hit.edu.cn/post/detail/11708)
+2023.7.20-2023-7.22
+
 ~~【报名截止：2023.7.7】[计算机科学与技术学院（深圳）](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=6c8c05e43c17470f8bcde67486079253&xxlm=04)~~
 
 ~~【报名截止：2023.7.7】[电子与信息工程学院（深圳）](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=6c8c05e43c17470f8bcde67486079253&xxlm=04)~~
