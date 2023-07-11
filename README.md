@@ -48,29 +48,6 @@
 ~~【报名截止：2023.6.15】[高瓴人工智能学院](http://ai.ruc.edu.cn/newslist/notice/20230606100.html)~~
 2023.7.8-2023.7.12
 
-# 浙江大学
-
-> http://www.grs.zju.edu.cn/yjszs/2023/0518/c28498a2758651/page.htm
-
-【报名截止：2023.7.10】[工程师学院](https://pi.zju.edu.cn/2023/0616/c67820a2773740/page.htm)
-第1期 2023.7.21-2023.7.23 第2期 2023.7.25-2023.7.27
-
-~~【报名截止：2023.6.28】[计算机学院](http://www.cs.zju.edu.cn/csen/2023/0525/c27011a2763109/page.htm)~~
-
-~~【报名截止：2023.6.28】[网络空间安全研究中心](https://icsr.zju.edu.cn/2023/0529/c70139a2764625/page.htm)~~
-
-~~【报名截止：2023.6.25】[伊利诺伊大学厄巴纳香槟校区联合学院](https://mp.weixin.qq.com/s/39j3MUDlh3zZlWDyykbmvg)~~
-
-~~【报名截止：2023.6.24】[软件学院](http://www.cst.zju.edu.cn/2023/0525/c32178a2762914/page.htm)~~
-
-~~【报名截止：2023.6.18】[良渚实验室](http://liangzhulab.zju.edu.cn/index.php?m=content&c=index&a=show&catid=63&id=1103)~~
-
-~~【报名截止：2023.6.17】[微纳电子学院](https://mne.zju.edu.cn/2023/0524/c54013a2762408/page.htm)~~
-
-~~【报名截止：2023.6.15】[信息与电子工程学院](http://www.isee.zju.edu.cn/2023/0517/c21109a2758376/page.htm)~~
-
-~~【报名截止：2023.6.6】[脑科学与脑医学学院](https://mp.weixin.qq.com/s/7rN1LXpL-rJ9N6jDnggF6A)~~
-
 # 中国科学技术大学
 
 > https://yz.ustc.edu.cn/article/2652/182?num=-1
@@ -192,61 +169,9 @@
 
 ~~【报名截止：2023.6.14】[电子与信息学部 信息与通信工程学院](http://dice.xjtu.edu.cn/info/1009/2667.htm)~~
 
-# 哈尔滨工业大学
-
-【报名截止：2023.7.10】[电气工程及自动化学院](http://hitee.hit.edu.cn/post/detail/11708)
-2023.7.20-2023-7.22
-
-~~【报名截止：2023.7.7】[计算机科学与技术学院（深圳）](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=6c8c05e43c17470f8bcde67486079253&xxlm=04)~~
-
-~~【报名截止：2023.7.7】[电子与信息工程学院（深圳）](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=6c8c05e43c17470f8bcde67486079253&xxlm=04)~~
-
-~~【报名截止：2023.6.30】[计算机科学与技术学院（威海）](http://yjsc.hitwh.edu.cn/2023/0609/c2134a169786/page.htm)~~
-2023.7.15-2023-7.16
-
-~~【报名截止：2023.6.30】[信息科学与工程学院（威海）](http://yjsc.hitwh.edu.cn/2023/0609/c2134a169786/page.htm)~~
-2023.7.15-2023-7.16
-
-~~【报名截止：2023.6.25】[计算学部](https://cs.hit.edu.cn/2023/0613/c11271a313864/page.htm)~~
-2023.7.3-2023-7.5
-
-# 西安电子科技大学
-
-【报名截止：2023.7.10】[杭州研究院](https://mp.weixin.qq.com/s/fo04n1LCPSULmDssXQAq7A)
-
-~~【报名截止：2023.7.7】[人工智能学院](https://sai.xidian.edu.cn/info/1106/8210.htm)~~
-2023.7.14-2023.7.16
-
-~~【报名截止：2023.7.5】[计算机科学与技术学院（国家示范性软件学院）](https://cs.xidian.edu.cn/info/1003/15891.htm)~~
-2023.7.11-2023.7.13
-
-# 电子科技大学
-
-【报名截止：2023.7.10】[高等研究院（深圳）](https://sias.uestc.edu.cn/info/1088/3358.htm)
-2023.7.12-2023.7.13
-
-~~【报名截止：2023.6.27】[信息与软件工程学院](https://sise.uestc.edu.cn/info/1026/10575.htm)~~
-2023.7.5-2023.7.6
-
-~~【报名截止：2023.6.25】[计算机学院](https://www.scse.uestc.edu.cn/info/1015/13809.htm)~~
-2023.7.4-2023.7.5
-
-~~【报名截止：2023.6.25】[网络空间安全学院](https://www.scse.uestc.edu.cn/info/1015/13809.htm)~~
-2023.7.4-2023.7.5
-
-~~【报名截止：2023.6.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1067/5580.htm)~~
-
 # 北京科技大学
 
 【报名截止：2023.7.21】[计算机与通信工程学院](http://scce.ustb.edu.cn/xinwentongzhi/xueyuanxinwen/2023-07-08/2017.html)
-
-# 西南交通大学
-
-【报名截止：2023.7.10】[计算机与人工智能学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=A49994D65FFC0734)
-2023.7.20-2023.7.22
-
-~~【报名截止：2023.6.30】[信息科学与技术学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=F3A41143A0F05E70)~~
-2023.7.20-2023.7.22
 
 # 东北师范大学
 
@@ -256,28 +181,13 @@
 
 【报名截止：2023.8.1】[智能信息处理实验室](https://mp.weixin.qq.com/s/eRH3XjcxzjGSw4MjDg_5gw)
 
-# 新疆大学
-
-【报名截止：2023.7.10】[软件学院](http://ss.xju.edu.cn/info/1033/2936.htm)
-2023.7.17-2023.7.18
-
-~~【报名截止：2023.7.9】[未来技术学院](http://wljs.xju.edu.cn/info/1031/1396.htm)~~
-2023.7.13-2023.7.14
-
 # 苏州大学
 
-【报名截止：第一批2023.8.13；第二批2023.9.6】[计算机科学与技术学院](http://scst.suda.edu.cn/3a/ee/c29557a539374/page.htm)
-第一批2023.8.20；第二批2023.9.13
+【报名截止：2023.9.6】[计算机科学与技术学院 第二批](http://scst.suda.edu.cn/3a/ee/c29557a539374/page.htm)
+第二批2023.9.13
 
-# 江苏大学
-
-【报名截止：2023.7.10】[计算机科学与通信工程学院](https://cs.ujs.edu.cn/info/1428/33407.htm)
-2023.7.16-2023.7.23
-
-# 大连海事大学
-
-【报名截止：2023.7.10】[信息科学技术学院](https://ist.dlmu.edu.cn/info/1068/4218.htm)
-2023.7.19-2023.7.21
+【报名截止：2023.8.13】[计算机科学与技术学院 第一批](http://scst.suda.edu.cn/3a/ee/c29557a539374/page.htm)
+2023.8.20
 
 # 北京大学
 
@@ -325,6 +235,29 @@
 2023.7.12-2023-7.14
 
 ~~【报名截止：2023.3.30】[密西根学院 “科研见习项目”](https://jwc.sjtu.edu.cn/info/1222/12276.htm)~~
+
+# 浙江大学
+
+> http://www.grs.zju.edu.cn/yjszs/2023/0518/c28498a2758651/page.htm
+
+~~【报名截止：2023.7.10】[工程师学院](https://pi.zju.edu.cn/2023/0616/c67820a2773740/page.htm)~~
+第1期 2023.7.21-2023.7.23 第2期 2023.7.25-2023.7.27
+
+~~【报名截止：2023.6.28】[计算机学院](http://www.cs.zju.edu.cn/csen/2023/0525/c27011a2763109/page.htm)~~
+
+~~【报名截止：2023.6.28】[网络空间安全研究中心](https://icsr.zju.edu.cn/2023/0529/c70139a2764625/page.htm)~~
+
+~~【报名截止：2023.6.25】[伊利诺伊大学厄巴纳香槟校区联合学院](https://mp.weixin.qq.com/s/39j3MUDlh3zZlWDyykbmvg)~~
+
+~~【报名截止：2023.6.24】[软件学院](http://www.cst.zju.edu.cn/2023/0525/c32178a2762914/page.htm)~~
+
+~~【报名截止：2023.6.18】[良渚实验室](http://liangzhulab.zju.edu.cn/index.php?m=content&c=index&a=show&catid=63&id=1103)~~
+
+~~【报名截止：2023.6.17】[微纳电子学院](https://mne.zju.edu.cn/2023/0524/c54013a2762408/page.htm)~~
+
+~~【报名截止：2023.6.15】[信息与电子工程学院](http://www.isee.zju.edu.cn/2023/0517/c21109a2758376/page.htm)~~
+
+~~【报名截止：2023.6.6】[脑科学与脑医学学院](https://mp.weixin.qq.com/s/7rN1LXpL-rJ9N6jDnggF6A)~~
 
 # 复旦大学
 
@@ -494,6 +427,24 @@
 
 ~~【报名截止：2023.6.9】[中法联培](https://yjszs.ecnu.edu.cn/system/xlyxcwb_detail.asp?xlyjbdwbh=2023050920150075093014)~~
 
+# 哈尔滨工业大学
+
+~~【报名截止：2023.7.10】[电气工程及自动化学院](http://hitee.hit.edu.cn/post/detail/11708)~~
+2023.7.20-2023-7.22
+
+~~【报名截止：2023.7.7】[计算机科学与技术学院（深圳）](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=6c8c05e43c17470f8bcde67486079253&xxlm=04)~~
+
+~~【报名截止：2023.7.7】[电子与信息工程学院（深圳）](https://yzb.hitsz.edu.cn/yzs_common/zsxxxq/index?id=6c8c05e43c17470f8bcde67486079253&xxlm=04)~~
+
+~~【报名截止：2023.6.30】[计算机科学与技术学院（威海）](http://yjsc.hitwh.edu.cn/2023/0609/c2134a169786/page.htm)~~
+2023.7.15-2023-7.16
+
+~~【报名截止：2023.6.30】[信息科学与工程学院（威海）](http://yjsc.hitwh.edu.cn/2023/0609/c2134a169786/page.htm)~~
+2023.7.15-2023-7.16
+
+~~【报名截止：2023.6.25】[计算学部](https://cs.hit.edu.cn/2023/0613/c11271a313864/page.htm)~~
+2023.7.3-2023-7.5
+
 # 西北工业大学
 
 > https://yzb.nwpu.edu.cn/
@@ -520,6 +471,32 @@
 
 ~~【报名截止：2023.6.18】[计算机学院（国家示范性软件学院）](https://scs.bupt.edu.cn/info/1050/3563.htm)~~
 2023.7.3-2023.7.7
+
+# 西安电子科技大学
+
+~~【报名截止：2023.7.10】[杭州研究院](https://mp.weixin.qq.com/s/fo04n1LCPSULmDssXQAq7A)~~
+
+~~【报名截止：2023.7.7】[人工智能学院](https://sai.xidian.edu.cn/info/1106/8210.htm)~~
+2023.7.14-2023.7.16
+
+~~【报名截止：2023.7.5】[计算机科学与技术学院（国家示范性软件学院）](https://cs.xidian.edu.cn/info/1003/15891.htm)~~
+2023.7.11-2023.7.13
+
+# 电子科技大学
+
+~~【报名截止：2023.7.10】[高等研究院（深圳）](https://sias.uestc.edu.cn/info/1088/3358.htm)~~
+2023.7.12-2023.7.13
+
+~~【报名截止：2023.6.27】[信息与软件工程学院](https://sise.uestc.edu.cn/info/1026/10575.htm)~~
+2023.7.5-2023.7.6
+
+~~【报名截止：2023.6.25】[计算机学院](https://www.scse.uestc.edu.cn/info/1015/13809.htm)~~
+2023.7.4-2023.7.5
+
+~~【报名截止：2023.6.25】[网络空间安全学院](https://www.scse.uestc.edu.cn/info/1015/13809.htm)~~
+2023.7.4-2023.7.5
+
+~~【报名截止：2023.6.20】[基础与前沿研究院](https://www.iffs.uestc.edu.cn/info/1067/5580.htm)~~
 
 # 山东大学
 
@@ -620,32 +597,6 @@
 
 ~~【报名截止：2023.6.12】[西湖大学&浙江大学联培 直博](https://www.westlake.edu.cn/admissions_aid/shorttermprograms/tzgg/202304/t20230411_27260.shtml)~~
 
-# 西南大学
-
-~~【报名截止：2023.6.18】[计算机与信息科学学院 软件学院](http://cis.swu.edu.cn/info/1039/2504.htm)~~
-
-# 西南财经大学
-
-~~【报名截止：2023.6.29】[计算机与人工智能学院](https://it.swufe.edu.cn/info/1093/8302.htm)~~
-2023.7.10-2023.7.11
-
-# 上海大学
-
-~~【报名截止：2023.6.28】[通信与信息工程学院](https://scie.shu.edu.cn/info/1065/39724.htm)~~
-2023.7.5-2023.7.6
-
-# 江南大学
-
-~~【报名截止：2023.6.29】[人工智能与计算机学院](http://ai.jiangnan.edu.cn/info/1055/3110.htm)~~
-2023.7.3-2023.7.4
-
-~~【报名截止：2023.6.29】[物联网工程学院](http://iot.jiangnan.edu.cn/info/1055/5835.htm)~~
-2023.7.5-2023.7.6
-
-# 海南大学
-
-~~【报名截止：2023.6.18】[生物医学工程学院](https://hd.hainanu.edu.cn/shengyi/info/1051/2631.htm)~~
-
 # 北京工业大学
 
 > https://yanzhao.bjut.edu.cn/info/1025/6521.htm
@@ -666,6 +617,40 @@
 
 ~~【报名截止：2023.6.25】[计算机与信息技术学院](http://scit.bjtu.edu.cn/cms/item/5211.html)~~
 2023.7.5-2023.7.6
+
+# 西南大学
+
+~~【报名截止：2023.6.18】[计算机与信息科学学院 软件学院](http://cis.swu.edu.cn/info/1039/2504.htm)~~
+
+# 西南财经大学
+
+~~【报名截止：2023.6.29】[计算机与人工智能学院](https://it.swufe.edu.cn/info/1093/8302.htm)~~
+2023.7.10-2023.7.11
+
+# 西南交通大学
+
+~~【报名截止：2023.7.10】[计算机与人工智能学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=A49994D65FFC0734)~~
+2023.7.20-2023.7.22
+
+~~【报名截止：2023.6.30】[信息科学与技术学院](http://yz.swjtu.edu.cn/vatuu/PublicActivityAction?setAction=activityDetail&activityId=F3A41143A0F05E70)~~
+2023.7.20-2023.7.22
+
+# 上海大学
+
+~~【报名截止：2023.6.28】[通信与信息工程学院](https://scie.shu.edu.cn/info/1065/39724.htm)~~
+2023.7.5-2023.7.6
+
+# 江南大学
+
+~~【报名截止：2023.6.29】[人工智能与计算机学院](http://ai.jiangnan.edu.cn/info/1055/3110.htm)~~
+2023.7.3-2023.7.4
+
+~~【报名截止：2023.6.29】[物联网工程学院](http://iot.jiangnan.edu.cn/info/1055/5835.htm)~~
+2023.7.5-2023.7.6
+
+# 海南大学
+
+~~【报名截止：2023.6.18】[生物医学工程学院](https://hd.hainanu.edu.cn/shengyi/info/1051/2631.htm)~~
 
 # 武汉理工大学
 
@@ -723,6 +708,24 @@
 # 深圳大学
 
 ~~【报名截止：2023.6.20】[计算机与软件学院](https://mp.weixin.qq.com/s?__biz=MzkzMTI5NDYxOA==&mid=2247587818&idx=1&sn=41cb1434a5d65452891b012b54962d90&chksm=c26eeb1ff5196209399a9db60aff65ca5a471c32d328ef217e90e5cec1756862e259bb13be8f&mpshare=1&scene=23)~~
+
+# 江苏大学
+
+~~【报名截止：2023.7.10】[计算机科学与通信工程学院](https://cs.ujs.edu.cn/info/1428/33407.htm)~~
+2023.7.16-2023.7.23
+
+# 新疆大学
+
+~~【报名截止：2023.7.10】[软件学院](http://ss.xju.edu.cn/info/1033/2936.htm)~~
+2023.7.17-2023.7.18
+
+~~【报名截止：2023.7.9】[未来技术学院](http://wljs.xju.edu.cn/info/1031/1396.htm)~~
+2023.7.13-2023.7.14
+
+# 大连海事大学
+
+~~【报名截止：2023.7.10】[信息科学技术学院](https://ist.dlmu.edu.cn/info/1068/4218.htm)~~
+2023.7.19-2023.7.21
 
 # 致谢
 
