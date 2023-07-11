@@ -173,14 +173,6 @@
 
 【报名截止：2023.7.21】[计算机与通信工程学院](http://scce.ustb.edu.cn/xinwentongzhi/xueyuanxinwen/2023-07-08/2017.html)
 
-# 东北师范大学
-
-【报名截止：2023.7.12】[信息科学与技术学院](http://ist.nenu.edu.cn/info/1157/5137.htm)
-
-# 杭州电子科技大学
-
-【报名截止：2023.8.1】[智能信息处理实验室](https://mp.weixin.qq.com/s/eRH3XjcxzjGSw4MjDg_5gw)
-
 # 苏州大学
 
 【报名截止：2023.9.6】[计算机科学与技术学院 第二批](http://scst.suda.edu.cn/3a/ee/c29557a539374/page.htm)
@@ -188,6 +180,14 @@
 
 【报名截止：2023.8.13】[计算机科学与技术学院 第一批](http://scst.suda.edu.cn/3a/ee/c29557a539374/page.htm)
 2023.8.20
+
+# 东北师范大学
+
+【报名截止：2023.7.12】[信息科学与技术学院](http://ist.nenu.edu.cn/info/1157/5137.htm)
+
+# 杭州电子科技大学
+
+【报名截止：2023.8.1】[智能信息处理实验室](https://mp.weixin.qq.com/s/eRH3XjcxzjGSw4MjDg_5gw)
 
 # 北京大学
 
