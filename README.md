@@ -181,10 +181,6 @@
 【报名截止：2023.8.13】[计算机科学与技术学院 第一批](http://scst.suda.edu.cn/3a/ee/c29557a539374/page.htm)
 2023.8.20
 
-# 东北师范大学
-
-【报名截止：2023.7.12】[信息科学与技术学院](http://ist.nenu.edu.cn/info/1157/5137.htm)
-
 # 杭州电子科技大学
 
 【报名截止：2023.8.1】[智能信息处理实验室](https://mp.weixin.qq.com/s/eRH3XjcxzjGSw4MjDg_5gw)
@@ -678,6 +674,10 @@
 # 上海财经大学
 
 ~~【报名截止：2023.6.27】[交叉科学研究院](https://riis.sufe.edu.cn/jxChinese/0e/e8/c10268a200424/page.htm)~~
+
+# 东北师范大学
+
+~~【报名截止：2023.7.12】[信息科学与技术学院](http://ist.nenu.edu.cn/info/1157/5137.htm)~~
 
 # 华中师范大学
 
