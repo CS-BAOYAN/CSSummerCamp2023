@@ -35,6 +35,30 @@
 
 ~~【报名截止：2023.4.14】[统计学研究中心](http://www.stat.tsinghua.edu.cn/admissions/summer-camp-enroll/)~~
 
+# 上海交通大学
+
+> https://yzb.sjtu.edu.cn/info/1005/3697.htm
+
+【报名截止：2023.7.16】[溥渊未来技术学院](https://gift.sjtu.edu.cn/2023/0530/c2419a5020/page.htm)
+2023.7.28-2023.7.30
+
+~~【报名截止：2023.6.27】[密西根学院](https://www.ji.sjtu.edu.cn/cn/off-the-press-zh/2023-05-24/138602/)~~
+2023.7.12-2023.7.14
+
+~~【报名截止：2023.6.15】[电子信息与电气工程学院 计算机科学与工程系](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html)~~
+2023.7.3-2023.7.10
+
+~~【报名截止：2023.6.15】[电子信息与电气工程学院 电子工程系](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html)~~
+直博 2023.6.30 直硕 2023.7.11
+
+~~【报名截止：2023.6.15】[电子信息与电气工程学院 网络空间安全学院](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html)~~
+2023.7.5
+
+~~【报名截止：2023.6.15】[电子信息与电气工程学院 软件学院](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html)~~
+2023.7.12-2023-7.14
+
+~~【报名截止：2023.3.30】[密西根学院 “科研见习项目”](https://jwc.sjtu.edu.cn/info/1222/12276.htm)~~
+
 # 中国人民大学
 
 【报名截止：N/A】[AIM3 Lab](https://zhuanlan.zhihu.com/p/389474418)
@@ -210,27 +234,6 @@
 ~~【报名截止：2023.6.12】[前沿交叉学科研究院](http://www.aais.pku.edu.cn/tongzhi/shownews.php?lang=cn&id=1635)~~
 
 ~~【报名截止：2023.6.12】[工学院](https://www.coe.pku.edu.cn/graduate/notice/12117.html)~~
-
-# 上海交通大学
-
-> https://yzb.sjtu.edu.cn/info/1005/3697.htm
-
-~~【报名截止：2023.6.27】[密西根学院](https://www.ji.sjtu.edu.cn/cn/off-the-press-zh/2023-05-24/138602/)~~
-2023.7.12-2023.7.14
-
-~~【报名截止：2023.6.15】[电子信息与电气工程学院 计算机科学与工程系](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html)~~
-2023.7.3-2023.7.10
-
-~~【报名截止：2023.6.15】[电子信息与电气工程学院 电子工程系](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html)~~
-直博 2023.6.30 直硕 2023.7.11
-
-~~【报名截止：2023.6.15】[电子信息与电气工程学院 网络空间安全学院](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html)~~
-2023.7.5
-
-~~【报名截止：2023.6.15】[电子信息与电气工程学院 软件学院](https://www.seiee.sjtu.edu.cn/yjspy_zsgz_sszs/8154.html)~~
-2023.7.12-2023-7.14
-
-~~【报名截止：2023.3.30】[密西根学院 “科研见习项目”](https://jwc.sjtu.edu.cn/info/1222/12276.htm)~~
 
 # 浙江大学
 
