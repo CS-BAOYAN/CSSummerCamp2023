@@ -209,6 +209,10 @@
 
 【报名截止：2023.8.1】[智能信息处理实验室](https://mp.weixin.qq.com/s/eRH3XjcxzjGSw4MjDg_5gw)
 
+# 南京理工大学
+
+【报名截止：2023.7.24】[网络空间安全学院](https://mp.weixin.qq.com/s/siOa7-i-eK3YXaQgBOs5Hg)
+
 # 北京大学
 
 > https://admission.pku.edu.cn/xly/index.htm?CSRFT=F92S-Z8W8-ES9W-6BFM-W68T-OTF2-6VOU-KQN9
