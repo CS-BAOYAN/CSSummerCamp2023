@@ -565,7 +565,7 @@
 ~~【报名截止：2023.7.3】[自动化学院](http://accu.cqu.edu.cn/info/1028/6291.htm)~~
 2023.7.7-2023.7.8
 
-【报名截止：2023.7.18】[国家（重庆）卓越工程师学院](https://mp.weixin.qq.com/s/yp4hbN-TlpCZy1YNHirfnQ)
+~~【报名截止：2023.7.18】[国家（重庆）卓越工程师学院](https://mp.weixin.qq.com/s/yp4hbN-TlpCZy1YNHirfnQ)~~
 2023.7.21-2023.7.23
 
 # 华南理工大学
