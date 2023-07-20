@@ -8,33 +8,6 @@
 
 另附[【腾讯文档】2023夏令营预推免入营录取结果开奖表](https://docs.qq.com/sheet/DQlZSR1hKYUVTZ0hF?tab=BB08J2)，请使用**加入了绿群的QQ号登陆以查看文档，无须申请权限**。
 
-# 清华大学
-
-> https://yz.tsinghua.edu.cn/xlyxx.htm
-
-【报名截止：N/A】[智能产业研究院 AIR](https://mp.weixin.qq.com/s/SbJz9hzaaYDftQktzO70Qw)
-
-~~【报名截止：2023.6.20】[数据与信息研究院（深圳）](https://www.sigs.tsinghua.edu.cn/2023/0531/c120a63499/page.htm)~~
-
-~~【报名截止：2023.6.16】[国际开放创新教育中心（Open FIESTA）（深圳）](https://www.sigs.tsinghua.edu.cn/2023/0530/c120a63274/page.htm)~~
-
-~~【报名截止：2023.6.9】[集成电路学院](https://www.sic.tsinghua.edu.cn/info/1036/1892.htm)~~
-
-~~【报名截止：2023.6.9】[精密仪器系](https://mp.weixin.qq.com/s?srcid=0516yoq33IRsYhqXMLERqPFd&scene=23&sharer_sharetime=1684222587305&mid=2649760510&sharer_shareid=43d6ab70a5210e01418614ab72f7162b&sn=c48ec84432e8d9877ad62ad4fe11d3b9&idx=1&__biz=MzA5NjQ4ODkxMA%3D%3D&chksm=88abde5fbfdc5749a19aced64fd33668a4fa86b62aa1fd00991b417d9e5050eb6ae576eba195&mpshare=1#rd)~~
-
-~~【报名截止：2023.6.6】[计算机科学与技术系](https://www.cs.tsinghua.edu.cn/info/1048/5459.htm)~~
-2023.6.29-2023.7.1
-
-~~【报名截止：2023.6.6】[网络科学与网络空间研究院](https://www.insc.tsinghua.edu.cn/info/1179/3487.htm)~~
-2023.6.29-2023.7.1
-
-~~【报名截止：2023.5.15】[交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/2023/appinfo.php)~~
-2023.6.3-2023.6.4
-
-~~【报名截止：2023.4.30】[自动化系智能与网络化系统研究中心](https://mp.weixin.qq.com/s/V93_HfSlbGKiCPTlT2qaiA)~~
-
-~~【报名截止：2023.4.14】[统计学研究中心](http://www.stat.tsinghua.edu.cn/admissions/summer-camp-enroll/)~~
-
 # 中国人民大学
 
 【报名截止：N/A】[AIM3 Lab](https://zhuanlan.zhihu.com/p/389474418)
@@ -188,6 +161,33 @@
 # 南京理工大学
 
 【报名截止：2023.7.24】[网络空间安全学院](https://mp.weixin.qq.com/s/siOa7-i-eK3YXaQgBOs5Hg)
+
+# 清华大学
+
+> https://yz.tsinghua.edu.cn/xlyxx.htm
+
+~~【报名截止：N/A】[智能产业研究院 AIR](https://mp.weixin.qq.com/s/SbJz9hzaaYDftQktzO70Qw)~~
+
+~~【报名截止：2023.6.20】[数据与信息研究院（深圳）](https://www.sigs.tsinghua.edu.cn/2023/0531/c120a63499/page.htm)~~
+
+~~【报名截止：2023.6.16】[国际开放创新教育中心（Open FIESTA）（深圳）](https://www.sigs.tsinghua.edu.cn/2023/0530/c120a63274/page.htm)~~
+
+~~【报名截止：2023.6.9】[集成电路学院](https://www.sic.tsinghua.edu.cn/info/1036/1892.htm)~~
+
+~~【报名截止：2023.6.9】[精密仪器系](https://mp.weixin.qq.com/s?srcid=0516yoq33IRsYhqXMLERqPFd&scene=23&sharer_sharetime=1684222587305&mid=2649760510&sharer_shareid=43d6ab70a5210e01418614ab72f7162b&sn=c48ec84432e8d9877ad62ad4fe11d3b9&idx=1&__biz=MzA5NjQ4ODkxMA%3D%3D&chksm=88abde5fbfdc5749a19aced64fd33668a4fa86b62aa1fd00991b417d9e5050eb6ae576eba195&mpshare=1#rd)~~
+
+~~【报名截止：2023.6.6】[计算机科学与技术系](https://www.cs.tsinghua.edu.cn/info/1048/5459.htm)~~
+2023.6.29-2023.7.1
+
+~~【报名截止：2023.6.6】[网络科学与网络空间研究院](https://www.insc.tsinghua.edu.cn/info/1179/3487.htm)~~
+2023.6.29-2023.7.1
+
+~~【报名截止：2023.5.15】[交叉信息研究院](https://admission.iiis.tsinghua.edu.cn/2023/appinfo.php)~~
+2023.6.3-2023.6.4
+
+~~【报名截止：2023.4.30】[自动化系智能与网络化系统研究中心](https://mp.weixin.qq.com/s/V93_HfSlbGKiCPTlT2qaiA)~~
+
+~~【报名截止：2023.4.14】[统计学研究中心](http://www.stat.tsinghua.edu.cn/admissions/summer-camp-enroll/)~~
 
 # 北京大学
 
