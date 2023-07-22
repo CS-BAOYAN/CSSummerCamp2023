@@ -99,10 +99,6 @@
 
 ~~【报名截止：2023.6.14】[电子与信息学部 信息与通信工程学院](http://dice.xjtu.edu.cn/info/1009/2667.htm)~~
 
-# 北京科技大学
-
-【报名截止：2023.7.21】[计算机与通信工程学院](http://scce.ustb.edu.cn/xinwentongzhi/xueyuanxinwen/2023-07-08/2017.html)
-
 # 苏州大学
 
 【报名截止：2023.9.6】[计算机科学与技术学院 第二批](http://scst.suda.edu.cn/3a/ee/c29557a539374/page.htm)
@@ -623,6 +619,10 @@
 
 ~~【报名截止：2023.6.25】[计算机与信息技术学院](http://scit.bjtu.edu.cn/cms/item/5211.html)~~
 2023.7.5-2023.7.6
+
+# 北京科技大学
+
+~~【报名截止：2023.7.21】[计算机与通信工程学院](http://scce.ustb.edu.cn/xinwentongzhi/xueyuanxinwen/2023-07-08/2017.html)~~
 
 # 西南大学
 
