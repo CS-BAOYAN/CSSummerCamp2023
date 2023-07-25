@@ -111,10 +111,6 @@
 
 【报名截止：2023.8.1】[智能信息处理实验室](https://mp.weixin.qq.com/s/eRH3XjcxzjGSw4MjDg_5gw)
 
-# 南京理工大学
-
-【报名截止：2023.7.24】[网络空间安全学院](https://mp.weixin.qq.com/s/siOa7-i-eK3YXaQgBOs5Hg)
-
 # 清华大学
 
 > https://yz.tsinghua.edu.cn/xlyxx.htm
@@ -702,6 +698,10 @@
 # 南京信息工程大学
 
 ~~【报名截止：2023.6.15】[人工智能学院（未来技术学院）夏令营 第一轮](https://rgzn.nuist.edu.cn/info/1033/2842.htm)~~
+
+# 南京理工大学
+
+~~【报名截止：2023.7.24】[网络空间安全学院](https://mp.weixin.qq.com/s/siOa7-i-eK3YXaQgBOs5Hg)~~
 
 # 澳门大学
 
