@@ -99,6 +99,12 @@
 
 ~~【报名截止：2023.6.14】[电子与信息学部 信息与通信工程学院](http://dice.xjtu.edu.cn/info/1009/2667.htm)~~
 
+# 北京师范大学
+
+【报名截止：2023.8.18】[人工智能学院 第二轮](https://cist.bnu.edu.cn/tzgg/987d79703d024bc7882d492ca71c53f0.html)
+
+~~【报名截止：2023.6.26】[人工智能学院 第一轮](https://ai.bnu.edu.cn/tzgg/542aa8ea1b1a480bb5a86aebd7e3dcd6.html)~~
+
 # 苏州大学
 
 【报名截止：2023.9.6】[计算机科学与技术学院 第二批](http://scst.suda.edu.cn/3a/ee/c29557a539374/page.htm)
@@ -403,10 +409,6 @@
 ~~【报名截止：2023.6.15】[网络空间安全学院](https://cst.bit.edu.cn/xxfw/tzgg/9deff63fea694441a1ab4f8c95aae884.htm)~~
 
 ~~【报名截止：2023.6.14】[信息与电子学院](https://sie.bit.edu.cn/tzgg/zhtz/f24a00a759c14949a279295a55f51fa0.htm)~~
-
-# 北京师范大学
-
-~~【报名截止：2023.6.26】[人工智能学院](https://ai.bnu.edu.cn/tzgg/542aa8ea1b1a480bb5a86aebd7e3dcd6.html)~~
 
 # 华东师范大学
 > https://yjszs.ecnu.edu.cn/system/xlyjbxx_list.asp
