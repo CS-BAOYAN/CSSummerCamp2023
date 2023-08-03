@@ -83,6 +83,11 @@
 ~~【报名截止：2023.7.27】[自动化学院](https://automation.seu.edu.cn/2023/0705/c24460a450730/page.htm)~~
 2023.8.4-2023.8.6
 
+# 鹏城实验室
+
+【报名截止：2023.8.10】[鹏城实验室2023年科创营](http://yzw.pcl.edu.cn/yzs_new/zsxxxq/index?id=8f9c1d3ffa094a23842b8c422fbece97)
+2023.8.21-2023.8.23
+
 # 西安交通大学
 
 > https://yz.xjtu.edu.cn/a2023xly.htm
