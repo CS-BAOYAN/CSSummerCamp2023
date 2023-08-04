@@ -118,10 +118,6 @@
 【报名截止：2023.8.13】[计算机科学与技术学院 第一批](http://scst.suda.edu.cn/3a/ee/c29557a539374/page.htm)
 2023.8.20
 
-# 杭州电子科技大学
-
-【报名截止：2023.8.1】[智能信息处理实验室](https://mp.weixin.qq.com/s/eRH3XjcxzjGSw4MjDg_5gw)
-
 # 清华大学
 
 > https://yz.tsinghua.edu.cn/xlyxx.htm
@@ -709,6 +705,10 @@
 # 南京理工大学
 
 ~~【报名截止：2023.7.24】[网络空间安全学院](https://mp.weixin.qq.com/s/siOa7-i-eK3YXaQgBOs5Hg)~~
+
+# 杭州电子科技大学
+
+~~【报名截止：2023.8.1】[智能信息处理实验室](https://mp.weixin.qq.com/s/eRH3XjcxzjGSw4MjDg_5gw)~~
 
 # 澳门大学
 
