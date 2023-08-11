@@ -10,7 +10,7 @@
 
 # 鹏城实验室
 
-【报名截止：2023.8.10】[鹏城实验室 科创营](http://yzw.pcl.edu.cn/yzs_new/zsxxxq/index?id=8f9c1d3ffa094a23842b8c422fbece97)
+~~【报名截止：2023.8.10】[鹏城实验室 科创营](http://yzw.pcl.edu.cn/yzs_new/zsxxxq/index?id=8f9c1d3ffa094a23842b8c422fbece97)~~
 2023.8.21-2023.8.23
 
 # 中国人民大学
@@ -70,10 +70,10 @@
 
 > https://yzb.seu.edu.cn/2023/0616/c6676a448788/page.htm
 
-【报名截止：2023.8.10】[信息科学与工程学院](https://radio.seu.edu.cn/2023/0629/c19195a449917/page.htm)
+~~【报名截止：2023.8.10】[信息科学与工程学院](https://radio.seu.edu.cn/2023/0629/c19195a449917/page.htm)~~
 2023.8.26
 
-【报名截止：2023.8.10】[集成电路学院](https://ic.seu.edu.cn/2023/0707/c47765a451015/page.htm)
+~~【报名截止：2023.8.10】[集成电路学院](https://ic.seu.edu.cn/2023/0707/c47765a451015/page.htm)~~
 线上：2023.8.21 线下：2023.8.26-2023.8.27
 
 ~~【报名截止：2023.8.5】[计算机科学与工程学院](https://cse.seu.edu.cn/2023/0627/c22646a449677/page.htm)~~
