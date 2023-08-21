@@ -58,9 +58,9 @@
 
 ## 高金
 
-【报名截止：2023.6.25】[夏令营 直博](https://phd.saif.sjtu.edu.cn/show-204-326.html)
+~~【报名截止：2023.6.25】[夏令营 直博](https://phd.saif.sjtu.edu.cn/show-204-326.html)~~
 
-【报名截止：2023.6.25】[夏令营 金融硕士](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)
+~~【报名截止：2023.6.25】[夏令营 金融硕士](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)~~
 
 ~~【报名截止：2023.5.14】[迷你营4 北京](https://mp.weixin.qq.com/s/InEMBCqErZ3-K-3BV8_TKA)~~
 
